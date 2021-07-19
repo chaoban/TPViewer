@@ -1,0 +1,10031 @@
+Frame: 1
+Queue is empty.
+Frame: 2
+Queue is empty.
+Frame: 3
+Queue is empty.
+Frame: 4
+Queue is empty.
+Frame: 5
+Queue is empty.
+Frame: 6
+Queue is empty.
+Frame: 7
+Queue is empty.
+Frame: 8
+Queue is empty.
+Frame: 9
+Queue is empty.
+Frame: 10
+Queue is empty.
+Frame: 11
+Queue is empty.
+Frame: 12
+Queue is empty.
+Frame: 13
+Queue is empty.
+Frame: 14
+Queue is empty.
+Frame: 15
+Queue is empty.
+Frame: 16
+Queue is empty.
+Frame: 17
+Queue is empty.
+Frame: 18
+Queue is empty.
+Frame: 19
+Queue is empty.
+Frame: 20
+Queue is empty.
+Frame: 21
+Queue is empty.
+Frame: 22
+Queue is empty.
+Frame: 23
+Queue is empty.
+Frame: 24
+Queue is empty.
+Frame: 25
+Queue is empty.
+Frame: 26
+Queue is empty.
+Frame: 27
+Queue is empty.
+Frame: 28
+Queue is empty.
+Frame: 29
+Queue is empty.
+Frame: 30
+Queue is empty.
+Frame: 31
+Queue is empty.
+Frame: 32
+Queue is empty.
+Frame: 33
+Queue is empty.
+Frame: 34
+Queue is empty.
+Frame: 35
+Queue is empty.
+Frame: 36
+Queue is empty.
+Frame: 37
+Queue is empty.
+Frame: 38
+Queue is empty.
+Frame: 39
+Queue is empty.
+Frame: 40
+Queue is empty.
+Frame: 41
+Queue is empty.
+Frame: 42
+Queue is empty.
+Frame: 43
+Queue is empty.
+Frame: 44
+Queue is empty.
+Frame: 45
+Queue is empty.
+Frame: 46
+Queue is empty.
+Frame: 47
+Queue is empty.
+Frame: 48
+Queue is empty.
+Frame: 49
+Queue is empty.
+Frame: 50
+Queue is empty.
+Frame: 51
+Queue is empty.
+Frame: 52
+Queue is empty.
+Frame: 53
+Queue is empty.
+Frame: 54
+Queue is empty.
+Frame: 55
+Queue is empty.
+Frame: 56
+Queue is empty.
+Frame: 57
+Queue is empty.
+Frame: 58
+Queue is empty.
+Frame: 59
+Queue is empty.
+Frame: 60
+Queue is empty.
+Frame: 61
+Queue is empty.
+Frame: 62
+Queue is empty.
+Frame: 63
+Queue is empty.
+Frame: 64
+Queue is empty.
+Frame: 65
+Queue is empty.
+Frame: 66
+Queue is empty.
+Frame: 67
+Queue is empty.
+Frame: 68
+Queue is empty.
+Frame: 69
+Queue is empty.
+Frame: 70
+Queue is empty.
+Frame: 71
+Queue is empty.
+Frame: 72
+Queue is empty.
+Frame: 73
+Queue is empty.
+Frame: 74
+Queue is empty.
+Frame: 75
+Queue is empty.
+Frame: 76
+Queue is empty.
+Frame: 77
+Queue is empty.
+Frame: 78
+Queue is empty.
+Frame: 79
+Queue is empty.
+Frame: 80
+Queue is empty.
+Frame: 81
+Queue is empty.
+Frame: 82
+Queue is empty.
+Frame: 83
+Queue is empty.
+Frame: 84
+Queue is empty.
+Frame: 85
+Queue is empty.
+Frame: 86
+Queue is empty.
+Frame: 87
+Queue is empty.
+Frame: 88
+Queue is empty.
+Frame: 89
+Queue is empty.
+Frame: 90
+Queue is empty.
+Frame: 91
+Queue is empty.
+Frame: 92
+Queue is empty.
+Frame: 93
+Queue is empty.
+Frame: 94
+Queue is empty.
+Frame: 95
+Queue is empty.
+Frame: 96
+Queue is empty.
+Frame: 97
+Queue is empty.
+Frame: 98
+Queue is empty.
+Frame: 99
+Queue is empty.
+Frame: 100
+Queue is empty.
+Frame: 101
+Queue is empty.
+Frame: 102
+Queue is empty.
+Frame: 103
+Queue is empty.
+Frame: 104
+Queue is empty.
+Frame: 105
+Queue is empty.
+Frame: 106
+Queue is empty.
+Frame: 107
+Queue is empty.
+Frame: 108
+Queue is empty.
+Frame: 109
+Queue is empty.
+Frame: 110
+Queue is empty.
+Frame: 111
+Queue is empty.
+Frame: 112
+Queue is empty.
+Frame: 113
+Queue is empty.
+Frame: 114
+Queue is empty.
+Frame: 115
+Queue is empty.
+Frame: 116
+Queue is empty.
+Frame: 117
+Queue is empty.
+Frame: 118
+Queue is empty.
+Frame: 119
+Queue is empty.
+Frame: 120
+Queue is empty.
+Frame: 121
+Queue is empty.
+Frame: 122
+Queue is empty.
+Frame: 123
+Queue is empty.
+Frame: 124
+Queue is empty.
+Frame: 125
+Queue is empty.
+Frame: 126
+Queue is empty.
+Frame: 127
+Queue is empty.
+Frame: 128
+Queue is empty.
+Frame: 129
+Queue is empty.
+Frame: 130
+Queue is empty.
+Frame: 131
+Queue is empty.
+Frame: 132
+Queue is empty.
+Frame: 133
+Queue is empty.
+Frame: 134
+Queue is empty.
+Frame: 135
+Queue is empty.
+Frame: 136
+Queue is empty.
+Frame: 137
+Queue is empty.
+Frame: 138
+Queue is empty.
+Frame: 139
+Queue is empty.
+Frame: 140
+Queue is empty.
+Frame: 141
+Queue is empty.
+Frame: 142
+Queue is empty.
+Frame: 143
+Queue is empty.
+Frame: 144
+Queue is empty.
+Frame: 145
+Queue is empty.
+Frame: 146
+Queue is empty.
+Frame: 147
+Queue is empty.
+Frame: 148
+Queue is empty.
+Frame: 149
+Queue is empty.
+Frame: 150
+Queue is empty.
+Frame: 151
+Queue is empty.
+Frame: 152
+Queue is empty.
+Frame: 153
+Queue is empty.
+Frame: 154
+Queue is empty.
+Frame: 155
+Queue is empty.
+Frame: 156
+Queue is empty.
+Frame: 157
+Queue is empty.
+Frame: 158
+Queue is empty.
+Frame: 159
+Queue is empty.
+Frame: 160
+Queue is empty.
+Frame: 161
+Queue is empty.
+Frame: 162
+Queue is empty.
+Frame: 163
+Queue is empty.
+Frame: 164
+Queue is empty.
+Frame: 165
+Queue is empty.
+Frame: 166
+Queue is empty.
+Frame: 167
+Queue is empty.
+Frame: 168
+Queue is empty.
+Frame: 169
+Queue is empty.
+Frame: 170
+Queue is empty.
+Frame: 171
+Queue is empty.
+Frame: 172
+Queue is empty.
+Frame: 173
+Queue is empty.
+Frame: 174
+Queue is empty.
+Frame: 175
+Queue is empty.
+Frame: 176
+Queue is empty.
+Frame: 177
+Queue is empty.
+Frame: 178
+Queue is empty.
+Frame: 179
+Queue is empty.
+Frame: 180
+Queue is empty.
+Frame: 181
+Queue is empty.
+Frame: 182
+Queue is empty.
+Frame: 183
+Queue is empty.
+Frame: 184
+Queue is empty.
+Frame: 185
+Queue is empty.
+Frame: 186
+Queue is empty.
+Frame: 187
+Queue is empty.
+Frame: 188
+Queue is empty.
+Frame: 189
+Queue is empty.
+Frame: 190
+Queue is empty.
+Frame: 191
+Queue is empty.
+Frame: 192
+Queue is empty.
+Frame: 193
+Queue is empty.
+Frame: 194
+Queue is empty.
+Frame: 195
+Queue is empty.
+Frame: 196
+Queue is empty.
+Frame: 197
+Queue is empty.
+Frame: 198
+Queue is empty.
+Frame: 199
+Queue is empty.
+Frame: 200
+Queue is empty.
+Frame: 201
+Queue is empty.
+Frame: 202
+Queue is empty.
+Frame: 203
+Queue is empty.
+Frame: 204
+Queue is empty.
+Frame: 205
+Queue is empty.
+Frame: 206
+Queue is empty.
+Frame: 207
+Queue is empty.
+Frame: 208
+Queue is empty.
+Frame: 209
+Queue is empty.
+Frame: 210
+Queue is empty.
+Frame: 211
+Queue is empty.
+Frame: 212
+Queue is empty.
+Frame: 213
+Queue is empty.
+Frame: 214
+Queue is empty.
+Frame: 215
+Queue is empty.
+Frame: 216
+Queue is empty.
+Frame: 217
+Queue is empty.
+Frame: 218
+Queue is empty.
+Frame: 219
+Queue is empty.
+Frame: 220
+Queue is empty.
+Frame: 221
+Queue is empty.
+Frame: 222
+Queue is empty.
+Frame: 223
+Queue is empty.
+Frame: 224
+Queue is empty.
+Frame: 225
+Queue is empty.
+Frame: 226
+Queue is empty.
+Frame: 227
+Queue is empty.
+Frame: 228
+Queue is empty.
+Frame: 229
+Queue is empty.
+Frame: 230
+Queue is empty.
+Frame: 231
+Queue is empty.
+Frame: 232
+Queue is empty.
+Frame: 233
+Queue is empty.
+Frame: 234
+Queue is empty.
+Frame: 235
+Queue is empty.
+Frame: 236
+Queue is empty.
+Frame: 237
+Queue is empty.
+Frame: 238
+Queue is empty.
+Frame: 239
+Queue is empty.
+Frame: 240
+Queue is empty.
+Frame: 241
+Queue is empty.
+Frame: 242
+Queue is empty.
+Frame: 243
+Queue is empty.
+Frame: 244
+Queue is empty.
+Frame: 245
+Queue is empty.
+Frame: 246
+Queue is empty.
+Frame: 247
+Queue is empty.
+Frame: 248
+Queue is empty.
+Frame: 249
+Queue is empty.
+Frame: 250
+Queue is empty.
+Frame: 251
+Queue is empty.
+Frame: 252
+Queue is empty.
+Frame: 253
+Queue is empty.
+Frame: 254
+Queue is empty.
+Frame: 255
+Queue is empty.
+Frame: 256
+Queue is empty.
+Frame: 257
+Queue is empty.
+Frame: 258
+Queue is empty.
+Frame: 259
+Queue is empty.
+Frame: 260
+Queue is empty.
+Frame: 261
+Queue is empty.
+Frame: 262
+Queue is empty.
+Frame: 263
+Queue is empty.
+Frame: 264
+Queue is empty.
+Frame: 265
+Queue is empty.
+Frame: 266
+Queue is empty.
+Frame: 267
+Queue is empty.
+Frame: 268
+Queue is empty.
+Frame: 269
+Queue is empty.
+Frame: 270
+Queue is empty.
+Frame: 271
+Queue is empty.
+Frame: 272
+Queue is empty.
+Frame: 273
+Queue is empty.
+Frame: 274
+Queue is empty.
+Frame: 275
+Queue is empty.
+Frame: 276
+Queue is empty.
+Frame: 277
+Queue is empty.
+Frame: 278
+Queue is empty.
+Frame: 279
+Queue is empty.
+Frame: 280
+Queue is empty.
+Frame: 281
+Queue is empty.
+Frame: 282
+Queue is empty.
+Frame: 283
+Queue is empty.
+Frame: 284
+Queue is empty.
+Frame: 285
+Queue is empty.
+Frame: 286
+Queue is empty.
+Frame: 287
+Queue is empty.
+Frame: 288
+Queue is empty.
+Frame: 289
+Queue is empty.
+Frame: 290
+Queue is empty.
+Frame: 291
+Queue is empty.
+Frame: 292
+Queue is empty.
+Frame: 293
+Queue is empty.
+Frame: 294
+Queue is empty.
+Frame: 295
+Queue is empty.
+Frame: 296
+Queue is empty.
+Frame: 297
+Queue is empty.
+Frame: 298
+Queue is empty.
+Frame: 299
+Queue is empty.
+Frame: 300
+Queue is empty.
+Frame: 301
+Queue is empty.
+Frame: 302
+Queue is empty.
+Frame: 303
+Queue is empty.
+Frame: 304
+Queue is empty.
+Frame: 305
+Queue is empty.
+Frame: 306
+Queue is empty.
+Frame: 307
+Queue is empty.
+Frame: 308
+Queue is empty.
+Frame: 309
+Queue is empty.
+Frame: 310
+Queue is empty.
+Frame: 311
+Queue is empty.
+Frame: 312
+Queue is empty.
+Frame: 313
+Queue is empty.
+Frame: 314
+Queue is empty.
+Frame: 315
+Queue is empty.
+Frame: 316
+Queue is empty.
+Frame: 317
+Queue is empty.
+Frame: 318
+Queue is empty.
+Frame: 319
+Queue is empty.
+Frame: 320
+Queue is empty.
+Frame: 321
+Queue is empty.
+Frame: 322
+Queue is empty.
+Frame: 323
+Queue is empty.
+Frame: 324
+Queue is empty.
+Frame: 325
+Queue is empty.
+Frame: 326
+Queue is empty.
+Frame: 327
+Queue is empty.
+Frame: 328
+Queue is empty.
+Frame: 329
+Queue is empty.
+Frame: 330
+Queue is empty.
+Frame: 331
+Queue is empty.
+Frame: 332
+Queue is empty.
+Frame: 333
+Queue is empty.
+Frame: 334
+Queue is empty.
+Frame: 335
+Queue is empty.
+Frame: 336
+Queue is empty.
+Frame: 337
+Queue is empty.
+Frame: 338
+Queue is empty.
+Frame: 339
+Queue is empty.
+Frame: 340
+Queue is empty.
+Frame: 341
+Queue is empty.
+Frame: 342
+Queue is empty.
+Frame: 343
+Queue is empty.
+Frame: 344
+Queue is empty.
+Frame: 345
+Queue is empty.
+Frame: 346
+Queue is empty.
+Frame: 347
+Queue is empty.
+Frame: 348
+Queue is empty.
+Frame: 349
+Queue is empty.
+Frame: 350
+Queue is empty.
+Frame: 351
+Queue is empty.
+Frame: 352
+Queue is empty.
+Frame: 353
+Queue is empty.
+Frame: 354
+Queue is empty.
+Frame: 355
+Queue is empty.
+Frame: 356
+Queue is empty.
+Frame: 357
+Queue is empty.
+Frame: 358
+Queue is empty.
+Frame: 359
+Queue is empty.
+Frame: 360
+Queue is empty.
+Frame: 361
+Queue is empty.
+Frame: 362
+Queue is empty.
+Frame: 363
+Queue is empty.
+Frame: 364
+Queue is empty.
+Frame: 365
+Queue is empty.
+Frame: 366
+Queue is empty.
+Frame: 367
+Queue is empty.
+Frame: 368
+Queue is empty.
+Frame: 369
+Queue is empty.
+Frame: 370
+Queue is empty.
+Frame: 371
+Queue is empty.
+Frame: 372
+Queue is empty.
+Frame: 373
+Queue is empty.
+Frame: 374
+Queue is empty.
+Frame: 375
+Queue is empty.
+Frame: 376
+Queue is empty.
+Frame: 377
+Queue is empty.
+Frame: 378
+Queue is empty.
+Frame: 379
+Queue is empty.
+Frame: 380
+Queue is empty.
+Frame: 381
+Queue is empty.
+Frame: 382
+Queue is empty.
+Frame: 383
+Queue is empty.
+Frame: 384
+Queue is empty.
+Frame: 385
+Queue is empty.
+Frame: 386
+Queue is empty.
+Frame: 387
+Queue is empty.
+Frame: 388
+Queue is empty.
+Frame: 389
+Queue is empty.
+Frame: 390
+Queue is empty.
+Frame: 391
+Queue is empty.
+Frame: 392
+Queue is empty.
+Frame: 393
+Queue is empty.
+Frame: 394
+Queue is empty.
+Frame: 395
+Queue is empty.
+Frame: 396
+Queue is empty.
+Frame: 397
+Queue is empty.
+Frame: 398
+Queue is empty.
+Frame: 399
+Queue is empty.
+Frame: 400
+Queue is empty.
+Frame: 401
+Queue is empty.
+Frame: 402
+Queue is empty.
+Frame: 403
+Queue is empty.
+Frame: 404
+Queue is empty.
+Frame: 405
+Queue is empty.
+Frame: 406
+Queue is empty.
+Frame: 407
+Queue is empty.
+Frame: 408
+Queue is empty.
+Frame: 409
+Queue is empty.
+Frame: 410
+Queue is empty.
+Frame: 411
+Queue is empty.
+Frame: 412
+Queue is empty.
+Frame: 413
+Queue is empty.
+Frame: 414
+Queue is empty.
+Frame: 415
+Queue is empty.
+Frame: 416
+Queue is empty.
+Frame: 417
+Queue is empty.
+Frame: 418
+Queue is empty.
+Frame: 419
+Queue is empty.
+Frame: 420
+Queue is empty.
+Frame: 421
+Queue is empty.
+Frame: 422
+Queue is empty.
+Frame: 423
+Queue is empty.
+Frame: 424
+Queue is empty.
+Frame: 425
+Queue is empty.
+Frame: 426
+Queue is empty.
+Frame: 427
+Queue is empty.
+Frame: 428
+Queue is empty.
+Frame: 429
+Queue is empty.
+Frame: 430
+Queue is empty.
+Frame: 431
+Queue is empty.
+Frame: 432
+Queue is empty.
+Frame: 433
+Queue is empty.
+Frame: 434
+Queue is empty.
+Frame: 435
+Queue is empty.
+Frame: 436
+Queue is empty.
+Frame: 437
+Queue is empty.
+Frame: 438
+Queue is empty.
+Frame: 439
+Queue is empty.
+Frame: 440
+Queue is empty.
+Frame: 441
+Queue is empty.
+Frame: 442
+Queue is empty.
+Frame: 443
+Queue is empty.
+Frame: 444
+Queue is empty.
+Frame: 445
+Queue is empty.
+Frame: 446
+Queue is empty.
+Frame: 447
+Queue is empty.
+Frame: 448
+Queue is empty.
+Frame: 449
+Queue is empty.
+Frame: 450
+Queue is empty.
+Frame: 451
+Queue is empty.
+Frame: 452
+Queue is empty.
+Frame: 453
+Queue is empty.
+Frame: 454
+Queue is empty.
+Frame: 455
+Queue is empty.
+Frame: 456
+Queue is empty.
+Frame: 457
+Queue is empty.
+Frame: 458
+Queue is empty.
+Frame: 459
+Queue is empty.
+Frame: 460
+Queue is empty.
+Frame: 461
+Queue is empty.
+Frame: 462
+Queue is empty.
+Frame: 463
+Queue is empty.
+Frame: 464
+Queue is empty.
+Frame: 465
+Queue is empty.
+Frame: 466
+Queue is empty.
+Frame: 467
+Queue is empty.
+Frame: 468
+Queue is empty.
+Frame: 469
+Queue is empty.
+Frame: 470
+Queue is empty.
+Frame: 471
+Queue is empty.
+Frame: 472
+Queue is empty.
+Frame: 473
+Queue is empty.
+Frame: 474
+Queue is empty.
+Frame: 475
+Queue is empty.
+Frame: 476
+Queue is empty.
+Frame: 477
+Queue is empty.
+Frame: 478
+Queue is empty.
+Frame: 479
+Queue is empty.
+Frame: 480
+Queue is empty.
+Frame: 481
+Queue is empty.
+Frame: 482
+Queue is empty.
+Frame: 483
+Queue is empty.
+Frame: 484
+Queue is empty.
+Frame: 485
+Queue is empty.
+Frame: 486
+Queue is empty.
+Frame: 487
+Queue is empty.
+Frame: 488
+Queue is empty.
+Frame: 489
+Queue is empty.
+Frame: 490
+Queue is empty.
+Frame: 491
+Queue is empty.
+Frame: 492
+Queue is empty.
+Frame: 493
+Queue is empty.
+Frame: 494
+Queue is empty.
+Frame: 495
+Queue is empty.
+Frame: 496
+Queue is empty.
+Frame: 497
+Queue is empty.
+Frame: 498
+Queue is empty.
+Frame: 499
+Queue is empty.
+Frame: 500
+Queue is empty.
+Frame: 501
+Queue is empty.
+Frame: 502
+Queue is empty.
+Frame: 503
+Queue is empty.
+Frame: 504
+Queue is empty.
+Frame: 505
+Queue is empty.
+Frame: 506
+Queue is empty.
+Frame: 507
+Queue is empty.
+Frame: 508
+Queue is empty.
+Frame: 509
+Queue is empty.
+Frame: 510
+Queue is empty.
+Frame: 511
+Queue is empty.
+Frame: 512
+Queue is empty.
+Frame: 513
+Queue is empty.
+Frame: 514
+Queue is empty.
+Frame: 515
+Queue is empty.
+Frame: 516
+Queue is empty.
+Frame: 517
+Queue is empty.
+Frame: 518
+Queue is empty.
+Frame: 519
+Queue is empty.
+Frame: 520
+Queue is empty.
+Frame: 521
+Queue is empty.
+Frame: 522
+Queue is empty.
+Frame: 523
+Queue is empty.
+Frame: 524
+Queue is empty.
+Frame: 525
+Queue is empty.
+Frame: 526
+Queue is empty.
+Frame: 527
+Queue is empty.
+Frame: 528
+Queue is empty.
+Frame: 529
+Queue is empty.
+Frame: 530
+Queue is empty.
+Frame: 531
+Queue is empty.
+Frame: 532
+Queue is empty.
+Frame: 533
+Queue is empty.
+Frame: 534
+Queue is empty.
+Frame: 535
+Queue is empty.
+Frame: 536
+Queue is empty.
+Frame: 537
+Queue is empty.
+Frame: 538
+Queue is empty.
+Frame: 539
+Queue is empty.
+Frame: 540
+Queue is empty.
+Frame: 541
+Queue is empty.
+Frame: 542
+Queue is empty.
+Frame: 543
+Queue is empty.
+Frame: 544
+Queue is empty.
+Frame: 545
+Queue is empty.
+Frame: 546
+Queue is empty.
+Frame: 547
+Queue is empty.
+Frame: 548
+Queue is empty.
+Frame: 549
+Queue is empty.
+Frame: 550
+Queue is empty.
+Frame: 551
+Queue is empty.
+Frame: 552
+Queue is empty.
+Frame: 553
+Queue is empty.
+Frame: 554
+Queue is empty.
+Frame: 555
+Queue is empty.
+Frame: 556
+Queue is empty.
+Frame: 557
+Queue is empty.
+Frame: 558
+Queue is empty.
+Frame: 559
+Queue is empty.
+Frame: 560
+Queue is empty.
+Frame: 561
+Queue is empty.
+Frame: 562
+Queue is empty.
+Frame: 563
+Queue is empty.
+Frame: 564
+Queue is empty.
+Frame: 565
+Queue is empty.
+Frame: 566
+Queue is empty.
+Frame: 567
+Queue is empty.
+Frame: 568
+Queue is empty.
+Frame: 569
+Queue is empty.
+Frame: 570
+Queue is empty.
+Frame: 571
+Queue is empty.
+Frame: 572
+Queue is empty.
+Frame: 573
+Queue is empty.
+Frame: 574
+Queue is empty.
+Frame: 575
+Queue is empty.
+Frame: 576
+Queue is empty.
+Frame: 577
+Queue is empty.
+Frame: 578
+Queue is empty.
+Frame: 579
+Queue is empty.
+Frame: 580
+Queue is empty.
+Frame: 581
+Queue is empty.
+Frame: 582
+Queue is empty.
+Frame: 583
+Queue is empty.
+Frame: 584
+Queue is empty.
+Frame: 585
+Queue is empty.
+Frame: 586
+Queue is empty.
+Frame: 587
+Queue is empty.
+Frame: 588
+Queue is empty.
+Frame: 589
+Queue is empty.
+Frame: 590
+Queue is empty.
+Frame: 591
+Queue is empty.
+Frame: 592
+Queue is empty.
+Frame: 593
+Queue is empty.
+Frame: 594
+Queue is empty.
+Frame: 595
+Queue is empty.
+Frame: 596
+Queue is empty.
+Frame: 597
+Queue is empty.
+Frame: 598
+Queue is empty.
+Frame: 599
+Queue is empty.
+Frame: 600
+Queue is empty.
+Frame: 601
+Queue is empty.
+Frame: 602
+Queue is empty.
+Frame: 603
+Queue is empty.
+Frame: 604
+Queue is empty.
+Frame: 605
+Queue is empty.
+Frame: 606
+Queue is empty.
+Frame: 607
+Queue is empty.
+Frame: 608
+Queue is empty.
+Frame: 609
+Queue is empty.
+Frame: 610
+Queue is empty.
+Frame: 611
+Queue is empty.
+Frame: 612
+Queue is empty.
+Frame: 613
+Queue is empty.
+Frame: 614
+Queue is empty.
+Frame: 615
+Queue is empty.
+Frame: 616
+Queue is empty.
+Frame: 617
+Queue is empty.
+Frame: 618
+Queue is empty.
+Frame: 619
+Queue is empty.
+Frame: 620
+Queue is empty.
+Frame: 621
+Queue is empty.
+Frame: 622
+Queue is empty.
+Frame: 623
+Queue is empty.
+Frame: 624
+Queue is empty.
+Frame: 625
+Queue is empty.
+Frame: 626
+Queue is empty.
+Frame: 627
+Queue is empty.
+Frame: 628
+Queue is empty.
+Frame: 629
+Queue is empty.
+Frame: 630
+Queue is empty.
+Frame: 631
+Queue is empty.
+Frame: 632
+Queue is empty.
+Frame: 633
+Queue is empty.
+Frame: 634
+Queue is empty.
+Frame: 635
+Queue is empty.
+Frame: 636
+Queue is empty.
+Frame: 637
+Queue is empty.
+Frame: 638
+Queue is empty.
+Frame: 639
+Queue is empty.
+Frame: 640
+Queue is empty.
+Frame: 641
+Queue is empty.
+Frame: 642
+Queue is empty.
+Frame: 643
+Queue is empty.
+Frame: 644
+Queue is empty.
+Frame: 645
+Queue is empty.
+Frame: 646
+Queue is empty.
+Frame: 647
+Queue is empty.
+Frame: 648
+Queue is empty.
+Frame: 649
+Queue is empty.
+Frame: 650
+Queue is empty.
+Frame: 651
+Queue is empty.
+Frame: 652
+Queue is empty.
+Frame: 653
+Queue is empty.
+Frame: 654
+Queue is empty.
+Frame: 655
+Queue is empty.
+Frame: 656
+Queue is empty.
+Frame: 657
+Queue is empty.
+Frame: 658
+Queue is empty.
+Frame: 659
+Queue is empty.
+Frame: 660
+Queue is empty.
+Frame: 661
+Queue is empty.
+Frame: 662
+Queue is empty.
+Frame: 663
+Queue is empty.
+Frame: 664
+Queue is empty.
+Frame: 665
+Queue is empty.
+Frame: 666
+Queue is empty.
+Frame: 667
+Queue is empty.
+Frame: 668
+Queue is empty.
+Frame: 669
+Queue is empty.
+Frame: 670
+Queue is empty.
+Frame: 671
+Queue is empty.
+Frame: 672
+Queue is empty.
+Frame: 673
+Queue is empty.
+Frame: 674
+Queue is empty.
+Frame: 675
+Queue is empty.
+Frame: 676
+Queue is empty.
+Frame: 677
+Queue is empty.
+Frame: 678
+Queue is empty.
+Frame: 679
+Queue is empty.
+Frame: 680
+Queue is empty.
+Frame: 681
+Queue is empty.
+Frame: 682
+Queue is empty.
+Frame: 683
+Queue is empty.
+Frame: 684
+Queue is empty.
+Frame: 685
+Queue is empty.
+Frame: 686
+Queue is empty.
+Frame: 687
+Queue is empty.
+Frame: 688
+Queue is empty.
+Frame: 689
+Queue is empty.
+Frame: 690
+Queue is empty.
+Frame: 691
+Queue is empty.
+Frame: 692
+Queue is empty.
+Frame: 693
+Queue is empty.
+Frame: 694
+Queue is empty.
+Frame: 695
+Queue is empty.
+Frame: 696
+Queue is empty.
+Frame: 697
+Queue is empty.
+Frame: 698
+Queue is empty.
+Frame: 699
+Queue is empty.
+Frame: 700
+Queue is empty.
+Frame: 701
+Queue is empty.
+Frame: 702
+Queue is empty.
+Frame: 703
+Queue is empty.
+Frame: 704
+Queue is empty.
+Frame: 705
+Queue is empty.
+Frame: 706
+Queue is empty.
+Frame: 707
+Queue is empty.
+Frame: 708
+Queue is empty.
+Frame: 709
+Queue is empty.
+Frame: 710
+Queue is empty.
+Frame: 711
+Queue is empty.
+Frame: 712
+Queue is empty.
+Frame: 713
+Queue is empty.
+Frame: 714
+Queue is empty.
+Frame: 715
+Queue is empty.
+Frame: 716
+Queue is empty.
+Frame: 717
+Queue is empty.
+Frame: 718
+Queue is empty.
+Frame: 719
+Queue is empty.
+Frame: 720
+Queue is empty.
+Frame: 721
+Queue is empty.
+Frame: 722
+Queue is empty.
+Frame: 723
+Queue is empty.
+Frame: 724
+Queue is empty.
+Frame: 725
+Queue is empty.
+Frame: 726
+Queue is empty.
+Frame: 727
+Queue is empty.
+Frame: 728
+Queue is empty.
+Frame: 729
+Queue is empty.
+Frame: 730
+Queue is empty.
+Frame: 731
+Queue is empty.
+Frame: 732
+Queue is empty.
+Frame: 733
+Queue is empty.
+Frame: 734
+Queue is empty.
+Frame: 735
+Queue is empty.
+Frame: 736
+Queue is empty.
+Frame: 737
+Queue is empty.
+Frame: 738
+Queue is empty.
+Frame: 739
+Queue is empty.
+Frame: 740
+Queue is empty.
+Frame: 741
+Queue is empty.
+Frame: 742
+Queue is empty.
+Frame: 743
+Queue is empty.
+Frame: 744
+Queue is empty.
+Frame: 745
+Queue is empty.
+Frame: 746
+Queue is empty.
+Frame: 747
+Queue is empty.
+Frame: 748
+Queue is empty.
+Frame: 749
+Queue is empty.
+Frame: 750
+Queue is empty.
+Frame: 751
+Queue is empty.
+Frame: 752
+Queue is empty.
+Frame: 753
+Queue is empty.
+Frame: 754
+Queue is empty.
+Frame: 755
+Queue is empty.
+Frame: 756
+Queue is empty.
+Frame: 757
+Queue is empty.
+Frame: 758
+Queue is empty.
+Frame: 759
+Queue is empty.
+Frame: 760
+Queue is empty.
+Frame: 761
+Queue is empty.
+Frame: 762
+Queue is empty.
+Frame: 763
+Queue is empty.
+Frame: 764
+Queue is empty.
+Frame: 765
+Queue is empty.
+Frame: 766
+Queue is empty.
+Frame: 767
+Queue is empty.
+Frame: 768
+Queue is empty.
+Frame: 769
+Queue is empty.
+Frame: 770
+Queue is empty.
+Frame: 771
+Queue is empty.
+Frame: 772
+Queue is empty.
+Frame: 773
+Queue is empty.
+Frame: 774
+Queue is empty.
+Frame: 775
+Queue is empty.
+Frame: 776
+Queue is empty.
+Frame: 777
+Queue is empty.
+Frame: 778
+Queue is empty.
+Frame: 779
+Queue is empty.
+Frame: 780
+Queue is empty.
+Frame: 781
+Queue is empty.
+Frame: 782
+Queue is empty.
+Frame: 783
+Queue is empty.
+Frame: 784
+Queue is empty.
+Frame: 785
+Queue is empty.
+Frame: 786
+Queue is empty.
+Frame: 787
+Queue is empty.
+Frame: 788
+Queue is empty.
+Frame: 789
+Queue is empty.
+Frame: 790
+Queue is empty.
+Frame: 791
+Queue is empty.
+Frame: 792
+Queue is empty.
+Frame: 793
+Queue is empty.
+Frame: 794
+Queue is empty.
+Frame: 795
+Queue is empty.
+Frame: 796
+Queue is empty.
+Frame: 797
+Queue is empty.
+Frame: 798
+Queue is empty.
+Frame: 799
+Queue is empty.
+Frame: 800
+Queue is empty.
+Frame: 801
+Queue is empty.
+Frame: 802
+Queue is empty.
+Frame: 803
+Queue is empty.
+Frame: 804
+Queue is empty.
+Frame: 805
+Queue is empty.
+Frame: 806
+Queue is empty.
+Frame: 807
+Queue is empty.
+Frame: 808
+Queue is empty.
+Frame: 809
+Queue is empty.
+Frame: 810
+Queue is empty.
+Frame: 811
+Queue is empty.
+Frame: 812
+Queue is empty.
+Frame: 813
+Queue is empty.
+Frame: 814
+Queue is empty.
+Frame: 815
+Queue is empty.
+Frame: 816
+Queue is empty.
+Frame: 817
+Queue is empty.
+Frame: 818
+Queue is empty.
+Frame: 819
+Queue is empty.
+Frame: 820
+Queue is empty.
+Frame: 821
+Queue is empty.
+Frame: 822
+Queue is empty.
+Frame: 823
+Queue is empty.
+Frame: 824
+Queue is empty.
+Frame: 825
+Queue is empty.
+Frame: 826
+Queue is empty.
+Frame: 827
+Queue is empty.
+Frame: 828
+Queue is empty.
+Frame: 829
+Queue is empty.
+Frame: 830
+Queue is empty.
+Frame: 831
+Queue is empty.
+Frame: 832
+Queue is empty.
+Frame: 833
+Queue is empty.
+Frame: 834
+Queue is empty.
+Frame: 835
+Queue is empty.
+Frame: 836
+Queue is empty.
+Frame: 837
+Queue is empty.
+Frame: 838
+Queue is empty.
+Frame: 839
+Queue is empty.
+Frame: 840
+Queue is empty.
+Frame: 841
+Queue is empty.
+Frame: 842
+Queue is empty.
+Frame: 843
+Queue is empty.
+Frame: 844
+Queue is empty.
+Frame: 845
+Queue is empty.
+Frame: 846
+Queue is empty.
+Frame: 847
+Queue is empty.
+Frame: 848
+Queue is empty.
+Frame: 849
+Queue is empty.
+Frame: 850
+Queue is empty.
+Frame: 851
+Queue is empty.
+Frame: 852
+Queue is empty.
+Frame: 853
+Queue is empty.
+Frame: 854
+Queue is empty.
+Frame: 855
+Queue is empty.
+Frame: 856
+Queue is empty.
+Frame: 857
+Queue is empty.
+Frame: 858
+Queue is empty.
+Frame: 859
+Queue is empty.
+Frame: 860
+Queue is empty.
+Frame: 861
+Queue is empty.
+Frame: 862
+Queue is empty.
+Frame: 863
+Queue is empty.
+Frame: 864
+Queue is empty.
+Frame: 865
+Queue is empty.
+Frame: 866
+Queue is empty.
+Frame: 867
+Queue is empty.
+Frame: 868
+Queue is empty.
+Frame: 869
+Queue is empty.
+Frame: 870
+Queue is empty.
+Frame: 871
+Queue is empty.
+Frame: 872
+Queue is empty.
+Frame: 873
+Queue is empty.
+Frame: 874
+Queue is empty.
+Frame: 875
+Queue is empty.
+Frame: 876
+Queue is empty.
+Frame: 877
+Queue is empty.
+Frame: 878
+Queue is empty.
+Frame: 879
+Queue is empty.
+Frame: 880
+Queue is empty.
+Frame: 881
+Queue is empty.
+Frame: 882
+Queue is empty.
+Frame: 883
+Queue is empty.
+Frame: 884
+Queue is empty.
+Frame: 885
+Queue is empty.
+Frame: 886
+Queue is empty.
+Frame: 887
+Queue is empty.
+Frame: 888
+Queue is empty.
+Frame: 889
+Queue is empty.
+Frame: 890
+Queue is empty.
+Frame: 891
+Queue is empty.
+Frame: 892
+Queue is empty.
+Frame: 893
+Queue is empty.
+Frame: 894
+Queue is empty.
+Frame: 895
+Queue is empty.
+Frame: 896
+Queue is empty.
+Frame: 897
+Queue is empty.
+Frame: 898
+Queue is empty.
+Frame: 899
+Queue is empty.
+Frame: 900
+Queue is empty.
+Frame: 901
+Queue is empty.
+Frame: 902
+Queue is empty.
+Frame: 903
+Queue is empty.
+Frame: 904
+Queue is empty.
+Frame: 905
+Queue is empty.
+Frame: 906
+Queue is empty.
+Frame: 907
+Queue is empty.
+Frame: 908
+Queue is empty.
+Frame: 909
+Queue is empty.
+Frame: 910
+Queue is empty.
+Frame: 911
+Queue is empty.
+Frame: 912
+Queue is empty.
+Frame: 913
+Queue is empty.
+Frame: 914
+Queue is empty.
+Frame: 915
+Queue is empty.
+Frame: 916
+Queue is empty.
+Frame: 917
+Queue is empty.
+Frame: 918
+Queue is empty.
+Frame: 919
+Queue is empty.
+Frame: 920
+Queue is empty.
+Frame: 921
+Queue is empty.
+Frame: 922
+Queue is empty.
+Frame: 923
+Queue is empty.
+Frame: 924
+Queue is empty.
+Frame: 925
+Queue is empty.
+Frame: 926
+Queue is empty.
+Frame: 927
+Queue is empty.
+Frame: 928
+Queue is empty.
+Frame: 929
+Queue is empty.
+Frame: 930
+Queue is empty.
+Frame: 931
+Queue is empty.
+Frame: 932
+Queue is empty.
+Frame: 933
+Queue is empty.
+Frame: 934
+Queue is empty.
+Frame: 935
+Queue is empty.
+Frame: 936
+Queue is empty.
+Frame: 937
+Queue is empty.
+Frame: 938
+Queue is empty.
+Frame: 939
+Queue is empty.
+Frame: 940
+Queue is empty.
+Frame: 941
+Queue is empty.
+Frame: 942
+Queue is empty.
+Frame: 943
+Queue is empty.
+Frame: 944
+Queue is empty.
+Frame: 945
+Queue is empty.
+Frame: 946
+Queue is empty.
+Frame: 947
+Queue is empty.
+Frame: 948
+Queue is empty.
+Frame: 949
+Queue is empty.
+Frame: 950
+Queue is empty.
+Frame: 951
+Queue is empty.
+Frame: 952
+Queue is empty.
+Frame: 953
+Queue is empty.
+Frame: 954
+Queue is empty.
+Frame: 955
+Queue is empty.
+Frame: 956
+Queue is empty.
+Frame: 957
+Queue is empty.
+Frame: 958
+Queue is empty.
+Frame: 959
+Queue is empty.
+Frame: 960
+Queue is empty.
+Frame: 961
+Queue is empty.
+Frame: 962
+Queue is empty.
+Frame: 963
+Queue is empty.
+Frame: 964
+Queue is empty.
+Frame: 965
+Queue is empty.
+Frame: 966
+Queue is empty.
+Frame: 967
+Queue is empty.
+Frame: 968
+Queue is empty.
+Frame: 969
+Queue is empty.
+Frame: 970
+Queue is empty.
+Frame: 971
+Queue is empty.
+Frame: 972
+Queue is empty.
+Frame: 973
+Queue is empty.
+Frame: 974
+Queue is empty.
+Frame: 975
+Queue is empty.
+Frame: 976
+Queue is empty.
+Frame: 977
+Queue is empty.
+Frame: 978
+Queue is empty.
+Frame: 979
+Queue is empty.
+Frame: 980
+Queue is empty.
+Frame: 981
+Queue is empty.
+Frame: 982
+Queue is empty.
+Frame: 983
+Queue is empty.
+Frame: 984
+Queue is empty.
+Frame: 985
+Queue is empty.
+Frame: 986
+Queue is empty.
+Frame: 987
+Queue is empty.
+Frame: 988
+Queue is empty.
+Frame: 989
+Queue is empty.
+Frame: 990
+Queue is empty.
+Frame: 991
+Queue is empty.
+Frame: 992
+Queue is empty.
+Frame: 993
+Queue is empty.
+Frame: 994
+Queue is empty.
+Frame: 995
+Queue is empty.
+Frame: 996
+Queue is empty.
+Frame: 997
+Queue is empty.
+Frame: 998
+Queue is empty.
+Frame: 999
+Queue is empty.
+Frame: 1000
+Queue is empty.
+Frame: 1001
+Queue is empty.
+Frame: 1002
+Queue is empty.
+Frame: 1003
+Queue is empty.
+Frame: 1004
+Queue is empty.
+Frame: 1005
+Queue is empty.
+Frame: 1006
+Queue is empty.
+Frame: 1007
+Queue is empty.
+Frame: 1008
+Queue is empty.
+Frame: 1009
+Queue is empty.
+Frame: 1010
+Queue is empty.
+Frame: 1011
+Queue is empty.
+Frame: 1012
+Queue is empty.
+Frame: 1013
+Queue is empty.
+Frame: 1014
+Queue is empty.
+Frame: 1015
+Queue is empty.
+Frame: 1016
+Queue is empty.
+Frame: 1017
+Queue is empty.
+Frame: 1018
+Queue is empty.
+Frame: 1019
+Queue is empty.
+Frame: 1020
+Queue is empty.
+Frame: 1021
+Queue is empty.
+Frame: 1022
+Queue is empty.
+Frame: 1023
+Queue is empty.
+Frame: 1024
+Queue is empty.
+Frame: 1025
+Queue is empty.
+Frame: 1026
+Queue is empty.
+Frame: 1027
+Queue is empty.
+Frame: 1028
+Queue is empty.
+Frame: 1029
+Queue is empty.
+Frame: 1030
+Queue is empty.
+Frame: 1031
+Queue is empty.
+Frame: 1032
+Queue is empty.
+Frame: 1033
+Queue is empty.
+Frame: 1034
+Queue is empty.
+Frame: 1035
+Queue is empty.
+Frame: 1036
+Queue is empty.
+Frame: 1037
+Queue is empty.
+Frame: 1038
+Queue is empty.
+Frame: 1039
+Queue is empty.
+Frame: 1040
+Queue is empty.
+Frame: 1041
+Queue is empty.
+Frame: 1042
+Queue is empty.
+Frame: 1043
+Queue is empty.
+Frame: 1044
+Queue is empty.
+Frame: 1045
+Queue is empty.
+Frame: 1046
+Queue is empty.
+Frame: 1047
+Queue is empty.
+Frame: 1048
+Queue is empty.
+Frame: 1049
+Queue is empty.
+Frame: 1050
+Queue is empty.
+Frame: 1051
+Queue is empty.
+Frame: 1052
+Queue is empty.
+Frame: 1053
+Queue is empty.
+Frame: 1054
+Queue is empty.
+Frame: 1055
+Queue is empty.
+Frame: 1056
+Queue is empty.
+Frame: 1057
+Queue is empty.
+Frame: 1058
+Queue is empty.
+Frame: 1059
+Queue is empty.
+Frame: 1060
+Queue is empty.
+Frame: 1061
+Queue is empty.
+Frame: 1062
+Queue is empty.
+Frame: 1063
+Queue is empty.
+Frame: 1064
+Queue is empty.
+Frame: 1065
+Queue is empty.
+Frame: 1066
+Queue is empty.
+Frame: 1067
+Queue is empty.
+Frame: 1068
+Queue is empty.
+Frame: 1069
+Queue is empty.
+Frame: 1070
+Queue is empty.
+Frame: 1071
+Queue is empty.
+Frame: 1072
+Queue is empty.
+Frame: 1073
+Queue is empty.
+Frame: 1074
+Queue is empty.
+Frame: 1075
+Queue is empty.
+Frame: 1076
+Queue is empty.
+Frame: 1077
+Queue is empty.
+Frame: 1078
+Queue is empty.
+Frame: 1079
+Queue is empty.
+Frame: 1080
+Queue is empty.
+Frame: 1081
+Queue is empty.
+Frame: 1082
+Queue is empty.
+Frame: 1083
+Queue is empty.
+Frame: 1084
+Queue is empty.
+Frame: 1085
+Queue is empty.
+Frame: 1086
+Queue is empty.
+Frame: 1087
+Queue is empty.
+Frame: 1088
+Queue is empty.
+Frame: 1089
+Queue is empty.
+Frame: 1090
+Queue is empty.
+Frame: 1091
+Queue is empty.
+Frame: 1092
+Queue is empty.
+Frame: 1093
+Queue is empty.
+Frame: 1094
+Queue is empty.
+Frame: 1095
+Queue is empty.
+Frame: 1096
+Queue is empty.
+Frame: 1097
+Queue is empty.
+Frame: 1098
+Queue is empty.
+Frame: 1099
+Queue is empty.
+Frame: 1100
+Queue is empty.
+Frame: 1101
+Queue is empty.
+Frame: 1102
+Queue is empty.
+Frame: 1103
+Queue is empty.
+Frame: 1104
+Queue is empty.
+Frame: 1105
+Queue is empty.
+Frame: 1106
+Queue is empty.
+Frame: 1107
+Queue is empty.
+Frame: 1108
+Queue is empty.
+Frame: 1109
+Queue is empty.
+Frame: 1110
+Queue is empty.
+Frame: 1111
+Queue is empty.
+Frame: 1112
+Queue is empty.
+Frame: 1113
+Queue is empty.
+Frame: 1114
+Queue is empty.
+Frame: 1115
+Queue is empty.
+Frame: 1116
+Queue is empty.
+Frame: 1117
+Queue is empty.
+Frame: 1118
+Queue is empty.
+Frame: 1119
+Queue is empty.
+Frame: 1120
+Queue is empty.
+Frame: 1121
+Queue is empty.
+Frame: 1122
+Queue is empty.
+Frame: 1123
+Queue is empty.
+Frame: 1124
+Queue is empty.
+Frame: 1125
+Queue is empty.
+Frame: 1126
+Queue is empty.
+Frame: 1127
+Queue is empty.
+Frame: 1128
+Queue is empty.
+Frame: 1129
+Queue is empty.
+Frame: 1130
+Queue is empty.
+Frame: 1131
+Queue is empty.
+Frame: 1132
+Queue is empty.
+Frame: 1133
+Queue is empty.
+Frame: 1134
+Queue is empty.
+Frame: 1135
+Queue is empty.
+Frame: 1136
+Queue is empty.
+Frame: 1137
+Queue is empty.
+Frame: 1138
+Queue is empty.
+Frame: 1139
+Queue is empty.
+Frame: 1140
+Queue is empty.
+Frame: 1141
+Queue is empty.
+Frame: 1142
+Queue is empty.
+Frame: 1143
+Queue is empty.
+Frame: 1144
+Queue is empty.
+Frame: 1145
+Queue is empty.
+Frame: 1146
+Queue is empty.
+Frame: 1147
+Queue is empty.
+Frame: 1148
+Queue is empty.
+Frame: 1149
+Queue is empty.
+Frame: 1150
+Queue is empty.
+Frame: 1151
+Queue is empty.
+Frame: 1152
+Queue is empty.
+Frame: 1153
+Queue is empty.
+Frame: 1154
+Queue is empty.
+Frame: 1155
+Queue is empty.
+Frame: 1156
+Queue is empty.
+Frame: 1157
+Queue is empty.
+Frame: 1158
+Queue is empty.
+Frame: 1159
+Queue is empty.
+Frame: 1160
+Queue is empty.
+Frame: 1161
+Queue is empty.
+Frame: 1162
+Queue is empty.
+Frame: 1163
+Queue is empty.
+Frame: 1164
+Queue is empty.
+Frame: 1165
+Queue is empty.
+Frame: 1166
+Queue is empty.
+Frame: 1167
+Queue is empty.
+Frame: 1168
+Queue is empty.
+Frame: 1169
+Queue is empty.
+Frame: 1170
+Queue is empty.
+Frame: 1171
+Queue is empty.
+Frame: 1172
+Queue is empty.
+Frame: 1173
+Queue is empty.
+Frame: 1174
+Queue is empty.
+Frame: 1175
+Queue is empty.
+Frame: 1176
+Queue is empty.
+Frame: 1177
+Queue is empty.
+Frame: 1178
+Queue is empty.
+Frame: 1179
+Queue is empty.
+Frame: 1180
+Queue is empty.
+Frame: 1181
+Queue is empty.
+Frame: 1182
+Queue is empty.
+Frame: 1183
+Queue is empty.
+Frame: 1184
+Queue is empty.
+Frame: 1185
+Queue is empty.
+Frame: 1186
+Queue is empty.
+Frame: 1187
+Queue is empty.
+Frame: 1188
+Queue is empty.
+Frame: 1189
+Queue is empty.
+Frame: 1190
+Queue is empty.
+Frame: 1191
+Queue is empty.
+Frame: 1192
+Queue is empty.
+Frame: 1193
+Queue is empty.
+Frame: 1194
+Queue is empty.
+Frame: 1195
+Queue is empty.
+Frame: 1196
+Queue is empty.
+Frame: 1197
+Queue is empty.
+Frame: 1198
+Queue is empty.
+Frame: 1199
+Queue is empty.
+Frame: 1200
+Queue is empty.
+Frame: 1201
+Queue is empty.
+Frame: 1202
+Queue is empty.
+Frame: 1203
+Queue is empty.
+Frame: 1204
+Queue is empty.
+Frame: 1205
+Queue is empty.
+Frame: 1206
+Queue is empty.
+Frame: 1207
+Queue is empty.
+Frame: 1208
+Queue is empty.
+Frame: 1209
+Queue is empty.
+Frame: 1210
+Queue is empty.
+Frame: 1211
+Queue is empty.
+Frame: 1212
+Queue is empty.
+Frame: 1213
+Queue is empty.
+Frame: 1214
+Queue is empty.
+Frame: 1215
+Queue is empty.
+Frame: 1216
+Queue is empty.
+Frame: 1217
+Queue is empty.
+Frame: 1218
+Queue is empty.
+Frame: 1219
+Queue is empty.
+Frame: 1220
+Queue is empty.
+Frame: 1221
+Queue is empty.
+Frame: 1222
+Queue is empty.
+Frame: 1223
+Queue is empty.
+Frame: 1224
+Queue is empty.
+Frame: 1225
+Queue is empty.
+Frame: 1226
+Queue is empty.
+Frame: 1227
+Queue is empty.
+Frame: 1228
+Queue is empty.
+Frame: 1229
+Queue is empty.
+Frame: 1230
+Queue is empty.
+Frame: 1231
+Queue is empty.
+Frame: 1232
+Queue is empty.
+Frame: 1233
+Queue is empty.
+Frame: 1234
+Queue is empty.
+Frame: 1235
+Queue is empty.
+Frame: 1236
+Queue is empty.
+Frame: 1237
+Queue is empty.
+Frame: 1238
+Queue is empty.
+Frame: 1239
+Queue is empty.
+Frame: 1240
+Queue is empty.
+Frame: 1241
+Queue is empty.
+Frame: 1242
+Queue is empty.
+Frame: 1243
+Queue is empty.
+Frame: 1244
+Queue is empty.
+Frame: 1245
+Queue is empty.
+Frame: 1246
+Queue is empty.
+Frame: 1247
+Queue is empty.
+Frame: 1248
+Queue is empty.
+Frame: 1249
+Queue is empty.
+Frame: 1250
+Queue is empty.
+Frame: 1251
+Queue is empty.
+Frame: 1252
+Queue is empty.
+Frame: 1253
+Queue is empty.
+Frame: 1254
+Queue is empty.
+Frame: 1255
+Queue is empty.
+Frame: 1256
+Queue is empty.
+Frame: 1257
+Queue is empty.
+Frame: 1258
+Queue is empty.
+Frame: 1259
+Queue is empty.
+Frame: 1260
+Queue is empty.
+Frame: 1261
+Queue is empty.
+Frame: 1262
+Queue is empty.
+Frame: 1263
+Queue is empty.
+Frame: 1264
+Queue is empty.
+Frame: 1265
+Queue is empty.
+Frame: 1266
+Queue is empty.
+Frame: 1267
+Queue is empty.
+Frame: 1268
+Queue is empty.
+Frame: 1269
+Queue is empty.
+Frame: 1270
+Queue is empty.
+Frame: 1271
+Queue is empty.
+Frame: 1272
+Queue is empty.
+Frame: 1273
+Queue is empty.
+Frame: 1274
+Queue is empty.
+Frame: 1275
+Queue is empty.
+Frame: 1276
+Queue is empty.
+Frame: 1277
+Queue is empty.
+Frame: 1278
+Queue is empty.
+Frame: 1279
+Queue is empty.
+Frame: 1280
+Queue is empty.
+Frame: 1281
+Queue is empty.
+Frame: 1282
+Queue is empty.
+Frame: 1283
+Queue is empty.
+Frame: 1284
+Queue is empty.
+Frame: 1285
+Queue is empty.
+Frame: 1286
+Queue is empty.
+Frame: 1287
+Queue is empty.
+Frame: 1288
+Queue is empty.
+Frame: 1289
+Queue is empty.
+Frame: 1290
+Queue is empty.
+Frame: 1291
+Queue is empty.
+Frame: 1292
+Queue is empty.
+Frame: 1293
+Queue is empty.
+Frame: 1294
+Queue is empty.
+Frame: 1295
+Queue is empty.
+Frame: 1296
+Queue is empty.
+Frame: 1297
+Queue is empty.
+Frame: 1298
+Queue is empty.
+Frame: 1299
+Queue is empty.
+Frame: 1300
+Queue is empty.
+Frame: 1301
+Queue is empty.
+Frame: 1302
+Queue is empty.
+Frame: 1303
+Queue is empty.
+Frame: 1304
+Queue is empty.
+Frame: 1305
+Queue is empty.
+Frame: 1306
+Queue is empty.
+Frame: 1307
+Queue is empty.
+Frame: 1308
+Queue is empty.
+Frame: 1309
+Queue is empty.
+Frame: 1310
+Queue is empty.
+Frame: 1311
+Queue is empty.
+Frame: 1312
+Queue is empty.
+Frame: 1313
+Queue is empty.
+Frame: 1314
+Queue is empty.
+Frame: 1315
+Queue is empty.
+Frame: 1316
+Queue is empty.
+Frame: 1317
+Queue is empty.
+Frame: 1318
+Queue is empty.
+Frame: 1319
+Queue is empty.
+Frame: 1320
+Queue is empty.
+Frame: 1321
+Queue is empty.
+Frame: 1322
+Queue is empty.
+Frame: 1323
+Queue is empty.
+Frame: 1324
+Queue is empty.
+Frame: 1325
+Queue is empty.
+Frame: 1326
+Queue is empty.
+Frame: 1327
+Queue is empty.
+Frame: 1328
+Queue is empty.
+Frame: 1329
+Queue is empty.
+Frame: 1330
+Queue is empty.
+Frame: 1331
+Queue is empty.
+Frame: 1332
+Queue is empty.
+Frame: 1333
+Queue is empty.
+Frame: 1334
+Queue is empty.
+Frame: 1335
+Queue is empty.
+Frame: 1336
+Queue is empty.
+Frame: 1337
+Queue is empty.
+Frame: 1338
+Queue is empty.
+Frame: 1339
+Queue is empty.
+Frame: 1340
+Queue is empty.
+Frame: 1341
+Queue is empty.
+Frame: 1342
+Queue is empty.
+Frame: 1343
+Queue is empty.
+Frame: 1344
+Queue is empty.
+Frame: 1345
+Queue is empty.
+Frame: 1346
+Queue is empty.
+Frame: 1347
+Queue is empty.
+Frame: 1348
+Queue is empty.
+Frame: 1349
+Queue is empty.
+Frame: 1350
+Queue is empty.
+Frame: 1351
+Queue is empty.
+Frame: 1352
+Queue is empty.
+Frame: 1353
+Queue is empty.
+Frame: 1354
+Queue is empty.
+Frame: 1355
+Queue is empty.
+Frame: 1356
+Queue is empty.
+Frame: 1357
+Queue is empty.
+Frame: 1358
+Queue is empty.
+Frame: 1359
+Queue is empty.
+Frame: 1360
+Queue is empty.
+Frame: 1361
+Queue is empty.
+Frame: 1362
+Queue is empty.
+Frame: 1363
+Queue is empty.
+Frame: 1364
+Queue is empty.
+Frame: 1365
+Queue is empty.
+Frame: 1366
+Queue is empty.
+Frame: 1367
+Queue is empty.
+Frame: 1368
+Queue is empty.
+Frame: 1369
+Queue is empty.
+Frame: 1370
+Queue is empty.
+Frame: 1371
+Queue is empty.
+Frame: 1372
+Queue is empty.
+Frame: 1373
+Queue is empty.
+Frame: 1374
+Queue is empty.
+Frame: 1375
+Queue is empty.
+Frame: 1376
+Queue is empty.
+Frame: 1377
+Queue is empty.
+Frame: 1378
+Queue is empty.
+Frame: 1379
+Queue is empty.
+Frame: 1380
+Queue is empty.
+Frame: 1381
+Queue is empty.
+Frame: 1382
+Queue is empty.
+Frame: 1383
+Queue is empty.
+Frame: 1384
+Queue is empty.
+Frame: 1385
+Queue is empty.
+Frame: 1386
+Queue is empty.
+Frame: 1387
+Queue is empty.
+Frame: 1388
+Queue is empty.
+Frame: 1389
+Queue is empty.
+Frame: 1390
+Queue is empty.
+Frame: 1391
+Queue is empty.
+Frame: 1392
+Queue is empty.
+Frame: 1393
+Queue is empty.
+Frame: 1394
+Queue is empty.
+Frame: 1395
+Queue is empty.
+Frame: 1396
+Queue is empty.
+Frame: 1397
+Queue is empty.
+Frame: 1398
+Queue is empty.
+Frame: 1399
+Queue is empty.
+Frame: 1400
+Queue is empty.
+Frame: 1401
+Queue is empty.
+Frame: 1402
+Queue is empty.
+Frame: 1403
+Queue is empty.
+Frame: 1404
+Queue is empty.
+Frame: 1405
+Queue is empty.
+Frame: 1406
+Queue is empty.
+Frame: 1407
+Queue is empty.
+Frame: 1408
+Queue is empty.
+Frame: 1409
+Queue is empty.
+Frame: 1410
+Queue is empty.
+Frame: 1411
+Queue is empty.
+Frame: 1412
+Queue is empty.
+Frame: 1413
+Queue is empty.
+Frame: 1414
+Queue is empty.
+Frame: 1415
+Queue is empty.
+Frame: 1416
+Queue is empty.
+Frame: 1417
+Queue is empty.
+Frame: 1418
+Queue is empty.
+Frame: 1419
+Queue is empty.
+Frame: 1420
+Queue is empty.
+Frame: 1421
+Queue is empty.
+Frame: 1422
+Queue is empty.
+Frame: 1423
+Queue is empty.
+Frame: 1424
+Queue is empty.
+Frame: 1425
+Queue is empty.
+Frame: 1426
+Queue is empty.
+Frame: 1427
+Queue is empty.
+Frame: 1428
+Queue is empty.
+Frame: 1429
+Queue is empty.
+Frame: 1430
+Queue is empty.
+Frame: 1431
+Queue is empty.
+Frame: 1432
+Queue is empty.
+Frame: 1433
+Queue is empty.
+Frame: 1434
+Queue is empty.
+Frame: 1435
+Queue is empty.
+Frame: 1436
+Queue is empty.
+Frame: 1437
+Queue is empty.
+Frame: 1438
+Queue is empty.
+Frame: 1439
+Queue is empty.
+Frame: 1440
+Queue is empty.
+Frame: 1441
+Queue is empty.
+Frame: 1442
+Queue is empty.
+Frame: 1443
+Queue is empty.
+Frame: 1444
+Queue is empty.
+Frame: 1445
+Queue is empty.
+Frame: 1446
+Queue is empty.
+Frame: 1447
+Queue is empty.
+Frame: 1448
+Queue is empty.
+Frame: 1449
+Queue is empty.
+Frame: 1450
+Queue is empty.
+Frame: 1451
+Queue is empty.
+Frame: 1452
+Queue is empty.
+Frame: 1453
+Queue is empty.
+Frame: 1454
+Queue is empty.
+Frame: 1455
+Queue is empty.
+Frame: 1456
+Queue is empty.
+Frame: 1457
+Queue is empty.
+Frame: 1458
+Queue is empty.
+Frame: 1459
+Queue is empty.
+Frame: 1460
+Queue is empty.
+Frame: 1461
+Queue is empty.
+Frame: 1462
+Queue is empty.
+Frame: 1463
+Queue is empty.
+Frame: 1464
+Queue is empty.
+Frame: 1465
+Queue is empty.
+Frame: 1466
+Queue is empty.
+Frame: 1467
+Queue is empty.
+Frame: 1468
+Queue is empty.
+Frame: 1469
+Queue is empty.
+Frame: 1470
+Queue is empty.
+Frame: 1471
+Queue is empty.
+Frame: 1472
+Queue is empty.
+Frame: 1473
+Queue is empty.
+Frame: 1474
+Queue is empty.
+Frame: 1475
+Queue is empty.
+Frame: 1476
+Queue is empty.
+Frame: 1477
+Queue is empty.
+Frame: 1478
+Queue is empty.
+Frame: 1479
+Queue is empty.
+Frame: 1480
+Queue is empty.
+Frame: 1481
+Queue is empty.
+Frame: 1482
+Queue is empty.
+Frame: 1483
+Queue is empty.
+Frame: 1484
+Queue is empty.
+Frame: 1485
+Queue is empty.
+Frame: 1486
+Queue is empty.
+Frame: 1487
+Queue is empty.
+Frame: 1488
+Queue is empty.
+Frame: 1489
+Queue is empty.
+Frame: 1490
+Queue is empty.
+Frame: 1491
+Queue is empty.
+Frame: 1492
+Queue is empty.
+Frame: 1493
+Queue is empty.
+Frame: 1494
+Queue is empty.
+Frame: 1495
+Queue is empty.
+Frame: 1496
+Queue is empty.
+Frame: 1497
+Queue is empty.
+Frame: 1498
+Queue is empty.
+Frame: 1499
+Queue is empty.
+Frame: 1500
+Queue is empty.
+Frame: 1501
+Queue is empty.
+Frame: 1502
+Queue is empty.
+Frame: 1503
+Queue is empty.
+Frame: 1504
+Queue is empty.
+Frame: 1505
+Queue is empty.
+Frame: 1506
+Queue is empty.
+Frame: 1507
+Queue is empty.
+Frame: 1508
+Queue is empty.
+Frame: 1509
+Queue is empty.
+Frame: 1510
+Queue is empty.
+Frame: 1511
+Queue is empty.
+Frame: 1512
+Queue is empty.
+Frame: 1513
+Queue is empty.
+Frame: 1514
+Queue is empty.
+Frame: 1515
+Queue is empty.
+Frame: 1516
+Queue is empty.
+Frame: 1517
+Queue is empty.
+Frame: 1518
+Queue is empty.
+Frame: 1519
+Queue is empty.
+Frame: 1520
+Queue is empty.
+Frame: 1521
+Queue is empty.
+Frame: 1522
+Queue is empty.
+Frame: 1523
+Queue is empty.
+Frame: 1524
+Queue is empty.
+Frame: 1525
+Queue is empty.
+Frame: 1526
+Queue is empty.
+Frame: 1527
+Queue is empty.
+Frame: 1528
+Queue is empty.
+Frame: 1529
+Queue is empty.
+Frame: 1530
+Queue is empty.
+Frame: 1531
+Queue is empty.
+Frame: 1532
+Queue is empty.
+Frame: 1533
+Queue is empty.
+Frame: 1534
+Queue is empty.
+Frame: 1535
+Queue is empty.
+Frame: 1536
+Queue is empty.
+Frame: 1537
+Queue is empty.
+Frame: 1538
+Queue is empty.
+Frame: 1539
+Queue is empty.
+Frame: 1540
+Queue is empty.
+Frame: 1541
+Queue is empty.
+Frame: 1542
+Queue is empty.
+Frame: 1543
+Queue is empty.
+Frame: 1544
+Queue is empty.
+Frame: 1545
+Queue is empty.
+Frame: 1546
+Queue is empty.
+Frame: 1547
+Queue is empty.
+Frame: 1548
+Queue is empty.
+Frame: 1549
+Queue is empty.
+Frame: 1550
+Queue is empty.
+Frame: 1551
+Queue is empty.
+Frame: 1552
+Queue is empty.
+Frame: 1553
+Queue is empty.
+Frame: 1554
+Queue is empty.
+Frame: 1555
+Queue is empty.
+Frame: 1556
+Queue is empty.
+Frame: 1557
+Queue is empty.
+Frame: 1558
+Queue is empty.
+Frame: 1559
+Queue is empty.
+Frame: 1560
+Queue is empty.
+Frame: 1561
+Queue is empty.
+Frame: 1562
+Queue is empty.
+Frame: 1563
+Queue is empty.
+Frame: 1564
+Queue is empty.
+Frame: 1565
+Queue is empty.
+Frame: 1566
+Queue is empty.
+Frame: 1567
+Queue is empty.
+Frame: 1568
+Queue is empty.
+Frame: 1569
+Queue is empty.
+Frame: 1570
+Queue is empty.
+Frame: 1571
+Queue is empty.
+Frame: 1572
+Queue is empty.
+Frame: 1573
+Queue is empty.
+Frame: 1574
+Queue is empty.
+Frame: 1575
+Queue is empty.
+Frame: 1576
+Queue is empty.
+Frame: 1577
+Queue is empty.
+Frame: 1578
+Queue is empty.
+Frame: 1579
+Queue is empty.
+Frame: 1580
+Queue is empty.
+Frame: 1581
+Queue is empty.
+Frame: 1582
+Queue is empty.
+Frame: 1583
+Queue is empty.
+Frame: 1584
+Queue is empty.
+Frame: 1585
+Queue is empty.
+Frame: 1586
+Queue is empty.
+Frame: 1587
+Queue is empty.
+Frame: 1588
+Queue is empty.
+Frame: 1589
+Queue is empty.
+Frame: 1590
+Queue is empty.
+Frame: 1591
+Queue is empty.
+Frame: 1592
+Queue is empty.
+Frame: 1593
+Queue is empty.
+Frame: 1594
+Queue is empty.
+Frame: 1595
+Queue is empty.
+Frame: 1596
+Queue is empty.
+Frame: 1597
+Queue is empty.
+Frame: 1598
+Queue is empty.
+Frame: 1599
+Queue is empty.
+Frame: 1600
+Queue is empty.
+Frame: 1601
+Queue is empty.
+Frame: 1602
+Queue is empty.
+Frame: 1603
+Queue is empty.
+Frame: 1604
+Queue is empty.
+Frame: 1605
+Queue is empty.
+Frame: 1606
+Queue is empty.
+Frame: 1607
+Queue is empty.
+Frame: 1608
+Queue is empty.
+Frame: 1609
+Queue is empty.
+Frame: 1610
+Queue is empty.
+Frame: 1611
+Queue is empty.
+Frame: 1612
+Queue is empty.
+Frame: 1613
+Queue is empty.
+Frame: 1614
+Queue is empty.
+Frame: 1615
+Queue is empty.
+Frame: 1616
+Queue is empty.
+Frame: 1617
+Queue is empty.
+Frame: 1618
+Queue is empty.
+Frame: 1619
+Queue is empty.
+Frame: 1620
+Queue is empty.
+Frame: 1621
+Queue is empty.
+Frame: 1622
+Queue is empty.
+Frame: 1623
+Queue is empty.
+Frame: 1624
+Queue is empty.
+Frame: 1625
+Queue is empty.
+Frame: 1626
+Queue is empty.
+Frame: 1627
+Queue is empty.
+Frame: 1628
+Queue is empty.
+Frame: 1629
+Queue is empty.
+Frame: 1630
+Queue is empty.
+Frame: 1631
+Queue is empty.
+Frame: 1632
+Queue is empty.
+Frame: 1633
+Queue is empty.
+Frame: 1634
+Queue is empty.
+Frame: 1635
+Queue is empty.
+Frame: 1636
+Queue is empty.
+Frame: 1637
+Queue is empty.
+Frame: 1638
+Queue is empty.
+Frame: 1639
+Queue is empty.
+Frame: 1640
+Queue is empty.
+Frame: 1641
+Queue is empty.
+Frame: 1642
+Queue is empty.
+Frame: 1643
+Queue is empty.
+Frame: 1644
+Queue is empty.
+Frame: 1645
+Queue is empty.
+Frame: 1646
+Queue is empty.
+Frame: 1647
+Queue is empty.
+Frame: 1648
+Queue is empty.
+Frame: 1649
+Queue is empty.
+Frame: 1650
+Queue is empty.
+Frame: 1651
+Queue is empty.
+Frame: 1652
+Queue is empty.
+Frame: 1653
+Queue is empty.
+Frame: 1654
+Queue is empty.
+Frame: 1655
+Queue is empty.
+Frame: 1656
+Queue is empty.
+Frame: 1657
+Queue is empty.
+Frame: 1658
+Queue is empty.
+Frame: 1659
+Queue is empty.
+Frame: 1660
+Queue is empty.
+Frame: 1661
+Queue is empty.
+Frame: 1662
+Queue is empty.
+Frame: 1663
+Queue is empty.
+Frame: 1664
+Queue is empty.
+Frame: 1665
+Queue is empty.
+Frame: 1666
+Queue is empty.
+Frame: 1667
+Queue is empty.
+Frame: 1668
+Queue is empty.
+Frame: 1669
+Queue is empty.
+Frame: 1670
+Queue is empty.
+Frame: 1671
+Queue is empty.
+Frame: 1672
+Queue is empty.
+Frame: 1673
+Queue is empty.
+Frame: 1674
+Queue is empty.
+Frame: 1675
+Queue is empty.
+Frame: 1676
+Queue is empty.
+Frame: 1677
+Queue is empty.
+Frame: 1678
+Queue is empty.
+Frame: 1679
+Queue is empty.
+Frame: 1680
+Queue is empty.
+Frame: 1681
+Queue is empty.
+Frame: 1682
+Queue is empty.
+Frame: 1683
+Queue is empty.
+Frame: 1684
+Queue is empty.
+Frame: 1685
+Queue is empty.
+Frame: 1686
+Queue is empty.
+Frame: 1687
+Queue is empty.
+Frame: 1688
+Queue is empty.
+Frame: 1689
+Queue is empty.
+Frame: 1690
+Queue is empty.
+Frame: 1691
+Queue is empty.
+Frame: 1692
+Queue is empty.
+Frame: 1693
+Queue is empty.
+Frame: 1694
+Queue is empty.
+Frame: 1695
+Queue is empty.
+Frame: 1696
+Queue is empty.
+Frame: 1697
+Queue is empty.
+Frame: 1698
+Queue is empty.
+Frame: 1699
+Queue is empty.
+Frame: 1700
+Queue is empty.
+Frame: 1701
+Queue is empty.
+Frame: 1702
+Queue is empty.
+Frame: 1703
+Queue is empty.
+Frame: 1704
+Queue is empty.
+Frame: 1705
+Queue is empty.
+Frame: 1706
+Queue is empty.
+Frame: 1707
+Queue is empty.
+Frame: 1708
+Queue is empty.
+Frame: 1709
+Queue is empty.
+Frame: 1710
+Queue is empty.
+Frame: 1711
+Queue is empty.
+Frame: 1712
+Queue is empty.
+Frame: 1713
+Queue is empty.
+Frame: 1714
+Queue is empty.
+Frame: 1715
+Queue is empty.
+Frame: 1716
+Queue is empty.
+Frame: 1717
+Queue is empty.
+Frame: 1718
+Queue is empty.
+Frame: 1719
+Queue is empty.
+Frame: 1720
+Queue is empty.
+Frame: 1721
+Queue is empty.
+Frame: 1722
+Queue is empty.
+Frame: 1723
+Queue is empty.
+Frame: 1724
+Queue is empty.
+Frame: 1725
+Queue is empty.
+Frame: 1726
+Queue is empty.
+Frame: 1727
+Queue is empty.
+Frame: 1728
+Queue is empty.
+Frame: 1729
+Queue is empty.
+Frame: 1730
+Queue is empty.
+Frame: 1731
+Queue is empty.
+Frame: 1732
+Queue is empty.
+Frame: 1733
+Queue is empty.
+Frame: 1734
+Queue is empty.
+Frame: 1735
+Queue is empty.
+Frame: 1736
+Queue is empty.
+Frame: 1737
+Queue is empty.
+Frame: 1738
+Queue is empty.
+Frame: 1739
+Queue is empty.
+Frame: 1740
+Queue is empty.
+Frame: 1741
+Queue is empty.
+Frame: 1742
+Queue is empty.
+Frame: 1743
+Queue is empty.
+Frame: 1744
+Queue is empty.
+Frame: 1745
+Queue is empty.
+Frame: 1746
+Queue is empty.
+Frame: 1747
+Queue is empty.
+Frame: 1748
+Queue is empty.
+Frame: 1749
+Queue is empty.
+Frame: 1750
+Queue is empty.
+Frame: 1751
+Queue is empty.
+Frame: 1752
+Queue is empty.
+Frame: 1753
+Queue is empty.
+Frame: 1754
+Queue is empty.
+Frame: 1755
+Queue is empty.
+Frame: 1756
+Queue is empty.
+Frame: 1757
+Queue is empty.
+Frame: 1758
+Queue is empty.
+Frame: 1759
+Queue is empty.
+Frame: 1760
+Queue is empty.
+Frame: 1761
+Queue is empty.
+Frame: 1762
+Queue is empty.
+Frame: 1763
+Queue is empty.
+Frame: 1764
+Queue is empty.
+Frame: 1765
+Queue is empty.
+Frame: 1766
+Queue is empty.
+Frame: 1767
+Queue is empty.
+Frame: 1768
+Queue is empty.
+Frame: 1769
+Queue is empty.
+Frame: 1770
+Queue is empty.
+Frame: 1771
+Queue is empty.
+Frame: 1772
+Queue is empty.
+Frame: 1773
+Queue is empty.
+Frame: 1774
+Queue is empty.
+Frame: 1775
+Queue is empty.
+Frame: 1776
+Queue is empty.
+Frame: 1777
+Queue is empty.
+Frame: 1778
+Queue is empty.
+Frame: 1779
+Queue is empty.
+Frame: 1780
+Queue is empty.
+Frame: 1781
+Queue is empty.
+Frame: 1782
+Queue is empty.
+Frame: 1783
+Queue is empty.
+Frame: 1784
+Queue is empty.
+Frame: 1785
+Queue is empty.
+Frame: 1786
+Queue is empty.
+Frame: 1787
+Queue is empty.
+Frame: 1788
+Queue is empty.
+Frame: 1789
+Queue is empty.
+Frame: 1790
+Queue is empty.
+Frame: 1791
+Queue is empty.
+Frame: 1792
+Queue is empty.
+Frame: 1793
+Queue is empty.
+Frame: 1794
+Queue is empty.
+Frame: 1795
+Queue is empty.
+Frame: 1796
+Queue is empty.
+Frame: 1797
+Queue is empty.
+Frame: 1798
+Queue is empty.
+Frame: 1799
+Queue is empty.
+Frame: 1800
+Queue is empty.
+Frame: 1801
+Queue is empty.
+Frame: 1802
+Queue is empty.
+Frame: 1803
+Queue is empty.
+Frame: 1804
+Queue is empty.
+Frame: 1805
+Queue is empty.
+Frame: 1806
+Queue is empty.
+Frame: 1807
+Queue is empty.
+Frame: 1808
+Queue is empty.
+Frame: 1809
+Queue is empty.
+Frame: 1810
+Queue is empty.
+Frame: 1811
+Queue is empty.
+Frame: 1812
+Queue is empty.
+Frame: 1813
+Queue is empty.
+Frame: 1814
+Queue is empty.
+Frame: 1815
+Queue is empty.
+Frame: 1816
+Queue is empty.
+Frame: 1817
+Queue is empty.
+Frame: 1818
+Queue is empty.
+Frame: 1819
+Queue is empty.
+Frame: 1820
+Queue is empty.
+Frame: 1821
+Queue is empty.
+Frame: 1822
+Queue is empty.
+Frame: 1823
+Queue is empty.
+Frame: 1824
+Queue is empty.
+Frame: 1825
+Queue is empty.
+Frame: 1826
+Queue is empty.
+Frame: 1827
+Queue is empty.
+Frame: 1828
+Queue is empty.
+Frame: 1829
+Queue is empty.
+Frame: 1830
+Queue is empty.
+Frame: 1831
+Queue is empty.
+Frame: 1832
+Queue is empty.
+Frame: 1833
+Queue is empty.
+Frame: 1834
+Queue is empty.
+Frame: 1835
+Queue is empty.
+Frame: 1836
+Queue is empty.
+Frame: 1837
+Queue is empty.
+Frame: 1838
+Queue is empty.
+Frame: 1839
+Queue is empty.
+Frame: 1840
+Queue is empty.
+Frame: 1841
+Queue is empty.
+Frame: 1842
+Queue is empty.
+Frame: 1843
+Queue is empty.
+Frame: 1844
+Queue is empty.
+Frame: 1845
+Queue is empty.
+Frame: 1846
+Queue is empty.
+Frame: 1847
+Queue is empty.
+Frame: 1848
+Queue is empty.
+Frame: 1849
+Queue is empty.
+Frame: 1850
+Queue is empty.
+Frame: 1851
+Queue is empty.
+Frame: 1852
+Queue is empty.
+Frame: 1853
+Queue is empty.
+Frame: 1854
+Queue is empty.
+Frame: 1855
+Queue is empty.
+Frame: 1856
+Queue is empty.
+Frame: 1857
+Queue is empty.
+Frame: 1858
+Queue is empty.
+Frame: 1859
+Queue is empty.
+Frame: 1860
+Queue is empty.
+Frame: 1861
+Queue is empty.
+Frame: 1862
+Queue is empty.
+Frame: 1863
+Queue is empty.
+Frame: 1864
+Queue is empty.
+Frame: 1865
+Queue is empty.
+Frame: 1866
+Queue is empty.
+Frame: 1867
+Queue is empty.
+Frame: 1868
+Queue is empty.
+Frame: 1869
+Queue is empty.
+Frame: 1870
+Queue is empty.
+Frame: 1871
+Queue is empty.
+Frame: 1872
+Queue is empty.
+Frame: 1873
+Queue is empty.
+Frame: 1874
+Queue is empty.
+Frame: 1875
+Queue is empty.
+Frame: 1876
+Queue is empty.
+Frame: 1877
+Queue is empty.
+Frame: 1878
+Queue is empty.
+Frame: 1879
+Queue is empty.
+Frame: 1880
+Queue is empty.
+Frame: 1881
+Queue is empty.
+Frame: 1882
+Queue is empty.
+Frame: 1883
+Queue is empty.
+Frame: 1884
+Queue is empty.
+Frame: 1885
+Queue is empty.
+Frame: 1886
+Queue is empty.
+Frame: 1887
+Queue is empty.
+Frame: 1888
+Queue is empty.
+Frame: 1889
+Queue is empty.
+Frame: 1890
+Queue is empty.
+Frame: 1891
+Queue is empty.
+Frame: 1892
+Queue is empty.
+Frame: 1893
+Queue is empty.
+Frame: 1894
+Queue is empty.
+Frame: 1895
+Queue is empty.
+Frame: 1896
+Queue is empty.
+Frame: 1897
+Queue is empty.
+Frame: 1898
+Queue is empty.
+Frame: 1899
+Queue is empty.
+Frame: 1900
+Queue is empty.
+Frame: 1901
+Queue is empty.
+Frame: 1902
+Queue is empty.
+Frame: 1903
+Queue is empty.
+Frame: 1904
+Queue is empty.
+Frame: 1905
+Queue is empty.
+Frame: 1906
+Queue is empty.
+Frame: 1907
+Queue is empty.
+Frame: 1908
+Queue is empty.
+Frame: 1909
+Queue is empty.
+Frame: 1910
+Queue is empty.
+Frame: 1911
+Queue is empty.
+Frame: 1912
+Queue is empty.
+Frame: 1913
+Queue is empty.
+Frame: 1914
+Queue is empty.
+Frame: 1915
+Queue is empty.
+Frame: 1916
+Queue is empty.
+Frame: 1917
+Queue is empty.
+Frame: 1918
+Queue is empty.
+Frame: 1919
+Queue is empty.
+Frame: 1920
+Queue is empty.
+Frame: 1921
+Queue is empty.
+Frame: 1922
+Queue is empty.
+Frame: 1923
+Queue is empty.
+Frame: 1924
+Queue is empty.
+Frame: 1925
+Queue is empty.
+Frame: 1926
+Queue is empty.
+Frame: 1927
+Queue is empty.
+Frame: 1928
+Queue is empty.
+Frame: 1929
+Queue is empty.
+Frame: 1930
+Queue is empty.
+Frame: 1931
+Queue is empty.
+Frame: 1932
+Queue is empty.
+Frame: 1933
+Queue is empty.
+Frame: 1934
+Queue is empty.
+Frame: 1935
+Queue is empty.
+Frame: 1936
+Queue is empty.
+Frame: 1937
+Queue is empty.
+Frame: 1938
+Queue is empty.
+Frame: 1939
+Queue is empty.
+Frame: 1940
+Queue is empty.
+Frame: 1941
+Queue is empty.
+Frame: 1942
+
+Add queue...
+Qframe.fid=1, pcnt=1
+Qframe.points[0].X=2.391723, Y=7.916153
+qu->front=15, rear=0
+
+Frame: 1943
+
+Add queue...
+Qframe.fid=2, pcnt=1
+Qframe.points[0].X=2.394058, Y=7.910623
+qu->front=15, rear=1
+
+Frame: 1944
+
+Add queue...
+Qframe.fid=3, pcnt=1
+Qframe.points[0].X=2.395479, Y=7.906625
+qu->front=15, rear=2
+
+Frame: 1945
+
+Add queue...
+Qframe.fid=4, pcnt=1
+Qframe.points[0].X=2.401672, Y=7.903287
+qu->front=15, rear=3
+
+Frame: 1946
+
+Add queue...
+Qframe.fid=5, pcnt=1
+Qframe.points[0].X=2.405835, Y=7.900648
+qu->front=15, rear=4
+
+Frame: 1947
+
+Add queue...
+Qframe.fid=6, pcnt=1
+Qframe.points[0].X=2.409866, Y=7.899108
+qu->front=15, rear=5
+
+Frame: 1948
+
+Add queue...
+Qframe.fid=7, pcnt=1
+Qframe.points[0].X=2.412371, Y=7.898310
+qu->front=15, rear=6
+
+Frame: 1949
+
+Add queue...
+Qframe.fid=8, pcnt=1
+Qframe.points[0].X=2.420565, Y=7.897567
+qu->front=15, rear=7
+
+Frame: 1950
+
+Add queue...
+Qframe.fid=9, pcnt=1
+Qframe.points[0].X=2.428443, Y=7.896693
+qu->front=15, rear=8
+
+Frame: 1951
+
+Add queue...
+Qframe.fid=10, pcnt=1
+Qframe.points[0].X=2.438652, Y=7.896921
+qu->front=15, rear=9
+
+Frame: 1952
+
+Add queue...
+Qframe.fid=11, pcnt=1
+Qframe.points[0].X=2.451647, Y=7.896555
+qu->front=15, rear=10
+
+Frame: 1953
+
+Add queue...
+Qframe.fid=12, pcnt=1
+Qframe.points[0].X=2.496123, Y=7.897423
+qu->front=15, rear=11
+
+Frame: 1954
+
+Add queue...
+Qframe.fid=13, pcnt=1
+Qframe.points[0].X=2.518067, Y=7.898036
+qu->front=15, rear=12
+
+Frame: 1955
+
+Add queue...
+Qframe.fid=14, pcnt=1
+Qframe.points[0].X=2.541161, Y=7.897957
+qu->front=15, rear=13
+
+Frame: 1956
+
+Add queue...
+Qframe.fid=15, pcnt=1
+Qframe.points[0].X=2.571781, Y=7.898066
+qu->front=15, rear=14
+
+Frame: 1957
+
+Add queue...
+Qframe.fid=16, pcnt=1
+Qframe.points[0].X=2.603227, Y=7.897780
+qu->front=15, rear=15
+
+Detect Noise points of frame.
+Nothing of Detect Ghost in Queued frames.
+Frame: 1958
+Queue is Full.
+
+Del queue.
+qu->front=0, rear=15
+Cframe.fid=1, pcnt=1
+Cframe.points[0].X=2.391723, Y=7.916153
+
+Add queue...
+Qframe.fid=17, pcnt=1
+Qframe.points[0].X=2.636792, Y=7.897195
+qu->front=0, rear=0
+
+Frame: 1959
+Queue is Full.
+
+Del queue.
+qu->front=1, rear=0
+Cframe.fid=2, pcnt=1
+Cframe.points[0].X=2.394058, Y=7.910623
+
+Add queue...
+Qframe.fid=18, pcnt=1
+Qframe.points[0].X=2.669609, Y=7.896544
+qu->front=1, rear=1
+
+Frame: 1960
+Queue is Full.
+
+Del queue.
+qu->front=2, rear=1
+Cframe.fid=3, pcnt=1
+Cframe.points[0].X=2.395479, Y=7.906625
+
+Add queue...
+Qframe.fid=19, pcnt=1
+Qframe.points[0].X=2.702177, Y=7.895751
+qu->front=2, rear=2
+
+Frame: 1961
+Queue is Full.
+
+Del queue.
+qu->front=3, rear=2
+Cframe.fid=4, pcnt=1
+Cframe.points[0].X=2.401672, Y=7.903287
+
+Add queue...
+Qframe.fid=20, pcnt=1
+Qframe.points[0].X=2.737295, Y=7.895061
+qu->front=3, rear=3
+
+Frame: 1962
+Queue is Full.
+
+Del queue.
+qu->front=4, rear=3
+Cframe.fid=5, pcnt=1
+Cframe.points[0].X=2.405835, Y=7.900648
+
+Add queue...
+Qframe.fid=21, pcnt=1
+Qframe.points[0].X=2.766851, Y=7.893731
+qu->front=4, rear=4
+
+Frame: 1963
+Queue is Full.
+
+Del queue.
+qu->front=5, rear=4
+Cframe.fid=6, pcnt=1
+Cframe.points[0].X=2.409866, Y=7.899108
+
+Add queue...
+Qframe.fid=22, pcnt=1
+Qframe.points[0].X=2.794064, Y=7.892400
+qu->front=5, rear=5
+
+Frame: 1964
+Queue is Full.
+
+Del queue.
+qu->front=6, rear=5
+Cframe.fid=7, pcnt=1
+Cframe.points[0].X=2.412371, Y=7.898310
+
+Add queue...
+Qframe.fid=23, pcnt=1
+Qframe.points[0].X=2.815888, Y=7.891333
+qu->front=6, rear=6
+
+Frame: 1965
+Queue is Full.
+
+Del queue.
+qu->front=7, rear=6
+Cframe.fid=8, pcnt=1
+Cframe.points[0].X=2.420565, Y=7.897567
+
+Add queue...
+Qframe.fid=24, pcnt=1
+Qframe.points[0].X=2.835595, Y=7.889693
+qu->front=7, rear=7
+
+Frame: 1966
+Queue is Full.
+
+Del queue.
+qu->front=8, rear=7
+Cframe.fid=9, pcnt=1
+Cframe.points[0].X=2.428443, Y=7.896693
+
+Add queue...
+Qframe.fid=25, pcnt=1
+Qframe.points[0].X=2.854570, Y=7.887993
+qu->front=8, rear=8
+
+Frame: 1967
+Queue is Full.
+
+Del queue.
+qu->front=9, rear=8
+Cframe.fid=10, pcnt=1
+Cframe.points[0].X=2.438652, Y=7.896921
+
+Add queue...
+Qframe.fid=26, pcnt=1
+Qframe.points[0].X=2.867612, Y=7.885612
+qu->front=9, rear=9
+
+Frame: 1968
+Queue is Full.
+
+Del queue.
+qu->front=10, rear=9
+Cframe.fid=11, pcnt=1
+Cframe.points[0].X=2.451647, Y=7.896555
+
+Add queue...
+Qframe.fid=27, pcnt=1
+Qframe.points[0].X=2.874425, Y=7.883612
+qu->front=10, rear=10
+
+Frame: 1969
+Queue is Full.
+
+Del queue.
+qu->front=11, rear=10
+Cframe.fid=12, pcnt=1
+Cframe.points[0].X=2.496123, Y=7.897423
+
+Add queue...
+Qframe.fid=28, pcnt=1
+Qframe.points[0].X=2.879618, Y=7.880990
+qu->front=11, rear=11
+
+Frame: 1970
+Queue is Full.
+
+Del queue.
+qu->front=12, rear=11
+Cframe.fid=13, pcnt=1
+Cframe.points[0].X=2.518067, Y=7.898036
+
+Add queue...
+Qframe.fid=29, pcnt=1
+Qframe.points[0].X=2.880661, Y=7.878154
+qu->front=12, rear=12
+
+Frame: 1971
+Queue is Full.
+
+Del queue.
+qu->front=13, rear=12
+Cframe.fid=14, pcnt=1
+Cframe.points[0].X=2.541161, Y=7.897957
+
+Add queue...
+Qframe.fid=30, pcnt=1
+Qframe.points[0].X=2.882241, Y=7.875854
+qu->front=13, rear=13
+
+Frame: 1972
+Queue is Full.
+
+Del queue.
+qu->front=14, rear=13
+Cframe.fid=15, pcnt=1
+Cframe.points[0].X=2.571781, Y=7.898066
+
+Add queue...
+Qframe.fid=31, pcnt=1
+Qframe.points[0].X=2.881850, Y=7.873391
+qu->front=14, rear=14
+
+Frame: 1973
+Queue is Full.
+
+Del queue.
+qu->front=15, rear=14
+Cframe.fid=16, pcnt=1
+Cframe.points[0].X=2.603227, Y=7.897780
+
+Add queue...
+Qframe.fid=32, pcnt=1
+Qframe.points[0].X=2.878253, Y=7.871028
+qu->front=15, rear=15
+
+Detect Noise points of frame.
+Nothing of Detect Ghost in Queued frames.
+Frame: 1974
+Queue is Full.
+
+Del queue.
+qu->front=0, rear=15
+Cframe.fid=17, pcnt=1
+Cframe.points[0].X=2.636792, Y=7.897195
+
+Add queue...
+Qframe.fid=33, pcnt=1
+Qframe.points[0].X=2.875207, Y=7.868776
+qu->front=0, rear=0
+
+Frame: 1975
+Queue is Full.
+
+Del queue.
+qu->front=1, rear=0
+Cframe.fid=18, pcnt=1
+Cframe.points[0].X=2.669609, Y=7.896544
+
+Add queue...
+Qframe.fid=34, pcnt=1
+Qframe.points[0].X=2.870199, Y=7.866379
+qu->front=1, rear=1
+
+Frame: 1976
+Queue is Full.
+
+Del queue.
+qu->front=2, rear=1
+Cframe.fid=19, pcnt=1
+Cframe.points[0].X=2.702177, Y=7.895751
+
+Add queue...
+Qframe.fid=35, pcnt=1
+Qframe.points[0].X=2.867717, Y=7.864132
+qu->front=2, rear=2
+
+Frame: 1977
+Queue is Full.
+
+Del queue.
+qu->front=3, rear=2
+Cframe.fid=20, pcnt=1
+Cframe.points[0].X=2.737295, Y=7.895061
+
+Add queue...
+Qframe.fid=36, pcnt=1
+Qframe.points[0].X=2.866078, Y=7.861160
+qu->front=3, rear=3
+
+Frame: 1978
+Queue is Full.
+
+Del queue.
+qu->front=4, rear=3
+Cframe.fid=21, pcnt=1
+Cframe.points[0].X=2.766851, Y=7.893731
+
+Add queue...
+Qframe.fid=37, pcnt=1
+Qframe.points[0].X=2.863712, Y=7.858938
+qu->front=4, rear=4
+
+Frame: 1979
+Queue is Full.
+
+Del queue.
+qu->front=5, rear=4
+Cframe.fid=22, pcnt=1
+Cframe.points[0].X=2.794064, Y=7.892400
+
+Add queue...
+Qframe.fid=38, pcnt=1
+Qframe.points[0].X=2.865220, Y=7.857304
+qu->front=5, rear=5
+
+Frame: 1980
+Queue is Full.
+
+Del queue.
+qu->front=6, rear=5
+Cframe.fid=23, pcnt=1
+Cframe.points[0].X=2.815888, Y=7.891333
+
+Add queue...
+Qframe.fid=39, pcnt=1
+Qframe.points[0].X=2.869446, Y=7.855117
+qu->front=6, rear=6
+
+Frame: 1981
+Queue is Full.
+
+Del queue.
+qu->front=7, rear=6
+Cframe.fid=24, pcnt=1
+Cframe.points[0].X=2.835595, Y=7.889693
+
+Add queue...
+Qframe.fid=40, pcnt=1
+Qframe.points[0].X=2.875564, Y=7.853354
+qu->front=7, rear=7
+
+Frame: 1982
+Queue is Full.
+
+Del queue.
+qu->front=8, rear=7
+Cframe.fid=25, pcnt=1
+Cframe.points[0].X=2.854570, Y=7.887993
+
+Add queue...
+Qframe.fid=41, pcnt=2
+Qframe.points[0].X=2.883801, Y=2.571963
+Qframe.points[1].X=2.883801, Y=7.851235
+qu->front=8, rear=8
+
+Frame: 1983
+Queue is Full.
+
+Del queue.
+qu->front=9, rear=8
+Cframe.fid=26, pcnt=1
+Cframe.points[0].X=2.867612, Y=7.885612
+
+Add queue...
+Qframe.fid=42, pcnt=2
+Qframe.points[0].X=2.895416, Y=2.579376
+Qframe.points[1].X=2.895416, Y=7.849628
+qu->front=9, rear=9
+
+Frame: 1984
+Queue is Full.
+
+Del queue.
+qu->front=10, rear=9
+Cframe.fid=27, pcnt=1
+Cframe.points[0].X=2.874425, Y=7.883612
+
+Add queue...
+Qframe.fid=43, pcnt=2
+Qframe.points[0].X=2.910559, Y=2.586255
+Qframe.points[1].X=2.910559, Y=7.847854
+qu->front=10, rear=10
+
+Frame: 1985
+Queue is Full.
+
+Del queue.
+qu->front=11, rear=10
+Cframe.fid=28, pcnt=1
+Cframe.points[0].X=2.879618, Y=7.880990
+
+Add queue...
+Qframe.fid=44, pcnt=2
+Qframe.points[0].X=2.924774, Y=2.591936
+Qframe.points[1].X=2.924774, Y=7.845743
+qu->front=11, rear=11
+
+Frame: 1986
+Queue is Full.
+
+Del queue.
+qu->front=12, rear=11
+Cframe.fid=29, pcnt=1
+Cframe.points[0].X=2.880661, Y=7.878154
+
+Add queue...
+Qframe.fid=45, pcnt=2
+Qframe.points[0].X=2.941188, Y=2.596820
+Qframe.points[1].X=2.941188, Y=7.844348
+qu->front=12, rear=12
+
+Frame: 1987
+Queue is Full.
+
+Del queue.
+qu->front=13, rear=12
+Cframe.fid=30, pcnt=1
+Cframe.points[0].X=2.882241, Y=7.875854
+
+Add queue...
+Qframe.fid=46, pcnt=2
+Qframe.points[0].X=2.960282, Y=2.601457
+Qframe.points[1].X=2.960282, Y=7.842970
+qu->front=13, rear=13
+
+Frame: 1988
+Queue is Full.
+
+Del queue.
+qu->front=14, rear=13
+Cframe.fid=31, pcnt=1
+Cframe.points[0].X=2.881850, Y=7.873391
+
+Add queue...
+Qframe.fid=47, pcnt=2
+Qframe.points[0].X=2.976272, Y=2.605707
+Qframe.points[1].X=2.976272, Y=7.841794
+qu->front=14, rear=14
+
+Frame: 1989
+Queue is Full.
+
+Del queue.
+qu->front=15, rear=14
+Cframe.fid=32, pcnt=1
+Cframe.points[0].X=2.878253, Y=7.871028
+
+Add queue...
+Qframe.fid=48, pcnt=2
+Qframe.points[0].X=2.992955, Y=2.609434
+Qframe.points[1].X=2.992955, Y=7.840323
+qu->front=15, rear=15
+
+Detect Noise points of frame.
+Nothing of Detect Ghost in Queued frames.
+Frame: 1990
+Queue is Full.
+
+Del queue.
+qu->front=0, rear=15
+Cframe.fid=33, pcnt=1
+Cframe.points[0].X=2.875207, Y=7.868776
+
+Add queue...
+Qframe.fid=49, pcnt=2
+Qframe.points[0].X=3.009073, Y=2.612756
+Qframe.points[1].X=3.009073, Y=7.839841
+qu->front=0, rear=0
+
+Frame: 1991
+Queue is Full.
+
+Del queue.
+qu->front=1, rear=0
+Cframe.fid=34, pcnt=1
+Cframe.points[0].X=2.870199, Y=7.866379
+
+Add queue...
+Qframe.fid=50, pcnt=2
+Qframe.points[0].X=3.024595, Y=2.615750
+Qframe.points[1].X=3.024595, Y=7.839792
+qu->front=1, rear=1
+
+Frame: 1992
+Queue is Full.
+
+Del queue.
+qu->front=2, rear=1
+Cframe.fid=35, pcnt=1
+Cframe.points[0].X=2.867717, Y=7.864132
+
+Add queue...
+Qframe.fid=51, pcnt=2
+Qframe.points[0].X=3.057710, Y=2.631955
+Qframe.points[1].X=3.057710, Y=7.839437
+qu->front=2, rear=2
+
+Frame: 1993
+Queue is Full.
+
+Del queue.
+qu->front=3, rear=2
+Cframe.fid=36, pcnt=1
+Cframe.points[0].X=2.866078, Y=7.861160
+
+Add queue...
+Qframe.fid=52, pcnt=2
+Qframe.points[0].X=3.090240, Y=2.650824
+Qframe.points[1].X=3.090240, Y=7.839020
+qu->front=3, rear=3
+
+Frame: 1994
+Queue is Full.
+
+Del queue.
+qu->front=4, rear=3
+Cframe.fid=37, pcnt=1
+Cframe.points[0].X=2.863712, Y=7.858938
+
+Add queue...
+Qframe.fid=53, pcnt=2
+Qframe.points[0].X=3.121482, Y=2.667238
+Qframe.points[1].X=3.121482, Y=7.838849
+qu->front=4, rear=4
+
+Frame: 1995
+Queue is Full.
+
+Del queue.
+qu->front=5, rear=4
+Cframe.fid=38, pcnt=1
+Cframe.points[0].X=2.865220, Y=7.857304
+
+Add queue...
+Qframe.fid=54, pcnt=2
+Qframe.points[0].X=3.148194, Y=2.681439
+Qframe.points[1].X=3.148194, Y=7.839112
+qu->front=5, rear=5
+
+Frame: 1996
+Queue is Full.
+
+Del queue.
+qu->front=6, rear=5
+Cframe.fid=39, pcnt=1
+Cframe.points[0].X=2.869446, Y=7.855117
+
+Add queue...
+Qframe.fid=55, pcnt=2
+Qframe.points[0].X=3.172344, Y=2.692779
+Qframe.points[1].X=3.172344, Y=7.838645
+qu->front=6, rear=6
+
+Frame: 1997
+Queue is Full.
+
+Del queue.
+qu->front=7, rear=6
+Cframe.fid=40, pcnt=1
+Cframe.points[0].X=2.875564, Y=7.853354
+
+Add queue...
+Qframe.fid=56, pcnt=2
+Qframe.points[0].X=3.194551, Y=2.701812
+Qframe.points[1].X=3.194551, Y=7.837750
+qu->front=7, rear=7
+
+Frame: 1998
+Queue is Full.
+
+Del queue.
+qu->front=8, rear=7
+Cframe.fid=41, pcnt=2
+Cframe.points[0].X=2.883801, Y=2.571963
+Cframe.points[1].X=2.883801, Y=7.851235
+
+Add queue...
+Qframe.fid=57, pcnt=2
+Qframe.points[0].X=3.215645, Y=2.708849
+Qframe.points[1].X=3.215645, Y=7.836898
+qu->front=8, rear=8
+
+Frame: 1999
+Queue is Full.
+
+Del queue.
+qu->front=9, rear=8
+Cframe.fid=42, pcnt=2
+Cframe.points[0].X=2.895416, Y=2.579376
+Cframe.points[1].X=2.895416, Y=7.849628
+
+Add queue...
+Qframe.fid=58, pcnt=2
+Qframe.points[0].X=3.234884, Y=2.713865
+Qframe.points[1].X=3.234884, Y=7.834857
+qu->front=9, rear=9
+
+Frame: 2000
+Queue is Full.
+
+Del queue.
+qu->front=10, rear=9
+Cframe.fid=43, pcnt=2
+Cframe.points[0].X=2.910559, Y=2.586255
+Cframe.points[1].X=2.910559, Y=7.847854
+
+Add queue...
+Qframe.fid=59, pcnt=2
+Qframe.points[0].X=3.253038, Y=2.717216
+Qframe.points[1].X=3.253038, Y=7.832216
+qu->front=10, rear=10
+
+Frame: 2001
+Queue is Full.
+
+Del queue.
+qu->front=11, rear=10
+Cframe.fid=44, pcnt=2
+Cframe.points[0].X=2.924774, Y=2.591936
+Cframe.points[1].X=2.924774, Y=7.845743
+
+Add queue...
+Qframe.fid=60, pcnt=2
+Qframe.points[0].X=3.272947, Y=2.719268
+Qframe.points[1].X=3.272947, Y=7.827976
+qu->front=11, rear=11
+
+Frame: 2002
+Queue is Full.
+
+Del queue.
+qu->front=12, rear=11
+Cframe.fid=45, pcnt=2
+Cframe.points[0].X=2.941188, Y=2.596820
+Cframe.points[1].X=2.941188, Y=7.844348
+
+Add queue...
+Qframe.fid=61, pcnt=2
+Qframe.points[0].X=3.294515, Y=2.718933
+Qframe.points[1].X=3.294515, Y=7.822007
+qu->front=12, rear=12
+
+Frame: 2003
+Queue is Full.
+
+Del queue.
+qu->front=13, rear=12
+Cframe.fid=46, pcnt=2
+Cframe.points[0].X=2.960282, Y=2.601457
+Cframe.points[1].X=2.960282, Y=7.842970
+
+Add queue...
+Qframe.fid=62, pcnt=2
+Qframe.points[0].X=3.315975, Y=2.717401
+Qframe.points[1].X=3.315975, Y=7.814734
+qu->front=13, rear=13
+
+Frame: 2004
+Queue is Full.
+
+Del queue.
+qu->front=14, rear=13
+Cframe.fid=47, pcnt=2
+Cframe.points[0].X=2.976272, Y=2.605707
+Cframe.points[1].X=2.976272, Y=7.841794
+
+Add queue...
+Qframe.fid=63, pcnt=2
+Qframe.points[0].X=3.341450, Y=2.713353
+Qframe.points[1].X=3.341450, Y=7.806470
+qu->front=14, rear=14
+
+Frame: 2005
+Queue is Full.
+
+Del queue.
+qu->front=15, rear=14
+Cframe.fid=48, pcnt=2
+Cframe.points[0].X=2.992955, Y=2.609434
+Cframe.points[1].X=2.992955, Y=7.840323
+
+Add queue...
+Qframe.fid=64, pcnt=2
+Qframe.points[0].X=3.368957, Y=2.707778
+Qframe.points[1].X=3.368957, Y=7.796597
+qu->front=15, rear=15
+
+Detect Noise points of frame.
+Nothing of Detect Ghost in Queued frames.
+Frame: 2006
+Queue is Full.
+
+Del queue.
+qu->front=0, rear=15
+Cframe.fid=49, pcnt=2
+Cframe.points[0].X=3.009073, Y=2.612756
+Cframe.points[1].X=3.009073, Y=7.839841
+
+Add queue...
+Qframe.fid=65, pcnt=2
+Qframe.points[0].X=3.398838, Y=2.700096
+Qframe.points[1].X=3.398838, Y=7.784667
+qu->front=0, rear=0
+
+Frame: 2007
+Queue is Full.
+
+Del queue.
+qu->front=1, rear=0
+Cframe.fid=50, pcnt=2
+Cframe.points[0].X=3.024595, Y=2.615750
+Cframe.points[1].X=3.024595, Y=7.839792
+
+Add queue...
+Qframe.fid=66, pcnt=2
+Qframe.points[0].X=3.430915, Y=2.690449
+Qframe.points[1].X=3.430915, Y=7.772045
+qu->front=1, rear=1
+
+Frame: 2008
+Queue is Full.
+
+Del queue.
+qu->front=2, rear=1
+Cframe.fid=51, pcnt=2
+Cframe.points[0].X=3.057710, Y=2.631955
+Cframe.points[1].X=3.057710, Y=7.839437
+
+Add queue...
+Qframe.fid=67, pcnt=2
+Qframe.points[0].X=3.468439, Y=2.678662
+Qframe.points[1].X=3.468439, Y=7.757438
+qu->front=2, rear=2
+
+Frame: 2009
+Queue is Full.
+
+Del queue.
+qu->front=3, rear=2
+Cframe.fid=52, pcnt=2
+Cframe.points[0].X=3.090240, Y=2.650824
+Cframe.points[1].X=3.090240, Y=7.839020
+
+Add queue...
+Qframe.fid=68, pcnt=2
+Qframe.points[0].X=3.537896, Y=2.665745
+Qframe.points[1].X=3.537896, Y=7.742755
+qu->front=3, rear=3
+
+Frame: 2010
+Queue is Full.
+
+Del queue.
+qu->front=4, rear=3
+Cframe.fid=53, pcnt=2
+Cframe.points[0].X=3.121482, Y=2.667238
+Cframe.points[1].X=3.121482, Y=7.838849
+
+Add queue...
+Qframe.fid=69, pcnt=2
+Qframe.points[0].X=3.579272, Y=2.651346
+Qframe.points[1].X=3.579272, Y=7.726054
+qu->front=4, rear=4
+
+Frame: 2011
+Queue is Full.
+
+Del queue.
+qu->front=5, rear=4
+Cframe.fid=54, pcnt=2
+Cframe.points[0].X=3.148194, Y=2.681439
+Cframe.points[1].X=3.148194, Y=7.839112
+
+Add queue...
+Qframe.fid=70, pcnt=2
+Qframe.points[0].X=3.622811, Y=2.634382
+Qframe.points[1].X=3.622811, Y=7.709033
+qu->front=5, rear=5
+
+Frame: 2012
+Queue is Full.
+
+Del queue.
+qu->front=6, rear=5
+Cframe.fid=55, pcnt=2
+Cframe.points[0].X=3.172344, Y=2.692779
+Cframe.points[1].X=3.172344, Y=7.838645
+
+Add queue...
+Qframe.fid=71, pcnt=2
+Qframe.points[0].X=3.677906, Y=2.617119
+Qframe.points[1].X=3.677906, Y=7.690968
+qu->front=6, rear=6
+
+Frame: 2013
+Queue is Full.
+
+Del queue.
+qu->front=7, rear=6
+Cframe.fid=56, pcnt=2
+Cframe.points[0].X=3.194551, Y=2.701812
+Cframe.points[1].X=3.194551, Y=7.837750
+
+Add queue...
+Qframe.fid=72, pcnt=2
+Qframe.points[0].X=3.741736, Y=2.597749
+Qframe.points[1].X=3.741736, Y=7.672635
+qu->front=7, rear=7
+
+Frame: 2014
+Queue is Full.
+
+Del queue.
+qu->front=8, rear=7
+Cframe.fid=57, pcnt=2
+Cframe.points[0].X=3.215645, Y=2.708849
+Cframe.points[1].X=3.215645, Y=7.836898
+
+Add queue...
+Qframe.fid=73, pcnt=2
+Qframe.points[0].X=3.808537, Y=2.575544
+Qframe.points[1].X=3.808537, Y=7.653983
+qu->front=8, rear=8
+
+Frame: 2015
+Queue is Full.
+
+Del queue.
+qu->front=9, rear=8
+Cframe.fid=58, pcnt=2
+Cframe.points[0].X=3.234884, Y=2.713865
+Cframe.points[1].X=3.234884, Y=7.834857
+
+Add queue...
+Qframe.fid=74, pcnt=2
+Qframe.points[0].X=3.878052, Y=2.551869
+Qframe.points[1].X=3.878052, Y=7.635279
+qu->front=9, rear=9
+
+Frame: 2016
+Queue is Full.
+
+Del queue.
+qu->front=10, rear=9
+Cframe.fid=59, pcnt=2
+Cframe.points[0].X=3.253038, Y=2.717216
+Cframe.points[1].X=3.253038, Y=7.832216
+
+Add queue...
+Qframe.fid=75, pcnt=2
+Qframe.points[0].X=3.952279, Y=2.542759
+Qframe.points[1].X=3.952279, Y=7.616439
+qu->front=10, rear=10
+
+Frame: 2017
+Queue is Full.
+
+Del queue.
+qu->front=11, rear=10
+Cframe.fid=60, pcnt=2
+Cframe.points[0].X=3.272947, Y=2.719268
+Cframe.points[1].X=3.272947, Y=7.827976
+
+Add queue...
+Qframe.fid=76, pcnt=2
+Qframe.points[0].X=4.031032, Y=2.533856
+Qframe.points[1].X=4.031032, Y=7.596470
+qu->front=11, rear=11
+
+Frame: 2018
+Queue is Full.
+
+Del queue.
+qu->front=12, rear=11
+Cframe.fid=61, pcnt=2
+Cframe.points[0].X=3.294515, Y=2.718933
+Cframe.points[1].X=3.294515, Y=7.822007
+
+Add queue...
+Qframe.fid=77, pcnt=2
+Qframe.points[0].X=4.111824, Y=2.524479
+Qframe.points[1].X=4.111824, Y=7.577069
+qu->front=12, rear=12
+
+Frame: 2019
+Queue is Full.
+
+Del queue.
+qu->front=13, rear=12
+Cframe.fid=62, pcnt=2
+Cframe.points[0].X=3.315975, Y=2.717401
+Cframe.points[1].X=3.315975, Y=7.814734
+
+Add queue...
+Qframe.fid=78, pcnt=2
+Qframe.points[0].X=4.196314, Y=2.515277
+Qframe.points[1].X=4.196314, Y=7.563341
+qu->front=13, rear=13
+
+Frame: 2020
+Queue is Full.
+
+Del queue.
+qu->front=14, rear=13
+Cframe.fid=63, pcnt=2
+Cframe.points[0].X=3.341450, Y=2.713353
+Cframe.points[1].X=3.341450, Y=7.806470
+
+Add queue...
+Qframe.fid=79, pcnt=2
+Qframe.points[0].X=4.277689, Y=2.505724
+Qframe.points[1].X=4.277689, Y=7.554334
+qu->front=14, rear=14
+
+Frame: 2021
+Queue is Full.
+
+Del queue.
+qu->front=15, rear=14
+Cframe.fid=64, pcnt=2
+Cframe.points[0].X=3.368957, Y=2.707778
+Cframe.points[1].X=3.368957, Y=7.796597
+
+Add queue...
+Qframe.fid=80, pcnt=2
+Qframe.points[0].X=4.342754, Y=2.490976
+Qframe.points[1].X=4.342754, Y=7.545156
+qu->front=15, rear=15
+
+Detect Noise points of frame.
+Nothing of Detect Ghost in Queued frames.
+Frame: 2022
+Queue is Full.
+
+Del queue.
+qu->front=0, rear=15
+Cframe.fid=65, pcnt=2
+Cframe.points[0].X=3.398838, Y=2.700096
+Cframe.points[1].X=3.398838, Y=7.784667
+
+Add queue...
+Qframe.fid=81, pcnt=2
+Qframe.points[0].X=4.409822, Y=2.474746
+Qframe.points[1].X=4.409822, Y=7.535896
+qu->front=0, rear=0
+
+Frame: 2023
+Queue is Full.
+
+Del queue.
+qu->front=1, rear=0
+Cframe.fid=66, pcnt=2
+Cframe.points[0].X=3.430915, Y=2.690449
+Cframe.points[1].X=3.430915, Y=7.772045
+
+Add queue...
+Qframe.fid=82, pcnt=2
+Qframe.points[0].X=4.479286, Y=2.449274
+Qframe.points[1].X=4.479286, Y=7.526321
+qu->front=1, rear=1
+
+Frame: 2024
+Queue is Full.
+
+Del queue.
+qu->front=2, rear=1
+Cframe.fid=67, pcnt=2
+Cframe.points[0].X=3.468439, Y=2.678662
+Cframe.points[1].X=3.468439, Y=7.757438
+
+Add queue...
+Qframe.fid=83, pcnt=2
+Qframe.points[0].X=4.684934, Y=2.424520
+Qframe.points[1].X=4.684934, Y=7.516769
+qu->front=2, rear=2
+
+Frame: 2025
+Queue is Full.
+
+Del queue.
+qu->front=3, rear=2
+Cframe.fid=68, pcnt=2
+Cframe.points[0].X=3.537896, Y=2.665745
+Cframe.points[1].X=3.537896, Y=7.742755
+
+Add queue...
+Qframe.fid=84, pcnt=2
+Qframe.points[0].X=4.780953, Y=2.399321
+Qframe.points[1].X=4.780953, Y=7.506711
+qu->front=3, rear=3
+
+Frame: 2026
+Queue is Full.
+
+Del queue.
+qu->front=4, rear=3
+Cframe.fid=69, pcnt=2
+Cframe.points[0].X=3.579272, Y=2.651346
+Cframe.points[1].X=3.579272, Y=7.726054
+
+Add queue...
+Qframe.fid=85, pcnt=2
+Qframe.points[0].X=4.877647, Y=2.375364
+Qframe.points[1].X=4.877647, Y=7.491428
+qu->front=4, rear=4
+
+Frame: 2027
+Queue is Full.
+
+Del queue.
+qu->front=5, rear=4
+Cframe.fid=70, pcnt=2
+Cframe.points[0].X=3.622811, Y=2.634382
+Cframe.points[1].X=3.622811, Y=7.709033
+
+Add queue...
+Qframe.fid=86, pcnt=2
+Qframe.points[0].X=4.976204, Y=2.350632
+Qframe.points[1].X=4.976204, Y=7.481042
+qu->front=5, rear=5
+
+Frame: 2028
+Queue is Full.
+
+Del queue.
+qu->front=6, rear=5
+Cframe.fid=71, pcnt=2
+Cframe.points[0].X=3.677906, Y=2.617119
+Cframe.points[1].X=3.677906, Y=7.690968
+
+Add queue...
+Qframe.fid=87, pcnt=2
+Qframe.points[0].X=5.075392, Y=2.326475
+Qframe.points[1].X=5.075392, Y=7.470099
+qu->front=6, rear=6
+
+Frame: 2029
+Queue is Full.
+
+Del queue.
+qu->front=7, rear=6
+Cframe.fid=72, pcnt=2
+Cframe.points[0].X=3.741736, Y=2.597749
+Cframe.points[1].X=3.741736, Y=7.672635
+
+Add queue...
+Qframe.fid=88, pcnt=2
+Qframe.points[0].X=5.178265, Y=2.303259
+Qframe.points[1].X=5.178265, Y=7.459109
+qu->front=7, rear=7
+
+Frame: 2030
+Queue is Full.
+
+Del queue.
+qu->front=8, rear=7
+Cframe.fid=73, pcnt=2
+Cframe.points[0].X=3.808537, Y=2.575544
+Cframe.points[1].X=3.808537, Y=7.653983
+
+Add queue...
+Qframe.fid=89, pcnt=2
+Qframe.points[0].X=5.277251, Y=2.281150
+Qframe.points[1].X=5.277251, Y=7.448108
+qu->front=8, rear=8
+
+Frame: 2031
+Queue is Full.
+
+Del queue.
+qu->front=9, rear=8
+Cframe.fid=74, pcnt=2
+Cframe.points[0].X=3.878052, Y=2.551869
+Cframe.points[1].X=3.878052, Y=7.635279
+
+Add queue...
+Qframe.fid=90, pcnt=2
+Qframe.points[0].X=5.379015, Y=2.258887
+Qframe.points[1].X=5.379015, Y=7.436661
+qu->front=9, rear=9
+
+Frame: 2032
+Queue is Full.
+
+Del queue.
+qu->front=10, rear=9
+Cframe.fid=75, pcnt=2
+Cframe.points[0].X=3.952279, Y=2.542759
+Cframe.points[1].X=3.952279, Y=7.616439
+
+Add queue...
+Qframe.fid=91, pcnt=2
+Qframe.points[0].X=5.470560, Y=2.236977
+Qframe.points[1].X=5.470560, Y=7.425394
+qu->front=10, rear=10
+
+Frame: 2033
+Queue is Full.
+
+Del queue.
+qu->front=11, rear=10
+Cframe.fid=76, pcnt=2
+Cframe.points[0].X=4.031032, Y=2.533856
+Cframe.points[1].X=4.031032, Y=7.596470
+
+Add queue...
+Qframe.fid=92, pcnt=2
+Qframe.points[0].X=5.672495, Y=2.216394
+Qframe.points[1].X=5.672495, Y=7.414298
+qu->front=11, rear=11
+
+Frame: 2034
+Queue is Full.
+
+Del queue.
+qu->front=12, rear=11
+Cframe.fid=77, pcnt=2
+Cframe.points[0].X=4.111824, Y=2.524479
+Cframe.points[1].X=4.111824, Y=7.577069
+
+Add queue...
+Qframe.fid=93, pcnt=2
+Qframe.points[0].X=5.768762, Y=2.197058
+Qframe.points[1].X=5.768762, Y=7.403399
+qu->front=12, rear=12
+
+Frame: 2035
+Queue is Full.
+
+Del queue.
+qu->front=13, rear=12
+Cframe.fid=78, pcnt=2
+Cframe.points[0].X=4.196314, Y=2.515277
+Cframe.points[1].X=4.196314, Y=7.563341
+
+Add queue...
+Qframe.fid=94, pcnt=2
+Qframe.points[0].X=5.868304, Y=2.178887
+Qframe.points[1].X=5.868304, Y=7.392758
+qu->front=13, rear=13
+
+Frame: 2036
+Queue is Full.
+
+Del queue.
+qu->front=14, rear=13
+Cframe.fid=79, pcnt=2
+Cframe.points[0].X=4.277689, Y=2.505724
+Cframe.points[1].X=4.277689, Y=7.554334
+
+Add queue...
+Qframe.fid=95, pcnt=2
+Qframe.points[0].X=5.968321, Y=2.162787
+Qframe.points[1].X=5.968321, Y=7.362591
+qu->front=14, rear=14
+
+Frame: 2037
+Queue is Full.
+
+Del queue.
+qu->front=15, rear=14
+Cframe.fid=80, pcnt=2
+Cframe.points[0].X=4.342754, Y=2.490976
+Cframe.points[1].X=4.342754, Y=7.545156
+
+Add queue...
+Qframe.fid=96, pcnt=2
+Qframe.points[0].X=6.068064, Y=2.147157
+Qframe.points[1].X=6.068064, Y=7.333313
+qu->front=15, rear=15
+
+Detect Noise points of frame.
+Nothing of Detect Ghost in Queued frames.
+Frame: 2038
+Queue is Full.
+
+Del queue.
+qu->front=0, rear=15
+Cframe.fid=81, pcnt=2
+Cframe.points[0].X=4.409822, Y=2.474746
+Cframe.points[1].X=4.409822, Y=7.535896
+
+Add queue...
+Qframe.fid=97, pcnt=2
+Qframe.points[0].X=6.165331, Y=2.133364
+Qframe.points[1].X=6.165331, Y=7.305907
+qu->front=0, rear=0
+
+Frame: 2039
+Queue is Full.
+
+Del queue.
+qu->front=1, rear=0
+Cframe.fid=82, pcnt=2
+Cframe.points[0].X=4.479286, Y=2.449274
+Cframe.points[1].X=4.479286, Y=7.526321
+
+Add queue...
+Qframe.fid=98, pcnt=2
+Qframe.points[0].X=6.264415, Y=2.120155
+Qframe.points[1].X=6.264415, Y=7.281305
+qu->front=1, rear=1
+
+Frame: 2040
+Queue is Full.
+
+Del queue.
+qu->front=2, rear=1
+Cframe.fid=83, pcnt=2
+Cframe.points[0].X=4.684934, Y=2.424520
+Cframe.points[1].X=4.684934, Y=7.516769
+
+Add queue...
+Qframe.fid=99, pcnt=2
+Qframe.points[0].X=6.362727, Y=2.107531
+Qframe.points[1].X=6.362727, Y=7.259479
+qu->front=2, rear=2
+
+Frame: 2041
+Queue is Full.
+
+Del queue.
+qu->front=3, rear=2
+Cframe.fid=84, pcnt=2
+Cframe.points[0].X=4.780953, Y=2.399321
+Cframe.points[1].X=4.780953, Y=7.506711
+
+Add queue...
+Qframe.fid=100, pcnt=2
+Qframe.points[0].X=6.524410, Y=2.095068
+Qframe.points[1].X=6.524410, Y=7.239136
+qu->front=3, rear=3
+
+Frame: 2042
+Queue is Full.
+
+Del queue.
+qu->front=4, rear=3
+Cframe.fid=85, pcnt=2
+Cframe.points[0].X=4.877647, Y=2.375364
+Cframe.points[1].X=4.877647, Y=7.491428
+
+Add queue...
+Qframe.fid=101, pcnt=2
+Qframe.points[0].X=6.607564, Y=2.083838
+Qframe.points[1].X=6.607564, Y=7.221025
+qu->front=4, rear=4
+
+Frame: 2043
+Queue is Full.
+
+Del queue.
+qu->front=5, rear=4
+Cframe.fid=86, pcnt=2
+Cframe.points[0].X=4.976204, Y=2.350632
+Cframe.points[1].X=4.976204, Y=7.481042
+
+Add queue...
+Qframe.fid=102, pcnt=2
+Qframe.points[0].X=6.707815, Y=2.072543
+Qframe.points[1].X=6.707815, Y=7.205122
+qu->front=5, rear=5
+
+Frame: 2044
+Queue is Full.
+
+Del queue.
+qu->front=6, rear=5
+Cframe.fid=87, pcnt=2
+Cframe.points[0].X=5.075392, Y=2.326475
+Cframe.points[1].X=5.075392, Y=7.470099
+
+Add queue...
+Qframe.fid=103, pcnt=2
+Qframe.points[0].X=6.810133, Y=2.061547
+Qframe.points[1].X=6.810133, Y=7.189899
+qu->front=6, rear=6
+
+Frame: 2045
+Queue is Full.
+
+Del queue.
+qu->front=7, rear=6
+Cframe.fid=88, pcnt=2
+Cframe.points[0].X=5.178265, Y=2.303259
+Cframe.points[1].X=5.178265, Y=7.459109
+
+Add queue...
+Qframe.fid=104, pcnt=2
+Qframe.points[0].X=6.914658, Y=2.050821
+Qframe.points[1].X=6.914658, Y=7.175868
+qu->front=7, rear=7
+
+Frame: 2046
+Queue is Full.
+
+Del queue.
+qu->front=8, rear=7
+Cframe.fid=89, pcnt=2
+Cframe.points[0].X=5.277251, Y=2.281150
+Cframe.points[1].X=5.277251, Y=7.448108
+
+Add queue...
+Qframe.fid=105, pcnt=2
+Qframe.points[0].X=7.018727, Y=2.040539
+Qframe.points[1].X=7.018727, Y=7.163931
+qu->front=8, rear=8
+
+Frame: 2047
+Queue is Full.
+
+Del queue.
+qu->front=9, rear=8
+Cframe.fid=90, pcnt=2
+Cframe.points[0].X=5.379015, Y=2.258887
+Cframe.points[1].X=5.379015, Y=7.436661
+
+Add queue...
+Qframe.fid=106, pcnt=2
+Qframe.points[0].X=7.123754, Y=2.029351
+Qframe.points[1].X=7.123754, Y=7.153079
+qu->front=9, rear=9
+
+Frame: 2048
+Queue is Full.
+
+Del queue.
+qu->front=10, rear=9
+Cframe.fid=91, pcnt=2
+Cframe.points[0].X=5.470560, Y=2.236977
+Cframe.points[1].X=5.470560, Y=7.425394
+
+Add queue...
+Qframe.fid=107, pcnt=2
+Qframe.points[0].X=7.229271, Y=2.018488
+Qframe.points[1].X=7.229271, Y=7.141980
+qu->front=10, rear=10
+
+Frame: 2049
+Queue is Full.
+
+Del queue.
+qu->front=11, rear=10
+Cframe.fid=92, pcnt=2
+Cframe.points[0].X=5.672495, Y=2.216394
+Cframe.points[1].X=5.672495, Y=7.414298
+
+Add queue...
+Qframe.fid=108, pcnt=2
+Qframe.points[0].X=7.332390, Y=2.008501
+Qframe.points[1].X=7.332390, Y=7.132214
+qu->front=11, rear=11
+
+Frame: 2050
+Queue is Full.
+
+Del queue.
+qu->front=12, rear=11
+Cframe.fid=93, pcnt=2
+Cframe.points[0].X=5.768762, Y=2.197058
+Cframe.points[1].X=5.768762, Y=7.403399
+
+Add queue...
+Qframe.fid=109, pcnt=2
+Qframe.points[0].X=7.434347, Y=1.999646
+Qframe.points[1].X=7.434347, Y=7.123421
+qu->front=12, rear=12
+
+Frame: 2051
+Queue is Full.
+
+Del queue.
+qu->front=13, rear=12
+Cframe.fid=94, pcnt=2
+Cframe.points[0].X=5.868304, Y=2.178887
+Cframe.points[1].X=5.868304, Y=7.392758
+
+Add queue...
+Qframe.fid=110, pcnt=2
+Qframe.points[0].X=7.647874, Y=1.990913
+Qframe.points[1].X=7.647874, Y=7.115907
+qu->front=13, rear=13
+
+Frame: 2052
+Queue is Full.
+
+Del queue.
+qu->front=14, rear=13
+Cframe.fid=95, pcnt=2
+Cframe.points[0].X=5.968321, Y=2.162787
+Cframe.points[1].X=5.968321, Y=7.362591
+
+Add queue...
+Qframe.fid=111, pcnt=2
+Qframe.points[0].X=7.759897, Y=1.982805
+Qframe.points[1].X=7.759897, Y=7.108555
+qu->front=14, rear=14
+
+Frame: 2053
+Queue is Full.
+
+Del queue.
+qu->front=15, rear=14
+Cframe.fid=96, pcnt=2
+Cframe.points[0].X=6.068064, Y=2.147157
+Cframe.points[1].X=6.068064, Y=7.333313
+
+Add queue...
+Qframe.fid=112, pcnt=2
+Qframe.points[0].X=7.863663, Y=1.976027
+Qframe.points[1].X=7.863663, Y=7.102070
+qu->front=15, rear=15
+
+Detect Noise points of frame.
+Nothing of Detect Ghost in Queued frames.
+Frame: 2054
+Queue is Full.
+
+Del queue.
+qu->front=0, rear=15
+Cframe.fid=97, pcnt=2
+Cframe.points[0].X=6.165331, Y=2.133364
+Cframe.points[1].X=6.165331, Y=7.305907
+
+Add queue...
+Qframe.fid=113, pcnt=2
+Qframe.points[0].X=7.960469, Y=1.970118
+Qframe.points[1].X=7.960469, Y=7.096454
+qu->front=0, rear=0
+
+Frame: 2055
+Queue is Full.
+
+Del queue.
+qu->front=1, rear=0
+Cframe.fid=98, pcnt=2
+Cframe.points[0].X=6.264415, Y=2.120155
+Cframe.points[1].X=6.264415, Y=7.281305
+
+Add queue...
+Qframe.fid=114, pcnt=2
+Qframe.points[0].X=8.052518, Y=1.965662
+Qframe.points[1].X=8.052518, Y=7.091923
+qu->front=1, rear=1
+
+Frame: 2056
+Queue is Full.
+
+Del queue.
+qu->front=2, rear=1
+Cframe.fid=99, pcnt=2
+Cframe.points[0].X=6.362727, Y=2.107531
+Cframe.points[1].X=6.362727, Y=7.259479
+
+Add queue...
+Qframe.fid=115, pcnt=2
+Qframe.points[0].X=8.137044, Y=1.961756
+Qframe.points[1].X=8.137044, Y=7.087443
+qu->front=2, rear=2
+
+Frame: 2057
+Queue is Full.
+
+Del queue.
+qu->front=3, rear=2
+Cframe.fid=100, pcnt=2
+Cframe.points[0].X=6.524410, Y=2.095068
+Cframe.points[1].X=6.524410, Y=7.239136
+
+Add queue...
+Qframe.fid=116, pcnt=2
+Qframe.points[0].X=8.215033, Y=1.959792
+Qframe.points[1].X=8.215033, Y=7.083572
+qu->front=3, rear=3
+
+Frame: 2058
+Queue is Full.
+
+Del queue.
+qu->front=4, rear=3
+Cframe.fid=101, pcnt=2
+Cframe.points[0].X=6.607564, Y=2.083838
+Cframe.points[1].X=6.607564, Y=7.221025
+
+Add queue...
+Qframe.fid=117, pcnt=2
+Qframe.points[0].X=8.285295, Y=1.959340
+Qframe.points[1].X=8.285295, Y=7.080632
+qu->front=4, rear=4
+
+Frame: 2059
+Queue is Full.
+
+Del queue.
+qu->front=5, rear=4
+Cframe.fid=102, pcnt=2
+Cframe.points[0].X=6.707815, Y=2.072543
+Cframe.points[1].X=6.707815, Y=7.205122
+
+Add queue...
+Qframe.fid=118, pcnt=2
+Qframe.points[0].X=8.349034, Y=1.960262
+Qframe.points[1].X=8.349034, Y=7.078354
+qu->front=5, rear=5
+
+Frame: 2060
+Queue is Full.
+
+Del queue.
+qu->front=6, rear=5
+Cframe.fid=103, pcnt=2
+Cframe.points[0].X=6.810133, Y=2.061547
+Cframe.points[1].X=6.810133, Y=7.189899
+
+Add queue...
+Qframe.fid=119, pcnt=2
+Qframe.points[0].X=8.406189, Y=1.962165
+Qframe.points[1].X=8.406189, Y=7.076028
+qu->front=6, rear=6
+
+Frame: 2061
+Queue is Full.
+
+Del queue.
+qu->front=7, rear=6
+Cframe.fid=104, pcnt=2
+Cframe.points[0].X=6.914658, Y=2.050821
+Cframe.points[1].X=6.914658, Y=7.175868
+
+Add queue...
+Qframe.fid=120, pcnt=2
+Qframe.points[0].X=8.456022, Y=1.965895
+Qframe.points[1].X=8.456022, Y=7.075027
+qu->front=7, rear=7
+
+Frame: 2062
+Queue is Full.
+
+Del queue.
+qu->front=8, rear=7
+Cframe.fid=105, pcnt=2
+Cframe.points[0].X=7.018727, Y=2.040539
+Cframe.points[1].X=7.018727, Y=7.163931
+
+Add queue...
+Qframe.fid=121, pcnt=2
+Qframe.points[0].X=8.499220, Y=1.970291
+Qframe.points[1].X=8.499220, Y=7.073298
+qu->front=8, rear=8
+
+Frame: 2063
+Queue is Full.
+
+Del queue.
+qu->front=9, rear=8
+Cframe.fid=106, pcnt=2
+Cframe.points[0].X=7.123754, Y=2.029351
+Cframe.points[1].X=7.123754, Y=7.153079
+
+Add queue...
+Qframe.fid=122, pcnt=2
+Qframe.points[0].X=8.535284, Y=1.976579
+Qframe.points[1].X=8.535284, Y=7.073760
+qu->front=9, rear=9
+
+Frame: 2064
+Queue is Full.
+
+Del queue.
+qu->front=10, rear=9
+Cframe.fid=107, pcnt=2
+Cframe.points[0].X=7.229271, Y=2.018488
+Cframe.points[1].X=7.229271, Y=7.141980
+
+Add queue...
+Qframe.fid=123, pcnt=2
+Qframe.points[0].X=8.548499, Y=1.983329
+Qframe.points[1].X=8.548499, Y=7.073950
+qu->front=10, rear=10
+
+Frame: 2065
+Queue is Full.
+
+Del queue.
+qu->front=11, rear=10
+Cframe.fid=108, pcnt=2
+Cframe.points[0].X=7.332390, Y=2.008501
+Cframe.points[1].X=7.332390, Y=7.132214
+
+Add queue...
+Qframe.fid=124, pcnt=2
+Qframe.points[0].X=8.553732, Y=1.991407
+Qframe.points[1].X=8.553732, Y=7.074368
+qu->front=11, rear=11
+
+Frame: 2066
+Queue is Full.
+
+Del queue.
+qu->front=12, rear=11
+Cframe.fid=109, pcnt=2
+Cframe.points[0].X=7.434347, Y=1.999646
+Cframe.points[1].X=7.434347, Y=7.123421
+
+Add queue...
+Qframe.fid=125, pcnt=2
+Qframe.points[0].X=8.554976, Y=1.999733
+Qframe.points[1].X=8.554976, Y=7.076396
+qu->front=12, rear=12
+
+Frame: 2067
+Queue is Full.
+
+Del queue.
+qu->front=13, rear=12
+Cframe.fid=110, pcnt=2
+Cframe.points[0].X=7.647874, Y=1.990913
+Cframe.points[1].X=7.647874, Y=7.115907
+
+Add queue...
+Qframe.fid=126, pcnt=4
+Qframe.points[0].X=8.128025, Y=2.007890
+Qframe.points[1].X=11.156652, Y=2.007890
+Qframe.points[2].X=8.128025, Y=7.078755
+Qframe.points[3].X=11.156652, Y=7.078755
+qu->front=13, rear=13
+
+Frame: 2068
+Queue is Full.
+
+Del queue.
+qu->front=14, rear=13
+Cframe.fid=111, pcnt=2
+Cframe.points[0].X=7.759897, Y=1.982805
+Cframe.points[1].X=7.759897, Y=7.108555
+
+Add queue...
+Qframe.fid=127, pcnt=4
+Qframe.points[0].X=8.131313, Y=2.017905
+Qframe.points[1].X=11.252955, Y=2.017905
+Qframe.points[2].X=8.131313, Y=7.081464
+Qframe.points[3].X=11.252955, Y=7.081464
+qu->front=14, rear=14
+
+Frame: 2069
+Queue is Full.
+
+Del queue.
+qu->front=15, rear=14
+Cframe.fid=112, pcnt=2
+Cframe.points[0].X=7.863663, Y=1.976027
+Cframe.points[1].X=7.863663, Y=7.102070
+
+Add queue...
+Qframe.fid=128, pcnt=4
+Qframe.points[0].X=8.139393, Y=2.028464
+Qframe.points[1].X=11.349156, Y=2.028464
+Qframe.points[2].X=8.139393, Y=7.085566
+Qframe.points[3].X=11.349156, Y=7.085566
+qu->front=15, rear=15
+
+Detect Noise points of frame.
+The 4 points frame count in Queue: 3.
+The 4 points frame num in Queue: 0xe000.
+qu->fm[14].points[0].X = 8.131313
+qu->fm[14].points[0].Y = 2.017905
+qu->fm[13].points[0].X = 8.128025
+qu->fm[13].points[0].Y = 2.007890
+cmp= 653.000000.
+dist= 0.000111.
+qu->fm[14].points[1].X = 11.252955
+qu->fm[14].points[1].Y = 2.017905
+qu->fm[13].points[1].X = 11.156652
+qu->fm[13].points[1].Y = 2.007890
+cmp= 0.000111.
+dist= 0.009375.
+qu->fm[14].points[2].X = 8.131313
+qu->fm[14].points[2].Y = 7.081464
+qu->fm[13].points[2].X = 8.128025
+qu->fm[13].points[2].Y = 7.078755
+cmp= 0.000111.
+dist= 0.000018.
+qu->fm[14].points[3].X = 11.252955
+qu->fm[14].points[3].Y = 7.081464
+qu->fm[13].points[3].X = 11.156652
+qu->fm[13].points[3].Y = 7.078755
+cmp= 0.000018.
+dist= 0.009282.
+Nearest points: 2.
+qu->fm[15].points[0].X = 8.139393
+qu->fm[15].points[0].Y = 2.028464
+qu->fm[14].points[0].X = 8.131313
+qu->fm[14].points[0].Y = 2.017905
+cmp= 0.000018.
+dist= 0.000177.
+qu->fm[15].points[1].X = 11.349156
+qu->fm[15].points[1].Y = 2.028464
+qu->fm[14].points[1].X = 11.252955
+qu->fm[14].points[1].Y = 2.017905
+cmp= 0.000018.
+dist= 0.009366.
+qu->fm[15].points[2].X = 8.139393
+qu->fm[15].points[2].Y = 7.085566
+qu->fm[14].points[2].X = 8.131313
+qu->fm[14].points[2].Y = 7.081464
+cmp= 0.000018.
+dist= 0.000082.
+qu->fm[15].points[3].X = 11.349156
+qu->fm[15].points[3].Y = 7.085566
+qu->fm[14].points[3].X = 11.252955
+qu->fm[14].points[3].Y = 7.081464
+cmp= 0.000018.
+dist= 0.009271.
+Nearest points: 2.
+No frame in 1st queue.
+No frame in 1st queue.
+No frame in 1st queue.
+No frame in 1st queue.
+No frame in 1st queue.
+No frame in 1st queue.
+No frame in 1st queue.
+No frame in 1st queue.
+No frame in 1st queue.
+No frame in 1st queue.
+No frame in 1st queue.
+No frame in 1st queue.
+No frame in 1st queue.
+After de-ghost points in Queue.
+qu->fm[13].points[0].X = 11.156652, Y = 2.007890
+qu->fm[13].points[1].X = 8.128025, Y = 7.078755
+qu->fm[14].points[0].X = 11.252955, Y = 2.017905
+qu->fm[14].points[1].X = 8.131313, Y = 7.081464
+qu->fm[15].points[0].X = 11.349156, Y = 2.028464
+qu->fm[15].points[1].X = 8.139393, Y = 7.085566
+Frame: 2070
+Queue is Full.
+
+Del queue.
+qu->front=0, rear=15
+Cframe.fid=113, pcnt=0
+
+Add queue...
+Qframe.fid=129, pcnt=4
+Qframe.points[0].X=8.150911, Y=2.039994
+Qframe.points[1].X=11.441886, Y=2.039994
+Qframe.points[2].X=8.150911, Y=7.090543
+Qframe.points[3].X=11.441886, Y=7.090543
+qu->front=0, rear=0
+
+
+Del queue.
+qu->front=1, rear=0
+Cframe.fid=114, pcnt=0
+Frame: 2071
+
+Add queue...
+Qframe.fid=130, pcnt=4
+Qframe.points[0].X=8.167014, Y=2.052820
+Qframe.points[1].X=11.534132, Y=2.052820
+Qframe.points[2].X=8.167014, Y=7.097638
+Qframe.points[3].X=11.534132, Y=7.097638
+qu->front=1, rear=1
+
+Frame: 2072
+Queue is Full.
+
+Del queue.
+qu->front=2, rear=1
+Cframe.fid=115, pcnt=0
+
+Add queue...
+Qframe.fid=131, pcnt=4
+Qframe.points[0].X=8.188122, Y=2.066823
+Qframe.points[1].X=11.672129, Y=2.066823
+Qframe.points[2].X=8.188122, Y=7.104894
+Qframe.points[3].X=11.672129, Y=7.104894
+qu->front=2, rear=2
+
+
+Del queue.
+qu->front=3, rear=2
+Cframe.fid=116, pcnt=0
+Frame: 2073
+
+Add queue...
+Qframe.fid=132, pcnt=4
+Qframe.points[0].X=8.216034, Y=2.082766
+Qframe.points[1].X=11.810469, Y=2.082766
+Qframe.points[2].X=8.216034, Y=7.113131
+Qframe.points[3].X=11.810469, Y=7.113131
+qu->front=3, rear=3
+
+Frame: 2074
+Queue is Full.
+
+Del queue.
+qu->front=4, rear=3
+Cframe.fid=117, pcnt=0
+
+Add queue...
+Qframe.fid=133, pcnt=4
+Qframe.points[0].X=8.249780, Y=2.101575
+Qframe.points[1].X=11.950546, Y=2.101575
+Qframe.points[2].X=8.249780, Y=7.121814
+Qframe.points[3].X=11.950546, Y=7.121814
+qu->front=4, rear=4
+
+
+Del queue.
+qu->front=5, rear=4
+Cframe.fid=118, pcnt=0
+Frame: 2075
+
+Add queue...
+Qframe.fid=134, pcnt=4
+Qframe.points[0].X=8.289028, Y=2.122214
+Qframe.points[1].X=12.088703, Y=2.122214
+Qframe.points[2].X=8.289028, Y=7.131260
+Qframe.points[3].X=12.088703, Y=7.131260
+qu->front=5, rear=5
+
+Frame: 2076
+Queue is Full.
+
+Del queue.
+qu->front=6, rear=5
+Cframe.fid=119, pcnt=0
+
+Add queue...
+Qframe.fid=135, pcnt=4
+Qframe.points[0].X=8.334932, Y=2.146550
+Qframe.points[1].X=12.502449, Y=2.146550
+Qframe.points[2].X=8.334932, Y=7.141941
+Qframe.points[3].X=12.502449, Y=7.141941
+qu->front=6, rear=6
+
+
+Del queue.
+qu->front=7, rear=6
+Cframe.fid=120, pcnt=0
+Frame: 2077
+
+Add queue...
+Qframe.fid=136, pcnt=4
+Qframe.points[0].X=8.402178, Y=2.174580
+Qframe.points[1].X=12.629556, Y=2.174580
+Qframe.points[2].X=8.402178, Y=7.152870
+Qframe.points[3].X=12.629556, Y=7.152870
+qu->front=7, rear=7
+
+Frame: 2078
+Queue is Full.
+
+Del queue.
+qu->front=8, rear=7
+Cframe.fid=121, pcnt=0
+
+Add queue...
+Qframe.fid=137, pcnt=4
+Qframe.points[0].X=8.689578, Y=2.206415
+Qframe.points[1].X=12.755811, Y=2.206415
+Qframe.points[2].X=8.689578, Y=7.163241
+Qframe.points[3].X=12.755811, Y=7.163241
+qu->front=8, rear=8
+
+
+Del queue.
+qu->front=9, rear=8
+Cframe.fid=122, pcnt=0
+Frame: 2079
+
+Add queue...
+Qframe.fid=138, pcnt=4
+Qframe.points[0].X=8.740197, Y=2.242147
+Qframe.points[1].X=12.910997, Y=2.242147
+Qframe.points[2].X=8.740197, Y=7.174843
+Qframe.points[3].X=12.910997, Y=7.174843
+qu->front=9, rear=9
+
+Frame: 2080
+Queue is Full.
+
+Del queue.
+qu->front=10, rear=9
+Cframe.fid=123, pcnt=0
+
+Add queue...
+Qframe.fid=139, pcnt=4
+Qframe.points[0].X=8.793033, Y=2.282504
+Qframe.points[1].X=13.094308, Y=2.282504
+Qframe.points[2].X=8.793033, Y=7.187398
+Qframe.points[3].X=13.094308, Y=7.187398
+qu->front=10, rear=10
+
+
+Del queue.
+qu->front=11, rear=10
+Cframe.fid=124, pcnt=0
+Frame: 2081
+
+Add queue...
+Qframe.fid=140, pcnt=4
+Qframe.points[0].X=8.827452, Y=2.327613
+Qframe.points[1].X=13.263009, Y=2.327613
+Qframe.points[2].X=8.827452, Y=7.199929
+Qframe.points[3].X=13.263009, Y=7.199929
+qu->front=11, rear=11
+
+Frame: 2082
+Queue is Full.
+
+Del queue.
+qu->front=12, rear=11
+Cframe.fid=125, pcnt=0
+
+Add queue...
+Qframe.fid=141, pcnt=2
+Qframe.points[0].X=13.386745, Y=2.378099
+Qframe.points[1].X=13.386745, Y=7.213040
+qu->front=12, rear=12
+
+
+Del queue.
+qu->front=13, rear=12
+Cframe.fid=126, pcnt=2
+Cframe.points[0].X=11.156652, Y=2.007890
+Cframe.points[1].X=8.128025, Y=7.078755
+Frame: 2083
+
+Add queue...
+Qframe.fid=142, pcnt=2
+Qframe.points[0].X=13.506712, Y=2.435411
+Qframe.points[1].X=13.506712, Y=7.227587
+qu->front=13, rear=13
+
+Frame: 2084
+Queue is Full.
+
+Del queue.
+qu->front=14, rear=13
+Cframe.fid=127, pcnt=2
+Cframe.points[0].X=11.252955, Y=2.017905
+Cframe.points[1].X=8.131313, Y=7.081464
+
+Add queue...
+Qframe.fid=143, pcnt=2
+Qframe.points[0].X=13.656069, Y=2.473560
+Qframe.points[1].X=13.656069, Y=7.242431
+qu->front=14, rear=14
+
+Frame: 2085
+Queue is Full.
+
+Del queue.
+qu->front=15, rear=14
+Cframe.fid=128, pcnt=2
+Cframe.points[0].X=11.349156, Y=2.028464
+Cframe.points[1].X=8.139393, Y=7.085566
+
+Add queue...
+Qframe.fid=144, pcnt=2
+Qframe.points[0].X=13.773930, Y=2.504644
+Qframe.points[1].X=13.773930, Y=7.258369
+qu->front=15, rear=15
+
+Detect Noise points of frame.
+The 4 points frame count in Queue: 12.
+The 4 points frame num in Queue: 0xfff.
+qu->fm[1].points[0].X = 8.167014
+qu->fm[1].points[0].Y = 2.052820
+qu->fm[0].points[0].X = 8.150911
+qu->fm[0].points[0].Y = 2.039994
+cmp= 653.000000.
+dist= 0.000424.
+qu->fm[1].points[1].X = 11.534132
+qu->fm[1].points[1].Y = 2.052820
+qu->fm[0].points[1].X = 11.441886
+qu->fm[0].points[1].Y = 2.039994
+cmp= 0.000424.
+dist= 0.008674.
+qu->fm[1].points[2].X = 8.167014
+qu->fm[1].points[2].Y = 7.097638
+qu->fm[0].points[2].X = 8.150911
+qu->fm[0].points[2].Y = 7.090543
+cmp= 0.000424.
+dist= 0.000310.
+qu->fm[1].points[3].X = 11.534132
+qu->fm[1].points[3].Y = 7.097638
+qu->fm[0].points[3].X = 11.441886
+qu->fm[0].points[3].Y = 7.090543
+cmp= 0.000310.
+dist= 0.008560.
+Nearest points: 2.
+qu->fm[2].points[0].X = 8.188122
+qu->fm[2].points[0].Y = 2.066823
+qu->fm[1].points[0].X = 8.167014
+qu->fm[1].points[0].Y = 2.052820
+cmp= 0.000310.
+dist= 0.000642.
+qu->fm[2].points[1].X = 11.672129
+qu->fm[2].points[1].Y = 2.066823
+qu->fm[1].points[1].X = 11.534132
+qu->fm[1].points[1].Y = 2.052820
+cmp= 0.000310.
+dist= 0.019239.
+qu->fm[2].points[2].X = 8.188122
+qu->fm[2].points[2].Y = 7.104894
+qu->fm[1].points[2].X = 8.167014
+qu->fm[1].points[2].Y = 7.097638
+cmp= 0.000310.
+dist= 0.000498.
+qu->fm[2].points[3].X = 11.672129
+qu->fm[2].points[3].Y = 7.104894
+qu->fm[1].points[3].X = 11.534132
+qu->fm[1].points[3].Y = 7.097638
+cmp= 0.000310.
+dist= 0.019096.
+Nearest points: 2.
+qu->fm[3].points[0].X = 8.216034
+qu->fm[3].points[0].Y = 2.082766
+qu->fm[2].points[0].X = 8.188122
+qu->fm[2].points[0].Y = 2.066823
+cmp= 0.000310.
+dist= 0.001033.
+qu->fm[3].points[1].X = 11.810469
+qu->fm[3].points[1].Y = 2.082766
+qu->fm[2].points[1].X = 11.672129
+qu->fm[2].points[1].Y = 2.066823
+cmp= 0.000310.
+dist= 0.019392.
+qu->fm[3].points[2].X = 8.216034
+qu->fm[3].points[2].Y = 7.113131
+qu->fm[2].points[2].X = 8.188122
+qu->fm[2].points[2].Y = 7.104894
+cmp= 0.000310.
+dist= 0.000847.
+qu->fm[3].points[3].X = 11.810469
+qu->fm[3].points[3].Y = 7.113131
+qu->fm[2].points[3].X = 11.672129
+qu->fm[2].points[3].Y = 7.104894
+cmp= 0.000310.
+dist= 0.019206.
+Nearest points: 2.
+qu->fm[4].points[0].X = 8.249780
+qu->fm[4].points[0].Y = 2.101575
+qu->fm[3].points[0].X = 8.216034
+qu->fm[3].points[0].Y = 2.082766
+cmp= 0.000310.
+dist= 0.001493.
+qu->fm[4].points[1].X = 11.950546
+qu->fm[4].points[1].Y = 2.101575
+qu->fm[3].points[1].X = 11.810469
+qu->fm[3].points[1].Y = 2.082766
+cmp= 0.000310.
+dist= 0.019976.
+qu->fm[4].points[2].X = 8.249780
+qu->fm[4].points[2].Y = 7.121814
+qu->fm[3].points[2].X = 8.216034
+qu->fm[3].points[2].Y = 7.113131
+cmp= 0.000310.
+dist= 0.001214.
+qu->fm[4].points[3].X = 11.950546
+qu->fm[4].points[3].Y = 7.121814
+qu->fm[3].points[3].X = 11.810469
+qu->fm[3].points[3].Y = 7.113131
+cmp= 0.000310.
+dist= 0.019697.
+Nearest points: 2.
+qu->fm[5].points[0].X = 8.289028
+qu->fm[5].points[0].Y = 2.122214
+qu->fm[4].points[0].X = 8.249780
+qu->fm[4].points[0].Y = 2.101575
+cmp= 0.000310.
+dist= 0.001966.
+qu->fm[5].points[1].X = 12.088703
+qu->fm[5].points[1].Y = 2.122214
+qu->fm[4].points[1].X = 11.950546
+qu->fm[4].points[1].Y = 2.101575
+cmp= 0.000310.
+dist= 0.019513.
+qu->fm[5].points[2].X = 8.289028
+qu->fm[5].points[2].Y = 7.131260
+qu->fm[4].points[2].X = 8.249780
+qu->fm[4].points[2].Y = 7.121814
+cmp= 0.000310.
+dist= 0.001630.
+qu->fm[5].points[3].X = 12.088703
+qu->fm[5].points[3].Y = 7.131260
+qu->fm[4].points[3].X = 11.950546
+qu->fm[4].points[3].Y = 7.121814
+cmp= 0.000310.
+dist= 0.019177.
+Nearest points: 2.
+qu->fm[6].points[0].X = 8.334932
+qu->fm[6].points[0].Y = 2.146550
+qu->fm[5].points[0].X = 8.289028
+qu->fm[5].points[0].Y = 2.122214
+cmp= 0.000310.
+dist= 0.002699.
+qu->fm[6].points[1].X = 12.502449
+qu->fm[6].points[1].Y = 2.146550
+qu->fm[5].points[1].X = 12.088703
+qu->fm[5].points[1].Y = 2.122214
+cmp= 0.000310.
+dist= 0.171778.
+qu->fm[6].points[2].X = 8.334932
+qu->fm[6].points[2].Y = 7.141941
+qu->fm[5].points[2].X = 8.289028
+qu->fm[5].points[2].Y = 7.131260
+cmp= 0.000310.
+dist= 0.002221.
+qu->fm[6].points[3].X = 12.502449
+qu->fm[6].points[3].Y = 7.141941
+qu->fm[5].points[3].X = 12.088703
+qu->fm[5].points[3].Y = 7.131260
+cmp= 0.000310.
+dist= 0.171300.
+Nearest points: 2.
+qu->fm[7].points[0].X = 8.402178
+qu->fm[7].points[0].Y = 2.174580
+qu->fm[6].points[0].X = 8.334932
+qu->fm[6].points[0].Y = 2.146550
+cmp= 0.000310.
+dist= 0.005308.
+qu->fm[7].points[1].X = 12.629556
+qu->fm[7].points[1].Y = 2.174580
+qu->fm[6].points[1].X = 12.502449
+qu->fm[6].points[1].Y = 2.146550
+cmp= 0.000310.
+dist= 0.016942.
+qu->fm[7].points[2].X = 8.402178
+qu->fm[7].points[2].Y = 7.152870
+qu->fm[6].points[2].X = 8.334932
+qu->fm[6].points[2].Y = 7.141941
+cmp= 0.000310.
+dist= 0.004641.
+qu->fm[7].points[3].X = 12.629556
+qu->fm[7].points[3].Y = 7.152870
+qu->fm[6].points[3].X = 12.502449
+qu->fm[6].points[3].Y = 7.141941
+cmp= 0.000310.
+dist= 0.016276.
+Nearest points: 2.
+qu->fm[8].points[0].X = 8.689578
+qu->fm[8].points[0].Y = 2.206415
+qu->fm[7].points[0].X = 8.402178
+qu->fm[7].points[0].Y = 2.174580
+cmp= 0.000310.
+dist= 0.083612.
+qu->fm[8].points[1].X = 12.755811
+qu->fm[8].points[1].Y = 2.206415
+qu->fm[7].points[1].X = 12.629556
+qu->fm[7].points[1].Y = 2.174580
+cmp= 0.000310.
+dist= 0.016954.
+qu->fm[8].points[2].X = 8.689578
+qu->fm[8].points[2].Y = 7.163241
+qu->fm[7].points[2].X = 8.402178
+qu->fm[7].points[2].Y = 7.152870
+cmp= 0.000310.
+dist= 0.082706.
+qu->fm[8].points[3].X = 12.755811
+qu->fm[8].points[3].Y = 7.163241
+qu->fm[7].points[3].X = 12.629556
+qu->fm[7].points[3].Y = 7.152870
+cmp= 0.000310.
+dist= 0.016048.
+Nearest points: 2.
+qu->fm[9].points[0].X = 8.740197
+qu->fm[9].points[0].Y = 2.242147
+qu->fm[8].points[0].X = 8.689578
+qu->fm[8].points[0].Y = 2.206415
+cmp= 0.000310.
+dist= 0.003839.
+qu->fm[9].points[1].X = 12.910997
+qu->fm[9].points[1].Y = 2.242147
+qu->fm[8].points[1].X = 12.755811
+qu->fm[8].points[1].Y = 2.206415
+cmp= 0.000310.
+dist= 0.025360.
+qu->fm[9].points[2].X = 8.740197
+qu->fm[9].points[2].Y = 7.174843
+qu->fm[8].points[2].X = 8.689578
+qu->fm[8].points[2].Y = 7.163241
+cmp= 0.000310.
+dist= 0.002697.
+qu->fm[9].points[3].X = 12.910997
+qu->fm[9].points[3].Y = 7.174843
+qu->fm[8].points[3].X = 12.755811
+qu->fm[8].points[3].Y = 7.163241
+cmp= 0.000310.
+dist= 0.024218.
+Nearest points: 2.
+qu->fm[10].points[0].X = 8.793033
+qu->fm[10].points[0].Y = 2.282504
+qu->fm[9].points[0].X = 8.740197
+qu->fm[9].points[0].Y = 2.242147
+cmp= 0.000310.
+dist= 0.004420.
+qu->fm[10].points[1].X = 13.094308
+qu->fm[10].points[1].Y = 2.282504
+qu->fm[9].points[1].X = 12.910997
+qu->fm[9].points[1].Y = 2.242147
+cmp= 0.000310.
+dist= 0.035231.
+qu->fm[10].points[2].X = 8.793033
+qu->fm[10].points[2].Y = 7.187398
+qu->fm[9].points[2].X = 8.740197
+qu->fm[9].points[2].Y = 7.174843
+cmp= 0.000310.
+dist= 0.002949.
+qu->fm[10].points[3].X = 13.094308
+qu->fm[10].points[3].Y = 7.187398
+qu->fm[9].points[3].X = 12.910997
+qu->fm[9].points[3].Y = 7.174843
+cmp= 0.000310.
+dist= 0.033760.
+Nearest points: 2.
+qu->fm[11].points[0].X = 8.827452
+qu->fm[11].points[0].Y = 2.327613
+qu->fm[10].points[0].X = 8.793033
+qu->fm[10].points[0].Y = 2.282504
+cmp= 0.000310.
+dist= 0.003220.
+qu->fm[11].points[1].X = 13.263009
+qu->fm[11].points[1].Y = 2.327613
+qu->fm[10].points[1].X = 13.094308
+qu->fm[10].points[1].Y = 2.282504
+cmp= 0.000310.
+dist= 0.030495.
+qu->fm[11].points[2].X = 8.827452
+qu->fm[11].points[2].Y = 7.199929
+qu->fm[10].points[2].X = 8.793033
+qu->fm[10].points[2].Y = 7.187398
+cmp= 0.000310.
+dist= 0.001342.
+qu->fm[11].points[3].X = 13.263009
+qu->fm[11].points[3].Y = 7.199929
+qu->fm[10].points[3].X = 13.094308
+qu->fm[10].points[3].Y = 7.187398
+cmp= 0.000310.
+dist= 0.028617.
+Nearest points: 2.
+After de-ghost points in Queue.
+qu->fm[0].points[0].X = 11.441886, Y = 2.039994
+qu->fm[0].points[1].X = 8.150911, Y = 7.090543
+qu->fm[1].points[0].X = 11.534132, Y = 2.052820
+qu->fm[1].points[1].X = 8.167014, Y = 7.097638
+qu->fm[2].points[0].X = 11.672129, Y = 2.066823
+qu->fm[2].points[1].X = 8.188122, Y = 7.104894
+qu->fm[3].points[0].X = 11.810469, Y = 2.082766
+qu->fm[3].points[1].X = 8.216034, Y = 7.113131
+qu->fm[4].points[0].X = 11.950546, Y = 2.101575
+qu->fm[4].points[1].X = 8.249780, Y = 7.121814
+qu->fm[5].points[0].X = 12.088703, Y = 2.122214
+qu->fm[5].points[1].X = 8.289028, Y = 7.131260
+qu->fm[6].points[0].X = 12.502449, Y = 2.146550
+qu->fm[6].points[1].X = 8.334932, Y = 7.141941
+qu->fm[7].points[0].X = 12.629556, Y = 2.174580
+qu->fm[7].points[1].X = 8.402178, Y = 7.152870
+qu->fm[8].points[0].X = 12.755811, Y = 2.206415
+qu->fm[8].points[1].X = 8.689578, Y = 7.163241
+qu->fm[9].points[0].X = 12.910997, Y = 2.242147
+qu->fm[9].points[1].X = 8.740197, Y = 7.174843
+qu->fm[10].points[0].X = 13.094308, Y = 2.282504
+qu->fm[10].points[1].X = 8.793033, Y = 7.187398
+qu->fm[11].points[0].X = 13.263009, Y = 2.327613
+qu->fm[11].points[1].X = 8.827452, Y = 7.199929
+qu->fm[12].points[0].X = 13.263009, Y = 2.327613
+qu->fm[12].points[1].X = 8.827452, Y = 7.199929
+qu->fm[13].points[0].X = 13.263009, Y = 2.327613
+qu->fm[13].points[1].X = 8.827452, Y = 7.199929
+qu->fm[14].points[0].X = 13.263009, Y = 2.327613
+qu->fm[14].points[1].X = 8.827452, Y = 7.199929
+qu->fm[15].points[0].X = 13.263009, Y = 2.327613
+qu->fm[15].points[1].X = 8.827452, Y = 7.199929
+Frame: 2086
+Queue is Full.
+
+Del queue.
+qu->front=0, rear=15
+Cframe.fid=129, pcnt=2
+Cframe.points[0].X=11.441886, Y=2.039994
+Cframe.points[1].X=8.150911, Y=7.090543
+
+Add queue...
+Qframe.fid=145, pcnt=2
+Qframe.points[0].X=13.892198, Y=2.532136
+Qframe.points[1].X=13.892198, Y=7.274840
+qu->front=0, rear=0
+
+Frame: 2087
+Queue is Full.
+
+Del queue.
+qu->front=1, rear=0
+Cframe.fid=130, pcnt=2
+Cframe.points[0].X=11.534132, Y=2.052820
+Cframe.points[1].X=8.167014, Y=7.097638
+
+Add queue...
+Qframe.fid=146, pcnt=2
+Qframe.points[0].X=13.966101, Y=2.561551
+Qframe.points[1].X=13.966101, Y=7.293921
+qu->front=1, rear=1
+
+Frame: 2088
+Queue is Full.
+
+Del queue.
+qu->front=2, rear=1
+Cframe.fid=131, pcnt=2
+Cframe.points[0].X=11.672129, Y=2.066823
+Cframe.points[1].X=8.188122, Y=7.104894
+
+Add queue...
+Qframe.fid=147, pcnt=4
+Qframe.points[0].X=9.062870, Y=2.618466
+Qframe.points[1].X=14.026944, Y=2.618466
+Qframe.points[2].X=9.062870, Y=7.314376
+Qframe.points[3].X=14.026944, Y=7.314376
+qu->front=2, rear=2
+
+Frame: 2089
+Queue is Full.
+
+Del queue.
+qu->front=3, rear=2
+Cframe.fid=132, pcnt=2
+Cframe.points[0].X=11.810469, Y=2.082766
+Cframe.points[1].X=8.216034, Y=7.113131
+
+Add queue...
+Qframe.fid=148, pcnt=4
+Qframe.points[0].X=9.093826, Y=2.709900
+Qframe.points[1].X=14.119793, Y=2.709900
+Qframe.points[2].X=9.093826, Y=7.336627
+Qframe.points[3].X=14.119793, Y=7.336627
+qu->front=3, rear=3
+
+Frame: 2090
+Queue is Full.
+
+Del queue.
+qu->front=4, rear=3
+Cframe.fid=133, pcnt=2
+Cframe.points[0].X=11.950546, Y=2.101575
+Cframe.points[1].X=8.249780, Y=7.121814
+
+Add queue...
+Qframe.fid=149, pcnt=4
+Qframe.points[0].X=9.126221, Y=2.801190
+Qframe.points[1].X=14.213042, Y=2.801190
+Qframe.points[2].X=9.126221, Y=7.360082
+Qframe.points[3].X=14.213042, Y=7.360082
+qu->front=4, rear=4
+
+Frame: 2091
+Queue is Full.
+
+Del queue.
+qu->front=5, rear=4
+Cframe.fid=134, pcnt=2
+Cframe.points[0].X=12.088703, Y=2.122214
+Cframe.points[1].X=8.289028, Y=7.131260
+
+Add queue...
+Qframe.fid=150, pcnt=4
+Qframe.points[0].X=9.158587, Y=2.894437
+Qframe.points[1].X=14.305792, Y=2.894437
+Qframe.points[2].X=9.158587, Y=7.384503
+Qframe.points[3].X=14.305792, Y=7.384503
+qu->front=5, rear=5
+
+Frame: 2092
+Queue is Full.
+
+Del queue.
+qu->front=6, rear=5
+Cframe.fid=135, pcnt=2
+Cframe.points[0].X=12.502449, Y=2.146550
+Cframe.points[1].X=8.334932, Y=7.141941
+
+Add queue...
+Qframe.fid=151, pcnt=4
+Qframe.points[0].X=9.189876, Y=2.988951
+Qframe.points[1].X=14.398683, Y=2.988951
+Qframe.points[2].X=9.189876, Y=7.405780
+Qframe.points[3].X=14.398683, Y=7.405780
+qu->front=6, rear=6
+
+Frame: 2093
+Queue is Full.
+
+Del queue.
+qu->front=7, rear=6
+Cframe.fid=136, pcnt=2
+Cframe.points[0].X=12.629556, Y=2.174580
+Cframe.points[1].X=8.402178, Y=7.152870
+
+Add queue...
+Qframe.fid=152, pcnt=4
+Qframe.points[0].X=9.254680, Y=3.085336
+Qframe.points[1].X=14.493809, Y=3.085336
+Qframe.points[2].X=9.254680, Y=7.417383
+Qframe.points[3].X=14.493809, Y=7.417383
+qu->front=7, rear=7
+
+Frame: 2094
+Queue is Full.
+
+Del queue.
+qu->front=8, rear=7
+Cframe.fid=137, pcnt=2
+Cframe.points[0].X=12.755811, Y=2.206415
+Cframe.points[1].X=8.689578, Y=7.163241
+
+Add queue...
+Qframe.fid=153, pcnt=4
+Qframe.points[0].X=9.345208, Y=3.186481
+Qframe.points[1].X=14.616508, Y=3.186481
+Qframe.points[2].X=9.345208, Y=7.429949
+Qframe.points[3].X=14.616508, Y=7.429949
+qu->front=8, rear=8
+
+Frame: 2095
+Queue is Full.
+
+Del queue.
+qu->front=9, rear=8
+Cframe.fid=138, pcnt=2
+Cframe.points[0].X=12.910997, Y=2.242147
+Cframe.points[1].X=8.740197, Y=7.174843
+
+Add queue...
+Qframe.fid=154, pcnt=4
+Qframe.points[0].X=9.459373, Y=3.291848
+Qframe.points[1].X=14.708699, Y=3.291848
+Qframe.points[2].X=9.459373, Y=7.442976
+Qframe.points[3].X=14.708699, Y=7.442976
+qu->front=9, rear=9
+
+Frame: 2096
+Queue is Full.
+
+Del queue.
+qu->front=10, rear=9
+Cframe.fid=139, pcnt=2
+Cframe.points[0].X=13.094308, Y=2.282504
+Cframe.points[1].X=8.793033, Y=7.187398
+
+Add queue...
+Qframe.fid=155, pcnt=4
+Qframe.points[0].X=9.553142, Y=3.403761
+Qframe.points[1].X=14.800033, Y=3.403761
+Qframe.points[2].X=9.553142, Y=7.456744
+Qframe.points[3].X=14.800033, Y=7.456744
+qu->front=10, rear=10
+
+Frame: 2097
+Queue is Full.
+
+Del queue.
+qu->front=11, rear=10
+Cframe.fid=140, pcnt=2
+Cframe.points[0].X=13.263009, Y=2.327613
+Cframe.points[1].X=8.827452, Y=7.199929
+
+Add queue...
+Qframe.fid=156, pcnt=4
+Qframe.points[0].X=9.649439, Y=3.449967
+Qframe.points[1].X=14.887882, Y=3.449967
+Qframe.points[2].X=9.649439, Y=7.470789
+Qframe.points[3].X=14.887882, Y=7.470789
+qu->front=11, rear=11
+
+Frame: 2098
+Queue is Full.
+
+Del queue.
+qu->front=12, rear=11
+Cframe.fid=140, pcnt=2
+Cframe.points[0].X=13.263009, Y=2.327613
+Cframe.points[1].X=8.827452, Y=7.199929
+
+Add queue...
+Qframe.fid=157, pcnt=4
+Qframe.points[0].X=9.745789, Y=3.489796
+Qframe.points[1].X=14.973940, Y=3.489796
+Qframe.points[2].X=9.745789, Y=7.485320
+Qframe.points[3].X=14.973940, Y=7.485320
+qu->front=12, rear=12
+
+Frame: 2099
+Queue is Full.
+
+Del queue.
+qu->front=13, rear=12
+Cframe.fid=140, pcnt=2
+Cframe.points[0].X=13.263009, Y=2.327613
+Cframe.points[1].X=8.827452, Y=7.199929
+
+Add queue...
+Qframe.fid=158, pcnt=4
+Qframe.points[0].X=9.845327, Y=3.535764
+Qframe.points[1].X=15.096802, Y=3.535764
+Qframe.points[2].X=9.845327, Y=7.504731
+Qframe.points[3].X=15.096802, Y=7.504731
+qu->front=13, rear=13
+
+Frame: 2100
+Queue is Full.
+
+Del queue.
+qu->front=14, rear=13
+Cframe.fid=140, pcnt=2
+Cframe.points[0].X=13.263009, Y=2.327613
+Cframe.points[1].X=8.827452, Y=7.199929
+
+Add queue...
+Qframe.fid=159, pcnt=2
+Qframe.points[0].X=15.216932, Y=3.629927
+Qframe.points[1].X=15.216932, Y=7.519065
+qu->front=14, rear=14
+
+Frame: 2101
+Queue is Full.
+
+Del queue.
+qu->front=15, rear=14
+Cframe.fid=140, pcnt=2
+Cframe.points[0].X=13.263009, Y=2.327613
+Cframe.points[1].X=8.827452, Y=7.199929
+
+Add queue...
+Qframe.fid=160, pcnt=2
+Qframe.points[0].X=15.328952, Y=3.745672
+Qframe.points[1].X=15.328952, Y=7.532973
+qu->front=15, rear=15
+
+Detect Noise points of frame.
+The 4 points frame count in Queue: 12.
+The 4 points frame num in Queue: 0x3ffc.
+qu->fm[3].points[0].X = 9.093826
+qu->fm[3].points[0].Y = 2.709900
+qu->fm[2].points[0].X = 9.062870
+qu->fm[2].points[0].Y = 2.618466
+cmp= 653.000000.
+dist= 0.009318.
+qu->fm[3].points[1].X = 14.119793
+qu->fm[3].points[1].Y = 2.709900
+qu->fm[2].points[1].X = 14.026944
+qu->fm[2].points[1].Y = 2.618466
+cmp= 0.009318.
+dist= 0.016981.
+qu->fm[3].points[2].X = 9.093826
+qu->fm[3].points[2].Y = 7.336627
+qu->fm[2].points[2].X = 9.062870
+qu->fm[2].points[2].Y = 7.314376
+cmp= 0.009318.
+dist= 0.001453.
+qu->fm[3].points[3].X = 14.119793
+qu->fm[3].points[3].Y = 7.336627
+qu->fm[2].points[3].X = 14.026944
+qu->fm[2].points[3].Y = 7.314376
+cmp= 0.001453.
+dist= 0.009116.
+Nearest points: 2.
+qu->fm[4].points[0].X = 9.126221
+qu->fm[4].points[0].Y = 2.801190
+qu->fm[3].points[0].X = 9.093826
+qu->fm[3].points[0].Y = 2.709900
+cmp= 0.001453.
+dist= 0.009383.
+qu->fm[4].points[1].X = 14.213042
+qu->fm[4].points[1].Y = 2.801190
+qu->fm[3].points[1].X = 14.119793
+qu->fm[3].points[1].Y = 2.709900
+cmp= 0.001453.
+dist= 0.017029.
+qu->fm[4].points[2].X = 9.126221
+qu->fm[4].points[2].Y = 7.360082
+qu->fm[3].points[2].X = 9.093826
+qu->fm[3].points[2].Y = 7.336627
+cmp= 0.001453.
+dist= 0.001600.
+qu->fm[4].points[3].X = 14.213042
+qu->fm[4].points[3].Y = 7.360082
+qu->fm[3].points[3].X = 14.119793
+qu->fm[3].points[3].Y = 7.336627
+cmp= 0.001453.
+dist= 0.009246.
+Nearest points: 2.
+qu->fm[5].points[0].X = 9.158587
+qu->fm[5].points[0].Y = 2.894437
+qu->fm[4].points[0].X = 9.126221
+qu->fm[4].points[0].Y = 2.801190
+cmp= 0.001453.
+dist= 0.009743.
+qu->fm[5].points[1].X = 14.305792
+qu->fm[5].points[1].Y = 2.894437
+qu->fm[4].points[1].X = 14.213042
+qu->fm[4].points[1].Y = 2.801190
+cmp= 0.001453.
+dist= 0.017298.
+qu->fm[5].points[2].X = 9.158587
+qu->fm[5].points[2].Y = 7.384503
+qu->fm[4].points[2].X = 9.126221
+qu->fm[4].points[2].Y = 7.360082
+cmp= 0.001453.
+dist= 0.001644.
+qu->fm[5].points[3].X = 14.305792
+qu->fm[5].points[3].Y = 7.384503
+qu->fm[4].points[3].X = 14.213042
+qu->fm[4].points[3].Y = 7.360082
+cmp= 0.001453.
+dist= 0.009199.
+Nearest points: 2.
+qu->fm[6].points[0].X = 9.189876
+qu->fm[6].points[0].Y = 2.988951
+qu->fm[5].points[0].X = 9.158587
+qu->fm[5].points[0].Y = 2.894437
+cmp= 0.001453.
+dist= 0.009912.
+qu->fm[6].points[1].X = 14.398683
+qu->fm[6].points[1].Y = 2.988951
+qu->fm[5].points[1].X = 14.305792
+qu->fm[5].points[1].Y = 2.894437
+cmp= 0.001453.
+dist= 0.017562.
+qu->fm[6].points[2].X = 9.189876
+qu->fm[6].points[2].Y = 7.405780
+qu->fm[5].points[2].X = 9.158587
+qu->fm[5].points[2].Y = 7.384503
+cmp= 0.001453.
+dist= 0.001432.
+qu->fm[6].points[3].X = 14.398683
+qu->fm[6].points[3].Y = 7.405780
+qu->fm[5].points[3].X = 14.305792
+qu->fm[5].points[3].Y = 7.384503
+cmp= 0.001432.
+dist= 0.009081.
+Nearest points: 2.
+qu->fm[7].points[0].X = 9.254680
+qu->fm[7].points[0].Y = 3.085336
+qu->fm[6].points[0].X = 9.189876
+qu->fm[6].points[0].Y = 2.988951
+cmp= 0.001432.
+dist= 0.013490.
+qu->fm[7].points[1].X = 14.493809
+qu->fm[7].points[1].Y = 3.085336
+qu->fm[6].points[1].X = 14.398683
+qu->fm[6].points[1].Y = 2.988951
+cmp= 0.001432.
+dist= 0.018339.
+qu->fm[7].points[2].X = 9.254680
+qu->fm[7].points[2].Y = 7.417383
+qu->fm[6].points[2].X = 9.189876
+qu->fm[6].points[2].Y = 7.405780
+cmp= 0.001432.
+dist= 0.004334.
+qu->fm[7].points[3].X = 14.493809
+qu->fm[7].points[3].Y = 7.417383
+qu->fm[6].points[3].X = 14.398683
+qu->fm[6].points[3].Y = 7.405780
+cmp= 0.001432.
+dist= 0.009184.
+Nearest points: 2.
+qu->fm[8].points[0].X = 9.345208
+qu->fm[8].points[0].Y = 3.186481
+qu->fm[7].points[0].X = 9.254680
+qu->fm[7].points[0].Y = 3.085336
+cmp= 0.001432.
+dist= 0.018426.
+qu->fm[8].points[1].X = 14.616508
+qu->fm[8].points[1].Y = 3.186481
+qu->fm[7].points[1].X = 14.493809
+qu->fm[7].points[1].Y = 3.085336
+cmp= 0.001432.
+dist= 0.025285.
+qu->fm[8].points[2].X = 9.345208
+qu->fm[8].points[2].Y = 7.429949
+qu->fm[7].points[2].X = 9.254680
+qu->fm[7].points[2].Y = 7.417383
+cmp= 0.001432.
+dist= 0.008353.
+qu->fm[8].points[3].X = 14.616508
+qu->fm[8].points[3].Y = 7.429949
+qu->fm[7].points[3].X = 14.493809
+qu->fm[7].points[3].Y = 7.417383
+cmp= 0.001432.
+dist= 0.015213.
+Nearest points: 2.
+qu->fm[9].points[0].X = 9.459373
+qu->fm[9].points[0].Y = 3.291848
+qu->fm[8].points[0].X = 9.345208
+qu->fm[8].points[0].Y = 3.186481
+cmp= 0.001432.
+dist= 0.024136.
+qu->fm[9].points[1].X = 14.708699
+qu->fm[9].points[1].Y = 3.291848
+qu->fm[8].points[1].X = 14.616508
+qu->fm[8].points[1].Y = 3.186481
+cmp= 0.001432.
+dist= 0.019601.
+qu->fm[9].points[2].X = 9.459373
+qu->fm[9].points[2].Y = 7.442976
+qu->fm[8].points[2].X = 9.345208
+qu->fm[8].points[2].Y = 7.429949
+cmp= 0.001432.
+dist= 0.013203.
+qu->fm[9].points[3].X = 14.708699
+qu->fm[9].points[3].Y = 7.442976
+qu->fm[8].points[3].X = 14.616508
+qu->fm[8].points[3].Y = 7.429949
+cmp= 0.001432.
+dist= 0.008669.
+Nearest points: 2.
+qu->fm[10].points[0].X = 9.553142
+qu->fm[10].points[0].Y = 3.403761
+qu->fm[9].points[0].X = 9.459373
+qu->fm[9].points[0].Y = 3.291848
+cmp= 0.001432.
+dist= 0.021317.
+qu->fm[10].points[1].X = 14.800033
+qu->fm[10].points[1].Y = 3.403761
+qu->fm[9].points[1].X = 14.708699
+qu->fm[9].points[1].Y = 3.291848
+cmp= 0.001432.
+dist= 0.020866.
+qu->fm[10].points[2].X = 9.553142
+qu->fm[10].points[2].Y = 7.456744
+qu->fm[9].points[2].X = 9.459373
+qu->fm[9].points[2].Y = 7.442976
+cmp= 0.001432.
+dist= 0.008982.
+qu->fm[10].points[3].X = 14.800033
+qu->fm[10].points[3].Y = 7.456744
+qu->fm[9].points[3].X = 14.708699
+qu->fm[9].points[3].Y = 7.442976
+cmp= 0.001432.
+dist= 0.008531.
+Nearest points: 2.
+qu->fm[11].points[0].X = 9.649439
+qu->fm[11].points[0].Y = 3.449967
+qu->fm[10].points[0].X = 9.553142
+qu->fm[10].points[0].Y = 3.403761
+cmp= 0.001432.
+dist= 0.011408.
+qu->fm[11].points[1].X = 14.887882
+qu->fm[11].points[1].Y = 3.449967
+qu->fm[10].points[1].X = 14.800033
+qu->fm[10].points[1].Y = 3.403761
+cmp= 0.001432.
+dist= 0.009853.
+qu->fm[11].points[2].X = 9.649439
+qu->fm[11].points[2].Y = 7.470789
+qu->fm[10].points[2].X = 9.553142
+qu->fm[10].points[2].Y = 7.456744
+cmp= 0.001432.
+dist= 0.009470.
+qu->fm[11].points[3].X = 14.887882
+qu->fm[11].points[3].Y = 7.470789
+qu->fm[10].points[3].X = 14.800033
+qu->fm[10].points[3].Y = 7.456744
+cmp= 0.001432.
+dist= 0.007915.
+Nearest points: 2.
+qu->fm[12].points[0].X = 9.745789
+qu->fm[12].points[0].Y = 3.489796
+qu->fm[11].points[0].X = 9.649439
+qu->fm[11].points[0].Y = 3.449967
+cmp= 0.001432.
+dist= 0.010870.
+qu->fm[12].points[1].X = 14.973940
+qu->fm[12].points[1].Y = 3.489796
+qu->fm[11].points[1].X = 14.887882
+qu->fm[11].points[1].Y = 3.449967
+cmp= 0.001432.
+dist= 0.008992.
+qu->fm[12].points[2].X = 9.745789
+qu->fm[12].points[2].Y = 7.485320
+qu->fm[11].points[2].X = 9.649439
+qu->fm[11].points[2].Y = 7.470789
+cmp= 0.001432.
+dist= 0.009494.
+qu->fm[12].points[3].X = 14.973940
+qu->fm[12].points[3].Y = 7.485320
+qu->fm[11].points[3].X = 14.887882
+qu->fm[11].points[3].Y = 7.470789
+cmp= 0.001432.
+dist= 0.007617.
+Nearest points: 2.
+qu->fm[13].points[0].X = 9.845327
+qu->fm[13].points[0].Y = 3.535764
+qu->fm[12].points[0].X = 9.745789
+qu->fm[12].points[0].Y = 3.489796
+cmp= 0.001432.
+dist= 0.012021.
+qu->fm[13].points[1].X = 15.096802
+qu->fm[13].points[1].Y = 3.535764
+qu->fm[12].points[1].X = 14.973940
+qu->fm[12].points[1].Y = 3.489796
+cmp= 0.001432.
+dist= 0.017208.
+qu->fm[13].points[2].X = 9.845327
+qu->fm[13].points[2].Y = 7.504731
+qu->fm[12].points[2].X = 9.745789
+qu->fm[12].points[2].Y = 7.485320
+cmp= 0.001432.
+dist= 0.010285.
+qu->fm[13].points[3].X = 15.096802
+qu->fm[13].points[3].Y = 7.504731
+qu->fm[12].points[3].X = 14.973940
+qu->fm[12].points[3].Y = 7.485320
+cmp= 0.001432.
+dist= 0.015472.
+Nearest points: 2.
+No frame in 1st queue.
+No frame in 1st queue.
+After de-ghost points in Queue.
+qu->fm[2].points[0].X = 14.026944, Y = 2.618466
+qu->fm[2].points[1].X = 9.062870, Y = 7.314376
+qu->fm[3].points[0].X = 14.119793, Y = 2.709900
+qu->fm[3].points[1].X = 9.093826, Y = 7.336627
+qu->fm[4].points[0].X = 14.213042, Y = 2.801190
+qu->fm[4].points[1].X = 9.126221, Y = 7.360082
+qu->fm[5].points[0].X = 14.305792, Y = 2.894437
+qu->fm[5].points[1].X = 9.158587, Y = 7.384503
+qu->fm[6].points[0].X = 14.398683, Y = 2.988951
+qu->fm[6].points[1].X = 9.189876, Y = 7.405780
+qu->fm[7].points[0].X = 14.493809, Y = 3.085336
+qu->fm[7].points[1].X = 9.254680, Y = 7.417383
+qu->fm[8].points[0].X = 14.616508, Y = 3.186481
+qu->fm[8].points[1].X = 9.345208, Y = 7.429949
+qu->fm[9].points[0].X = 14.708699, Y = 3.291848
+qu->fm[9].points[1].X = 9.459373, Y = 7.442976
+qu->fm[10].points[0].X = 14.800033, Y = 3.403761
+qu->fm[10].points[1].X = 9.553142, Y = 7.456744
+qu->fm[11].points[0].X = 14.887882, Y = 3.449967
+qu->fm[11].points[1].X = 9.649439, Y = 7.470789
+qu->fm[12].points[0].X = 14.973940, Y = 3.489796
+qu->fm[12].points[1].X = 9.745789, Y = 7.485320
+qu->fm[13].points[0].X = 15.096802, Y = 3.535764
+qu->fm[13].points[1].X = 9.845327, Y = 7.504731
+qu->fm[14].points[0].X = 15.096802, Y = 3.535764
+qu->fm[14].points[1].X = 9.845327, Y = 7.504731
+qu->fm[15].points[0].X = 15.096802, Y = 3.535764
+qu->fm[15].points[1].X = 9.845327, Y = 7.504731
+Frame: 2102
+Queue is Full.
+
+Del queue.
+qu->front=0, rear=15
+Cframe.fid=145, pcnt=0
+
+Add queue...
+Qframe.fid=161, pcnt=2
+Qframe.points[0].X=15.478538, Y=3.859833
+Qframe.points[1].X=15.478538, Y=7.546598
+qu->front=0, rear=0
+
+
+Del queue.
+qu->front=1, rear=0
+Cframe.fid=146, pcnt=0
+Frame: 2103
+
+Add queue...
+Qframe.fid=162, pcnt=4
+Qframe.points[0].X=10.286077, Y=3.974595
+Qframe.points[1].X=15.578072, Y=3.974595
+Qframe.points[2].X=10.286077, Y=7.560285
+Qframe.points[3].X=15.578072, Y=7.560285
+qu->front=1, rear=1
+
+Frame: 2104
+Queue is Full.
+
+Del queue.
+qu->front=2, rear=1
+Cframe.fid=147, pcnt=2
+Cframe.points[0].X=14.026944, Y=2.618466
+Cframe.points[1].X=9.062870, Y=7.314376
+
+Add queue...
+Qframe.fid=163, pcnt=4
+Qframe.points[0].X=10.365356, Y=4.090176
+Qframe.points[1].X=15.668333, Y=4.090176
+Qframe.points[2].X=10.365356, Y=7.592987
+Qframe.points[3].X=15.668333, Y=7.592987
+qu->front=2, rear=2
+
+Frame: 2105
+Queue is Full.
+
+Del queue.
+qu->front=3, rear=2
+Cframe.fid=148, pcnt=2
+Cframe.points[0].X=14.119793, Y=2.709900
+Cframe.points[1].X=9.093826, Y=7.336627
+
+Add queue...
+Qframe.fid=164, pcnt=4
+Qframe.points[0].X=10.431734, Y=4.209578
+Qframe.points[1].X=15.759285, Y=4.209578
+Qframe.points[2].X=10.431734, Y=7.623488
+Qframe.points[3].X=15.759285, Y=7.623488
+qu->front=3, rear=3
+
+Frame: 2106
+Queue is Full.
+
+Del queue.
+qu->front=4, rear=3
+Cframe.fid=149, pcnt=2
+Cframe.points[0].X=14.213042, Y=2.801190
+Cframe.points[1].X=9.126221, Y=7.360082
+
+Add queue...
+Qframe.fid=165, pcnt=4
+Qframe.points[0].X=10.483285, Y=4.334892
+Qframe.points[1].X=15.842044, Y=4.334892
+Qframe.points[2].X=10.483285, Y=7.650977
+Qframe.points[3].X=15.842044, Y=7.650977
+qu->front=4, rear=4
+
+Frame: 2107
+Queue is Full.
+
+Del queue.
+qu->front=5, rear=4
+Cframe.fid=150, pcnt=2
+Cframe.points[0].X=14.305792, Y=2.894437
+Cframe.points[1].X=9.158587, Y=7.384503
+
+Add queue...
+Qframe.fid=166, pcnt=2
+Qframe.points[0].X=10.527240, Y=4.437538
+Qframe.points[1].X=10.527240, Y=7.676356
+qu->front=5, rear=5
+
+Frame: 2108
+Queue is Full.
+
+Del queue.
+qu->front=6, rear=5
+Cframe.fid=151, pcnt=2
+Cframe.points[0].X=14.398683, Y=2.988951
+Cframe.points[1].X=9.189876, Y=7.405780
+
+Add queue...
+Qframe.fid=167, pcnt=2
+Qframe.points[0].X=10.558908, Y=4.480643
+Qframe.points[1].X=10.558908, Y=7.696773
+qu->front=6, rear=6
+
+Frame: 2109
+Queue is Full.
+
+Del queue.
+qu->front=7, rear=6
+Cframe.fid=152, pcnt=2
+Cframe.points[0].X=14.493809, Y=3.085336
+Cframe.points[1].X=9.254680, Y=7.417383
+
+Add queue...
+Qframe.fid=168, pcnt=4
+Qframe.points[0].X=10.693582, Y=4.529373
+Qframe.points[1].X=16.057495, Y=4.529373
+Qframe.points[2].X=10.693582, Y=7.714661
+Qframe.points[3].X=16.057495, Y=7.714661
+qu->front=7, rear=7
+
+Frame: 2110
+Queue is Full.
+
+Del queue.
+qu->front=8, rear=7
+Cframe.fid=153, pcnt=2
+Cframe.points[0].X=14.616508, Y=3.186481
+Cframe.points[1].X=9.345208, Y=7.429949
+
+Add queue...
+Qframe.fid=169, pcnt=4
+Qframe.points[0].X=10.723202, Y=4.574577
+Qframe.points[1].X=16.119568, Y=4.574577
+Qframe.points[2].X=10.723202, Y=7.727800
+Qframe.points[3].X=16.119568, Y=7.727800
+qu->front=8, rear=8
+
+Frame: 2111
+Queue is Full.
+
+Del queue.
+qu->front=9, rear=8
+Cframe.fid=154, pcnt=2
+Cframe.points[0].X=14.708699, Y=3.291848
+Cframe.points[1].X=9.459373, Y=7.442976
+
+Add queue...
+Qframe.fid=170, pcnt=4
+Qframe.points[0].X=10.747947, Y=4.622529
+Qframe.points[1].X=16.180130, Y=4.622529
+Qframe.points[2].X=10.747947, Y=7.736391
+Qframe.points[3].X=16.180130, Y=7.736391
+qu->front=9, rear=9
+
+Frame: 2112
+Queue is Full.
+
+Del queue.
+qu->front=10, rear=9
+Cframe.fid=155, pcnt=2
+Cframe.points[0].X=14.800033, Y=3.403761
+Cframe.points[1].X=9.553142, Y=7.456744
+
+Add queue...
+Qframe.fid=171, pcnt=4
+Qframe.points[0].X=10.771428, Y=4.674401
+Qframe.points[1].X=16.231796, Y=4.674401
+Qframe.points[2].X=10.771428, Y=7.741779
+Qframe.points[3].X=16.231796, Y=7.741779
+qu->front=10, rear=10
+
+Frame: 2113
+Queue is Full.
+
+Del queue.
+qu->front=11, rear=10
+Cframe.fid=156, pcnt=2
+Cframe.points[0].X=14.887882, Y=3.449967
+Cframe.points[1].X=9.649439, Y=7.470789
+
+Add queue...
+Qframe.fid=172, pcnt=4
+Qframe.points[0].X=10.790675, Y=4.732632
+Qframe.points[1].X=16.290079, Y=4.732632
+Qframe.points[2].X=10.790675, Y=7.742325
+Qframe.points[3].X=16.290079, Y=7.742325
+qu->front=11, rear=11
+
+Frame: 2114
+Queue is Full.
+
+Del queue.
+qu->front=12, rear=11
+Cframe.fid=157, pcnt=2
+Cframe.points[0].X=14.973940, Y=3.489796
+Cframe.points[1].X=9.745789, Y=7.485320
+
+Add queue...
+Qframe.fid=173, pcnt=4
+Qframe.points[0].X=10.814157, Y=5.251108
+Qframe.points[1].X=16.434816, Y=5.251108
+Qframe.points[2].X=10.814157, Y=7.740140
+Qframe.points[3].X=16.434816, Y=7.740140
+qu->front=12, rear=12
+
+Frame: 2115
+Queue is Full.
+
+Del queue.
+qu->front=13, rear=12
+Cframe.fid=158, pcnt=2
+Cframe.points[0].X=15.096802, Y=3.535764
+Cframe.points[1].X=9.845327, Y=7.504731
+
+Add queue...
+Qframe.fid=174, pcnt=4
+Qframe.points[0].X=10.831755, Y=5.367469
+Qframe.points[1].X=16.540184, Y=5.367469
+Qframe.points[2].X=10.831755, Y=7.734898
+Qframe.points[3].X=16.540184, Y=7.734898
+qu->front=13, rear=13
+
+Frame: 2116
+Queue is Full.
+
+Del queue.
+qu->front=14, rear=13
+Cframe.fid=158, pcnt=2
+Cframe.points[0].X=15.096802, Y=3.535764
+Cframe.points[1].X=9.845327, Y=7.504731
+
+Add queue...
+Qframe.fid=175, pcnt=2
+Qframe.points[0].X=10.853666, Y=5.504004
+Qframe.points[1].X=10.853666, Y=7.728648
+qu->front=14, rear=14
+
+Frame: 2117
+Queue is Full.
+
+Del queue.
+qu->front=15, rear=14
+Cframe.fid=158, pcnt=2
+Cframe.points[0].X=15.096802, Y=3.535764
+Cframe.points[1].X=9.845327, Y=7.504731
+
+Add queue...
+Qframe.fid=176, pcnt=2
+Qframe.points[0].X=10.881886, Y=5.541360
+Qframe.points[1].X=10.881886, Y=7.721840
+qu->front=15, rear=15
+
+Detect Noise points of frame.
+The 4 points frame count in Queue: 11.
+The 4 points frame num in Queue: 0x3f9e.
+qu->fm[2].points[0].X = 10.365356
+qu->fm[2].points[0].Y = 4.090176
+qu->fm[1].points[0].X = 10.286077
+qu->fm[1].points[0].Y = 3.974595
+cmp= 653.000000.
+dist= 0.019644.
+qu->fm[2].points[1].X = 15.668333
+qu->fm[2].points[1].Y = 4.090176
+qu->fm[1].points[1].X = 15.578072
+qu->fm[1].points[1].Y = 3.974595
+cmp= 0.019644.
+dist= 0.021506.
+qu->fm[2].points[2].X = 10.365356
+qu->fm[2].points[2].Y = 7.592987
+qu->fm[1].points[2].X = 10.286077
+qu->fm[1].points[2].Y = 7.560285
+cmp= 0.019644.
+dist= 0.007355.
+qu->fm[2].points[3].X = 15.668333
+qu->fm[2].points[3].Y = 7.592987
+qu->fm[1].points[3].X = 15.578072
+qu->fm[1].points[3].Y = 7.560285
+cmp= 0.007355.
+dist= 0.009217.
+Nearest points: 2.
+qu->fm[3].points[0].X = 10.431734
+qu->fm[3].points[0].Y = 4.209578
+qu->fm[2].points[0].X = 10.365356
+qu->fm[2].points[0].Y = 4.090176
+cmp= 0.007355.
+dist= 0.018663.
+qu->fm[3].points[1].X = 15.759285
+qu->fm[3].points[1].Y = 4.209578
+qu->fm[2].points[1].X = 15.668333
+qu->fm[2].points[1].Y = 4.090176
+cmp= 0.007355.
+dist= 0.022529.
+qu->fm[3].points[2].X = 10.431734
+qu->fm[3].points[2].Y = 7.623488
+qu->fm[2].points[2].X = 10.365356
+qu->fm[2].points[2].Y = 7.592987
+cmp= 0.007355.
+dist= 0.005336.
+qu->fm[3].points[3].X = 15.759285
+qu->fm[3].points[3].Y = 7.623488
+qu->fm[2].points[3].X = 15.668333
+qu->fm[2].points[3].Y = 7.592987
+cmp= 0.005336.
+dist= 0.009203.
+Nearest points: 2.
+qu->fm[4].points[0].X = 10.483285
+qu->fm[4].points[0].Y = 4.334892
+qu->fm[3].points[0].X = 10.431734
+qu->fm[3].points[0].Y = 4.209578
+cmp= 0.005336.
+dist= 0.018361.
+qu->fm[4].points[1].X = 15.842044
+qu->fm[4].points[1].Y = 4.334892
+qu->fm[3].points[1].X = 15.759285
+qu->fm[3].points[1].Y = 4.209578
+cmp= 0.005336.
+dist= 0.022553.
+qu->fm[4].points[2].X = 10.483285
+qu->fm[4].points[2].Y = 7.650977
+qu->fm[3].points[2].X = 10.431734
+qu->fm[3].points[2].Y = 7.623488
+cmp= 0.005336.
+dist= 0.003413.
+qu->fm[4].points[3].X = 15.842044
+qu->fm[4].points[3].Y = 7.650977
+qu->fm[3].points[3].X = 15.759285
+qu->fm[3].points[3].Y = 7.623488
+cmp= 0.003413.
+dist= 0.007605.
+Nearest points: 2.
+qu->fm[7].points[0].X = 10.693582
+qu->fm[7].points[0].Y = 4.529373
+qu->fm[4].points[0].X = 10.483285
+qu->fm[4].points[0].Y = 4.334892
+cmp= 0.003413.
+dist= 0.082047.
+qu->fm[7].points[1].X = 16.057495
+qu->fm[7].points[1].Y = 4.529373
+qu->fm[4].points[1].X = 15.842044
+qu->fm[4].points[1].Y = 4.334892
+cmp= 0.003413.
+dist= 0.084242.
+qu->fm[7].points[2].X = 10.693582
+qu->fm[7].points[2].Y = 7.714661
+qu->fm[4].points[2].X = 10.483285
+qu->fm[4].points[2].Y = 7.650977
+cmp= 0.003413.
+dist= 0.048280.
+qu->fm[7].points[3].X = 16.057495
+qu->fm[7].points[3].Y = 7.714661
+qu->fm[4].points[3].X = 15.842044
+qu->fm[4].points[3].Y = 7.650977
+cmp= 0.003413.
+dist= 0.050475.
+Nearest points: 2.
+qu->fm[8].points[0].X = 10.723202
+qu->fm[8].points[0].Y = 4.574577
+qu->fm[7].points[0].X = 10.693582
+qu->fm[7].points[0].Y = 4.529373
+cmp= 0.003413.
+dist= 0.002921.
+qu->fm[8].points[1].X = 16.119568
+qu->fm[8].points[1].Y = 4.574577
+qu->fm[7].points[1].X = 16.057495
+qu->fm[7].points[1].Y = 4.529373
+cmp= 0.002921.
+dist= 0.005896.
+qu->fm[8].points[2].X = 10.723202
+qu->fm[8].points[2].Y = 7.727800
+qu->fm[7].points[2].X = 10.693582
+qu->fm[7].points[2].Y = 7.714661
+cmp= 0.002921.
+dist= 0.001050.
+qu->fm[8].points[3].X = 16.119568
+qu->fm[8].points[3].Y = 7.727800
+qu->fm[7].points[3].X = 16.057495
+qu->fm[7].points[3].Y = 7.714661
+cmp= 0.001050.
+dist= 0.004026.
+Nearest points: 2.
+qu->fm[9].points[0].X = 10.747947
+qu->fm[9].points[0].Y = 4.622529
+qu->fm[8].points[0].X = 10.723202
+qu->fm[8].points[0].Y = 4.574577
+cmp= 0.001050.
+dist= 0.002912.
+qu->fm[9].points[1].X = 16.180130
+qu->fm[9].points[1].Y = 4.622529
+qu->fm[8].points[1].X = 16.119568
+qu->fm[8].points[1].Y = 4.574577
+cmp= 0.001050.
+dist= 0.005967.
+qu->fm[9].points[2].X = 10.747947
+qu->fm[9].points[2].Y = 7.736391
+qu->fm[8].points[2].X = 10.723202
+qu->fm[8].points[2].Y = 7.727800
+cmp= 0.001050.
+dist= 0.000686.
+qu->fm[9].points[3].X = 16.180130
+qu->fm[9].points[3].Y = 7.736391
+qu->fm[8].points[3].X = 16.119568
+qu->fm[8].points[3].Y = 7.727800
+cmp= 0.000686.
+dist= 0.003742.
+Nearest points: 2.
+qu->fm[10].points[0].X = 10.771428
+qu->fm[10].points[0].Y = 4.674401
+qu->fm[9].points[0].X = 10.747947
+qu->fm[9].points[0].Y = 4.622529
+cmp= 0.000686.
+dist= 0.003242.
+qu->fm[10].points[1].X = 16.231796
+qu->fm[10].points[1].Y = 4.674401
+qu->fm[9].points[1].X = 16.180130
+qu->fm[9].points[1].Y = 4.622529
+cmp= 0.000686.
+dist= 0.005360.
+qu->fm[10].points[2].X = 10.771428
+qu->fm[10].points[2].Y = 7.741779
+qu->fm[9].points[2].X = 10.747947
+qu->fm[9].points[2].Y = 7.736391
+cmp= 0.000686.
+dist= 0.000580.
+qu->fm[10].points[3].X = 16.231796
+qu->fm[10].points[3].Y = 7.741779
+qu->fm[9].points[3].X = 16.180130
+qu->fm[9].points[3].Y = 7.736391
+cmp= 0.000580.
+dist= 0.002698.
+Nearest points: 2.
+qu->fm[11].points[0].X = 10.790675
+qu->fm[11].points[0].Y = 4.732632
+qu->fm[10].points[0].X = 10.771428
+qu->fm[10].points[0].Y = 4.674401
+cmp= 0.000580.
+dist= 0.003761.
+qu->fm[11].points[1].X = 16.290079
+qu->fm[11].points[1].Y = 4.732632
+qu->fm[10].points[1].X = 16.231796
+qu->fm[10].points[1].Y = 4.674401
+cmp= 0.000580.
+dist= 0.006788.
+qu->fm[11].points[2].X = 10.790675
+qu->fm[11].points[2].Y = 7.742325
+qu->fm[10].points[2].X = 10.771428
+qu->fm[10].points[2].Y = 7.741779
+cmp= 0.000580.
+dist= 0.000371.
+qu->fm[11].points[3].X = 16.290079
+qu->fm[11].points[3].Y = 7.742325
+qu->fm[10].points[3].X = 16.231796
+qu->fm[10].points[3].Y = 7.741779
+cmp= 0.000371.
+dist= 0.003397.
+Nearest points: 2.
+qu->fm[12].points[0].X = 10.814157
+qu->fm[12].points[0].Y = 5.251108
+qu->fm[11].points[0].X = 10.790675
+qu->fm[11].points[0].Y = 4.732632
+cmp= 0.000371.
+dist= 0.269368.
+qu->fm[12].points[1].X = 16.434816
+qu->fm[12].points[1].Y = 5.251108
+qu->fm[11].points[1].X = 16.290079
+qu->fm[11].points[1].Y = 4.732632
+cmp= 0.000371.
+dist= 0.289766.
+qu->fm[12].points[2].X = 10.814157
+qu->fm[12].points[2].Y = 7.740140
+qu->fm[11].points[2].X = 10.790675
+qu->fm[11].points[2].Y = 7.742325
+cmp= 0.000371.
+dist= 0.000556.
+qu->fm[12].points[3].X = 16.434816
+qu->fm[12].points[3].Y = 7.740140
+qu->fm[11].points[3].X = 16.290079
+qu->fm[11].points[3].Y = 7.742325
+cmp= 0.000371.
+dist= 0.020954.
+Nearest points: 2.
+qu->fm[13].points[0].X = 10.831755
+qu->fm[13].points[0].Y = 5.367469
+qu->fm[12].points[0].X = 10.814157
+qu->fm[12].points[0].Y = 5.251108
+cmp= 0.000371.
+dist= 0.013850.
+qu->fm[13].points[1].X = 16.540184
+qu->fm[13].points[1].Y = 5.367469
+qu->fm[12].points[1].X = 16.434816
+qu->fm[12].points[1].Y = 5.251108
+cmp= 0.000371.
+dist= 0.024642.
+qu->fm[13].points[2].X = 10.831755
+qu->fm[13].points[2].Y = 7.734898
+qu->fm[12].points[2].X = 10.814157
+qu->fm[12].points[2].Y = 7.740140
+cmp= 0.000371.
+dist= 0.000337.
+qu->fm[13].points[3].X = 16.540184
+qu->fm[13].points[3].Y = 7.734898
+qu->fm[12].points[3].X = 16.434816
+qu->fm[12].points[3].Y = 7.740140
+cmp= 0.000337.
+dist= 0.011130.
+Nearest points: 2.
+No frame in 1st queue.
+After de-ghost points in Queue.
+qu->fm[1].points[0].X = 15.578072, Y = 3.974595
+qu->fm[1].points[1].X = 10.286077, Y = 7.560285
+qu->fm[2].points[0].X = 15.668333, Y = 4.090176
+qu->fm[2].points[1].X = 10.365356, Y = 7.592987
+qu->fm[3].points[0].X = 15.759285, Y = 4.209578
+qu->fm[3].points[1].X = 10.431734, Y = 7.623488
+qu->fm[4].points[0].X = 15.842044, Y = 4.334892
+qu->fm[4].points[1].X = 10.483285, Y = 7.650977
+qu->fm[5].points[0].X = 15.842044, Y = 4.334892
+qu->fm[5].points[1].X = 10.483285, Y = 7.650977
+qu->fm[6].points[0].X = 15.842044, Y = 4.334892
+qu->fm[6].points[1].X = 10.483285, Y = 7.650977
+qu->fm[7].points[0].X = 16.057495, Y = 4.529373
+qu->fm[7].points[1].X = 10.693582, Y = 7.714661
+qu->fm[8].points[0].X = 16.119568, Y = 4.574577
+qu->fm[8].points[1].X = 10.723202, Y = 7.727800
+qu->fm[9].points[0].X = 16.180130, Y = 4.622529
+qu->fm[9].points[1].X = 10.747947, Y = 7.736391
+qu->fm[10].points[0].X = 16.231796, Y = 4.674401
+qu->fm[10].points[1].X = 10.771428, Y = 7.741779
+qu->fm[11].points[0].X = 16.290079, Y = 4.732632
+qu->fm[11].points[1].X = 10.790675, Y = 7.742325
+qu->fm[12].points[0].X = 16.434816, Y = 5.251108
+qu->fm[12].points[1].X = 10.814157, Y = 7.740140
+qu->fm[13].points[0].X = 16.540184, Y = 5.367469
+qu->fm[13].points[1].X = 10.831755, Y = 7.734898
+qu->fm[14].points[0].X = 16.540184, Y = 5.367469
+qu->fm[14].points[1].X = 10.831755, Y = 7.734898
+qu->fm[15].points[0].X = 16.540184, Y = 5.367469
+qu->fm[15].points[1].X = 10.831755, Y = 7.734898
+Frame: 2118
+Queue is Full.
+
+Del queue.
+qu->front=0, rear=15
+Cframe.fid=161, pcnt=0
+
+Add queue...
+Qframe.fid=177, pcnt=2
+Qframe.points[0].X=10.912073, Y=5.581039
+Qframe.points[1].X=10.912073, Y=7.715851
+qu->front=0, rear=0
+
+
+Del queue.
+qu->front=1, rear=0
+Cframe.fid=162, pcnt=2
+Cframe.points[0].X=15.578072, Y=3.974595
+Cframe.points[1].X=10.286077, Y=7.560285
+Frame: 2119
+
+Add queue...
+Qframe.fid=178, pcnt=2
+Qframe.points[0].X=10.946410, Y=5.624176
+Qframe.points[1].X=10.946410, Y=7.713096
+qu->front=1, rear=1
+
+Frame: 2120
+Queue is Full.
+
+Del queue.
+qu->front=2, rear=1
+Cframe.fid=163, pcnt=2
+Cframe.points[0].X=15.668333, Y=4.090176
+Cframe.points[1].X=10.365356, Y=7.592987
+
+Add queue...
+Qframe.fid=179, pcnt=1
+Qframe.points[0].X=10.984332, Y=7.713066
+qu->front=2, rear=2
+
+Frame: 2121
+Queue is Full.
+
+Del queue.
+qu->front=3, rear=2
+Cframe.fid=164, pcnt=2
+Cframe.points[0].X=15.759285, Y=4.209578
+Cframe.points[1].X=10.431734, Y=7.623488
+
+Add queue...
+Qframe.fid=180, pcnt=1
+Qframe.points[0].X=11.030608, Y=7.023719
+qu->front=3, rear=3
+
+Frame: 2122
+Queue is Full.
+
+Del queue.
+qu->front=4, rear=3
+Cframe.fid=165, pcnt=2
+Cframe.points[0].X=15.842044, Y=4.334892
+Cframe.points[1].X=10.483285, Y=7.650977
+
+Add queue...
+Qframe.fid=181, pcnt=1
+Qframe.points[0].X=11.080955, Y=7.044212
+qu->front=4, rear=4
+
+Frame: 2123
+Queue is Full.
+
+Del queue.
+qu->front=5, rear=4
+Cframe.fid=165, pcnt=2
+Cframe.points[0].X=15.842044, Y=4.334892
+Cframe.points[1].X=10.483285, Y=7.650977
+
+Add queue...
+Qframe.fid=182, pcnt=1
+Qframe.points[0].X=11.133388, Y=7.071368
+qu->front=5, rear=5
+
+Frame: 2124
+Queue is Full.
+
+Del queue.
+qu->front=6, rear=5
+Cframe.fid=165, pcnt=2
+Cframe.points[0].X=15.842044, Y=4.334892
+Cframe.points[1].X=10.483285, Y=7.650977
+
+Add queue...
+Qframe.fid=183, pcnt=2
+Qframe.points[0].X=11.197351, Y=7.105069
+Qframe.points[1].X=17.203722, Y=7.105069
+qu->front=6, rear=6
+
+Frame: 2125
+Queue is Full.
+
+Del queue.
+qu->front=7, rear=6
+Cframe.fid=168, pcnt=2
+Cframe.points[0].X=16.057495, Y=4.529373
+Cframe.points[1].X=10.693582, Y=7.714661
+
+Add queue...
+Qframe.fid=184, pcnt=2
+Qframe.points[0].X=11.259361, Y=7.779456
+Qframe.points[1].X=17.245722, Y=7.779456
+qu->front=7, rear=7
+
+Frame: 2126
+Queue is Full.
+
+Del queue.
+qu->front=8, rear=7
+Cframe.fid=169, pcnt=2
+Cframe.points[0].X=16.119568, Y=4.574577
+Cframe.points[1].X=10.723202, Y=7.727800
+
+Add queue...
+Qframe.fid=185, pcnt=2
+Qframe.points[0].X=11.331380, Y=7.805882
+Qframe.points[1].X=17.285921, Y=7.805882
+qu->front=8, rear=8
+
+Frame: 2127
+Queue is Full.
+
+Del queue.
+qu->front=9, rear=8
+Cframe.fid=170, pcnt=2
+Cframe.points[0].X=16.180130, Y=4.622529
+Cframe.points[1].X=10.747947, Y=7.736391
+
+Add queue...
+Qframe.fid=186, pcnt=2
+Qframe.points[0].X=11.379707, Y=7.836150
+Qframe.points[1].X=17.328230, Y=7.836150
+qu->front=9, rear=9
+
+Frame: 2128
+Queue is Full.
+
+Del queue.
+qu->front=10, rear=9
+Cframe.fid=171, pcnt=2
+Cframe.points[0].X=16.231796, Y=4.674401
+Cframe.points[1].X=10.771428, Y=7.741779
+
+Add queue...
+Qframe.fid=187, pcnt=2
+Qframe.points[0].X=11.429730, Y=7.869918
+Qframe.points[1].X=17.406263, Y=7.869918
+qu->front=10, rear=10
+
+Frame: 2129
+Queue is Full.
+
+Del queue.
+qu->front=11, rear=10
+Cframe.fid=172, pcnt=2
+Cframe.points[0].X=16.290079, Y=4.732632
+Cframe.points[1].X=10.790675, Y=7.742325
+
+Add queue...
+Qframe.fid=188, pcnt=2
+Qframe.points[0].X=11.478339, Y=7.907197
+Qframe.points[1].X=17.497271, Y=7.907197
+qu->front=11, rear=11
+
+Frame: 2130
+Queue is Full.
+
+Del queue.
+qu->front=12, rear=11
+Cframe.fid=173, pcnt=2
+Cframe.points[0].X=16.434816, Y=5.251108
+Cframe.points[1].X=10.814157, Y=7.740140
+
+Add queue...
+Qframe.fid=189, pcnt=2
+Qframe.points[0].X=11.528428, Y=7.947503
+Qframe.points[1].X=17.565071, Y=7.947503
+qu->front=12, rear=12
+
+Frame: 2131
+Queue is Full.
+
+Del queue.
+qu->front=13, rear=12
+Cframe.fid=174, pcnt=2
+Cframe.points[0].X=16.540184, Y=5.367469
+Cframe.points[1].X=10.831755, Y=7.734898
+
+Add queue...
+Qframe.fid=190, pcnt=2
+Qframe.points[0].X=11.574537, Y=7.990632
+Qframe.points[1].X=17.635239, Y=7.990632
+qu->front=13, rear=13
+
+Frame: 2132
+Queue is Full.
+
+Del queue.
+qu->front=14, rear=13
+Cframe.fid=174, pcnt=2
+Cframe.points[0].X=16.540184, Y=5.367469
+Cframe.points[1].X=10.831755, Y=7.734898
+
+Add queue...
+Qframe.fid=191, pcnt=2
+Qframe.points[0].X=11.620249, Y=8.036415
+Qframe.points[1].X=17.702610, Y=8.036415
+qu->front=14, rear=14
+
+Frame: 2133
+Queue is Full.
+
+Del queue.
+qu->front=15, rear=14
+Cframe.fid=174, pcnt=2
+Cframe.points[0].X=16.540184, Y=5.367469
+Cframe.points[1].X=10.831755, Y=7.734898
+
+Add queue...
+Qframe.fid=192, pcnt=2
+Qframe.points[0].X=11.871267, Y=8.084541
+Qframe.points[1].X=17.753214, Y=8.084541
+qu->front=15, rear=15
+
+Detect Noise points of frame.
+Nothing of Detect Ghost in Queued frames.
+Frame: 2134
+Queue is Full.
+
+Del queue.
+qu->front=0, rear=15
+Cframe.fid=177, pcnt=2
+Cframe.points[0].X=10.912073, Y=5.581039
+Cframe.points[1].X=10.912073, Y=7.715851
+
+Add queue...
+Qframe.fid=193, pcnt=2
+Qframe.points[0].X=11.912907, Y=8.135509
+Qframe.points[1].X=17.789610, Y=8.135509
+qu->front=0, rear=0
+
+Frame: 2135
+Queue is Full.
+
+Del queue.
+qu->front=1, rear=0
+Cframe.fid=178, pcnt=2
+Cframe.points[0].X=10.946410, Y=5.624176
+Cframe.points[1].X=10.946410, Y=7.713096
+
+Add queue...
+Qframe.fid=194, pcnt=2
+Qframe.points[0].X=11.950266, Y=8.188820
+Qframe.points[1].X=17.823647, Y=8.188820
+qu->front=1, rear=1
+
+Frame: 2136
+Queue is Full.
+
+Del queue.
+qu->front=2, rear=1
+Cframe.fid=179, pcnt=1
+Cframe.points[0].X=10.984332, Y=7.713066
+
+Add queue...
+Qframe.fid=195, pcnt=1
+Qframe.points[0].X=11.974440, Y=8.244451
+qu->front=2, rear=2
+
+Frame: 2137
+Queue is Full.
+
+Del queue.
+qu->front=3, rear=2
+Cframe.fid=180, pcnt=1
+Cframe.points[0].X=11.030608, Y=7.023719
+
+Add queue...
+Qframe.fid=196, pcnt=1
+Qframe.points[0].X=11.996465, Y=8.668605
+qu->front=3, rear=3
+
+Frame: 2138
+Queue is Full.
+
+Del queue.
+qu->front=4, rear=3
+Cframe.fid=181, pcnt=1
+Cframe.points[0].X=11.080955, Y=7.044212
+
+Add queue...
+Qframe.fid=197, pcnt=1
+Qframe.points[0].X=12.013066, Y=8.709486
+qu->front=4, rear=4
+
+Frame: 2139
+Queue is Full.
+
+Del queue.
+qu->front=5, rear=4
+Cframe.fid=182, pcnt=1
+Cframe.points[0].X=11.133388, Y=7.071368
+
+Add queue...
+Qframe.fid=198, pcnt=1
+Qframe.points[0].X=12.023639, Y=8.751238
+qu->front=5, rear=5
+
+Frame: 2140
+Queue is Full.
+
+Del queue.
+qu->front=6, rear=5
+Cframe.fid=183, pcnt=2
+Cframe.points[0].X=11.197351, Y=7.105069
+Cframe.points[1].X=17.203722, Y=7.105069
+
+Add queue...
+Qframe.fid=199, pcnt=1
+Qframe.points[0].X=12.030872, Y=8.794213
+qu->front=6, rear=6
+
+Frame: 2141
+Queue is Full.
+
+Del queue.
+qu->front=7, rear=6
+Cframe.fid=184, pcnt=2
+Cframe.points[0].X=11.259361, Y=7.779456
+Cframe.points[1].X=17.245722, Y=7.779456
+
+Add queue...
+Qframe.fid=200, pcnt=1
+Qframe.points[0].X=12.036017, Y=8.838204
+qu->front=7, rear=7
+
+Frame: 2142
+Queue is Full.
+
+Del queue.
+qu->front=8, rear=7
+Cframe.fid=185, pcnt=2
+Cframe.points[0].X=11.331380, Y=7.805882
+Cframe.points[1].X=17.285921, Y=7.805882
+
+Add queue...
+Qframe.fid=201, pcnt=1
+Qframe.points[0].X=12.040824, Y=8.883377
+qu->front=8, rear=8
+
+Frame: 2143
+Queue is Full.
+
+Del queue.
+qu->front=9, rear=8
+Cframe.fid=186, pcnt=2
+Cframe.points[0].X=11.379707, Y=7.836150
+Cframe.points[1].X=17.328230, Y=7.836150
+
+Add queue...
+Qframe.fid=202, pcnt=1
+Qframe.points[0].X=12.043416, Y=8.929776
+qu->front=9, rear=9
+
+Frame: 2144
+Queue is Full.
+
+Del queue.
+qu->front=10, rear=9
+Cframe.fid=187, pcnt=2
+Cframe.points[0].X=11.429730, Y=7.869918
+Cframe.points[1].X=17.406263, Y=7.869918
+
+Add queue...
+Qframe.fid=203, pcnt=1
+Qframe.points[0].X=12.046393, Y=8.976952
+qu->front=10, rear=10
+
+Frame: 2145
+Queue is Full.
+
+Del queue.
+qu->front=11, rear=10
+Cframe.fid=188, pcnt=2
+Cframe.points[0].X=11.478339, Y=7.907197
+Cframe.points[1].X=17.497271, Y=7.907197
+
+Add queue...
+Qframe.fid=204, pcnt=1
+Qframe.points[0].X=12.050770, Y=9.025089
+qu->front=11, rear=11
+
+Frame: 2146
+Queue is Full.
+
+Del queue.
+qu->front=12, rear=11
+Cframe.fid=189, pcnt=2
+Cframe.points[0].X=11.528428, Y=7.947503
+Cframe.points[1].X=17.565071, Y=7.947503
+
+Add queue...
+Qframe.fid=205, pcnt=1
+Qframe.points[0].X=12.054827, Y=9.073510
+qu->front=12, rear=12
+
+Frame: 2147
+Queue is Full.
+
+Del queue.
+qu->front=13, rear=12
+Cframe.fid=190, pcnt=2
+Cframe.points[0].X=11.574537, Y=7.990632
+Cframe.points[1].X=17.635239, Y=7.990632
+
+Add queue...
+Qframe.fid=206, pcnt=1
+Qframe.points[0].X=12.056775, Y=9.122322
+qu->front=13, rear=13
+
+Frame: 2148
+Queue is Full.
+
+Del queue.
+qu->front=14, rear=13
+Cframe.fid=191, pcnt=2
+Cframe.points[0].X=11.620249, Y=8.036415
+Cframe.points[1].X=17.702610, Y=8.036415
+
+Add queue...
+Qframe.fid=207, pcnt=1
+Qframe.points[0].X=12.058812, Y=9.171189
+qu->front=14, rear=14
+
+Frame: 2149
+Queue is Full.
+
+Del queue.
+qu->front=15, rear=14
+Cframe.fid=192, pcnt=2
+Cframe.points[0].X=11.871267, Y=8.084541
+Cframe.points[1].X=17.753214, Y=8.084541
+
+Add queue...
+Qframe.fid=208, pcnt=1
+Qframe.points[0].X=12.064045, Y=9.219454
+qu->front=15, rear=15
+
+Detect Noise points of frame.
+Nothing of Detect Ghost in Queued frames.
+Frame: 2150
+Queue is Full.
+
+Del queue.
+qu->front=0, rear=15
+Cframe.fid=193, pcnt=2
+Cframe.points[0].X=11.912907, Y=8.135509
+Cframe.points[1].X=17.789610, Y=8.135509
+
+Add queue...
+Qframe.fid=209, pcnt=1
+Qframe.points[0].X=12.065215, Y=9.266897
+qu->front=0, rear=0
+
+Frame: 2151
+Queue is Full.
+
+Del queue.
+qu->front=1, rear=0
+Cframe.fid=194, pcnt=2
+Cframe.points[0].X=11.950266, Y=8.188820
+Cframe.points[1].X=17.823647, Y=8.188820
+
+Add queue...
+Qframe.fid=210, pcnt=1
+Qframe.points[0].X=12.066213, Y=9.313347
+qu->front=1, rear=1
+
+Frame: 2152
+Queue is Full.
+
+Del queue.
+qu->front=2, rear=1
+Cframe.fid=195, pcnt=1
+Cframe.points[0].X=11.974440, Y=8.244451
+
+Add queue...
+Qframe.fid=211, pcnt=1
+Qframe.points[0].X=12.069411, Y=9.358151
+qu->front=2, rear=2
+
+Frame: 2153
+Queue is Full.
+
+Del queue.
+qu->front=3, rear=2
+Cframe.fid=196, pcnt=1
+Cframe.points[0].X=11.996465, Y=8.668605
+
+Add queue...
+Qframe.fid=212, pcnt=1
+Qframe.points[0].X=12.071826, Y=9.401170
+qu->front=3, rear=3
+
+Frame: 2154
+Queue is Full.
+
+Del queue.
+qu->front=4, rear=3
+Cframe.fid=197, pcnt=1
+Cframe.points[0].X=12.013066, Y=8.709486
+
+Add queue...
+Qframe.fid=213, pcnt=1
+Qframe.points[0].X=12.073807, Y=9.635637
+qu->front=4, rear=4
+
+Frame: 2155
+Queue is Full.
+
+Del queue.
+qu->front=5, rear=4
+Cframe.fid=198, pcnt=1
+Cframe.points[0].X=12.023639, Y=8.751238
+
+Add queue...
+Qframe.fid=214, pcnt=1
+Qframe.points[0].X=12.075487, Y=9.665631
+qu->front=5, rear=5
+
+Frame: 2156
+Queue is Full.
+
+Del queue.
+qu->front=6, rear=5
+Cframe.fid=199, pcnt=1
+Cframe.points[0].X=12.030872, Y=8.794213
+
+Add queue...
+Qframe.fid=215, pcnt=1
+Qframe.points[0].X=12.075360, Y=9.693138
+qu->front=6, rear=6
+
+Frame: 2157
+Queue is Full.
+
+Del queue.
+qu->front=7, rear=6
+Cframe.fid=200, pcnt=1
+Cframe.points[0].X=12.036017, Y=8.838204
+
+Add queue...
+Qframe.fid=216, pcnt=1
+Qframe.points[0].X=12.073976, Y=9.718238
+qu->front=7, rear=7
+
+Frame: 2158
+Queue is Full.
+
+Del queue.
+qu->front=8, rear=7
+Cframe.fid=201, pcnt=1
+Cframe.points[0].X=12.040824, Y=8.883377
+
+Add queue...
+Qframe.fid=217, pcnt=1
+Qframe.points[0].X=12.072911, Y=9.740785
+qu->front=8, rear=8
+
+Frame: 2159
+Queue is Full.
+
+Del queue.
+qu->front=9, rear=8
+Cframe.fid=202, pcnt=1
+Cframe.points[0].X=12.043416, Y=8.929776
+
+Add queue...
+Qframe.fid=218, pcnt=1
+Qframe.points[0].X=12.070614, Y=9.760670
+qu->front=9, rear=9
+
+Frame: 2160
+Queue is Full.
+
+Del queue.
+qu->front=10, rear=9
+Cframe.fid=203, pcnt=1
+Cframe.points[0].X=12.046393, Y=8.976952
+
+Add queue...
+Qframe.fid=219, pcnt=1
+Qframe.points[0].X=12.068506, Y=9.777772
+qu->front=10, rear=10
+
+Frame: 2161
+Queue is Full.
+
+Del queue.
+qu->front=11, rear=10
+Cframe.fid=204, pcnt=1
+Cframe.points[0].X=12.050770, Y=9.025089
+
+Add queue...
+Qframe.fid=220, pcnt=1
+Qframe.points[0].X=12.062355, Y=9.792300
+qu->front=11, rear=11
+
+Frame: 2162
+Queue is Full.
+
+Del queue.
+qu->front=12, rear=11
+Cframe.fid=205, pcnt=1
+Cframe.points[0].X=12.054827, Y=9.073510
+
+Add queue...
+Qframe.fid=221, pcnt=1
+Qframe.points[0].X=12.054502, Y=9.804091
+qu->front=12, rear=12
+
+Frame: 2163
+Queue is Full.
+
+Del queue.
+qu->front=13, rear=12
+Cframe.fid=206, pcnt=1
+Cframe.points[0].X=12.056775, Y=9.122322
+
+Add queue...
+Qframe.fid=222, pcnt=1
+Qframe.points[0].X=12.046447, Y=9.813345
+qu->front=13, rear=13
+
+Frame: 2164
+Queue is Full.
+
+Del queue.
+qu->front=14, rear=13
+Cframe.fid=207, pcnt=1
+Cframe.points[0].X=12.058812, Y=9.171189
+
+Add queue...
+Qframe.fid=223, pcnt=1
+Qframe.points[0].X=12.036109, Y=9.820294
+qu->front=14, rear=14
+
+Frame: 2165
+Queue is Full.
+
+Del queue.
+qu->front=15, rear=14
+Cframe.fid=208, pcnt=1
+Cframe.points[0].X=12.064045, Y=9.219454
+
+Add queue...
+Qframe.fid=224, pcnt=1
+Qframe.points[0].X=12.026932, Y=9.824939
+qu->front=15, rear=15
+
+Detect Noise points of frame.
+Nothing of Detect Ghost in Queued frames.
+Frame: 2166
+Queue is Full.
+
+Del queue.
+qu->front=0, rear=15
+Cframe.fid=209, pcnt=1
+Cframe.points[0].X=12.065215, Y=9.266897
+
+Add queue...
+Qframe.fid=225, pcnt=1
+Qframe.points[0].X=12.015324, Y=9.827631
+qu->front=0, rear=0
+
+Frame: 2167
+Queue is Full.
+
+Del queue.
+qu->front=1, rear=0
+Cframe.fid=210, pcnt=1
+Cframe.points[0].X=12.066213, Y=9.313347
+
+Add queue...
+Qframe.fid=226, pcnt=1
+Qframe.points[0].X=12.003697, Y=9.828516
+qu->front=1, rear=1
+
+Frame: 2168
+Queue is Full.
+
+Del queue.
+qu->front=2, rear=1
+Cframe.fid=211, pcnt=1
+Cframe.points[0].X=12.069411, Y=9.358151
+
+Add queue...
+Qframe.fid=227, pcnt=1
+Qframe.points[0].X=11.991838, Y=9.827928
+qu->front=2, rear=2
+
+Frame: 2169
+Queue is Full.
+
+Del queue.
+qu->front=3, rear=2
+Cframe.fid=212, pcnt=1
+Cframe.points[0].X=12.071826, Y=9.401170
+
+Add queue...
+Qframe.fid=228, pcnt=1
+Qframe.points[0].X=11.980707, Y=9.826099
+qu->front=3, rear=3
+
+Frame: 2170
+Queue is Full.
+
+Del queue.
+qu->front=4, rear=3
+Cframe.fid=213, pcnt=1
+Cframe.points[0].X=12.073807, Y=9.635637
+
+Add queue...
+Qframe.fid=229, pcnt=1
+Qframe.points[0].X=11.971844, Y=9.823485
+qu->front=4, rear=4
+
+Frame: 2171
+Queue is Full.
+
+Del queue.
+qu->front=5, rear=4
+Cframe.fid=214, pcnt=1
+Cframe.points[0].X=12.075487, Y=9.665631
+
+Add queue...
+Qframe.fid=230, pcnt=1
+Qframe.points[0].X=11.960424, Y=9.820255
+qu->front=5, rear=5
+
+Frame: 2172
+Queue is Full.
+
+Del queue.
+qu->front=6, rear=5
+Cframe.fid=215, pcnt=1
+Cframe.points[0].X=12.075360, Y=9.693138
+
+Add queue...
+Qframe.fid=231, pcnt=1
+Qframe.points[0].X=11.953696, Y=9.816650
+qu->front=6, rear=6
+
+Frame: 2173
+Queue is Full.
+
+Del queue.
+qu->front=7, rear=6
+Cframe.fid=216, pcnt=1
+Cframe.points[0].X=12.073976, Y=9.718238
+
+Add queue...
+Qframe.fid=232, pcnt=1
+Qframe.points[0].X=11.948583, Y=9.813340
+qu->front=7, rear=7
+
+Frame: 2174
+Queue is Full.
+
+Del queue.
+qu->front=8, rear=7
+Cframe.fid=217, pcnt=1
+Cframe.points[0].X=12.072911, Y=9.740785
+
+Add queue...
+Qframe.fid=233, pcnt=1
+Qframe.points[0].X=11.943550, Y=9.809941
+qu->front=8, rear=8
+
+Frame: 2175
+Queue is Full.
+
+Del queue.
+qu->front=9, rear=8
+Cframe.fid=218, pcnt=1
+Cframe.points[0].X=12.070614, Y=9.760670
+
+Add queue...
+Qframe.fid=234, pcnt=1
+Qframe.points[0].X=11.936987, Y=9.806996
+qu->front=9, rear=9
+
+Frame: 2176
+Queue is Full.
+
+Del queue.
+qu->front=10, rear=9
+Cframe.fid=219, pcnt=1
+Cframe.points[0].X=12.068506, Y=9.777772
+
+Add queue...
+Qframe.fid=235, pcnt=1
+Qframe.points[0].X=11.935476, Y=9.804594
+qu->front=10, rear=10
+
+Frame: 2177
+Queue is Full.
+
+Del queue.
+qu->front=11, rear=10
+Cframe.fid=220, pcnt=1
+Cframe.points[0].X=12.062355, Y=9.792300
+
+Add queue...
+Qframe.fid=236, pcnt=1
+Qframe.points[0].X=11.937355, Y=9.802683
+qu->front=11, rear=11
+
+Frame: 2178
+Queue is Full.
+
+Del queue.
+qu->front=12, rear=11
+Cframe.fid=221, pcnt=1
+Cframe.points[0].X=12.054502, Y=9.804091
+
+Add queue...
+Qframe.fid=237, pcnt=1
+Qframe.points[0].X=11.939330, Y=9.801445
+qu->front=12, rear=12
+
+Frame: 2179
+Queue is Full.
+
+Del queue.
+qu->front=13, rear=12
+Cframe.fid=222, pcnt=1
+Cframe.points[0].X=12.046447, Y=9.813345
+
+Add queue...
+Qframe.fid=238, pcnt=1
+Qframe.points[0].X=11.939495, Y=9.800838
+qu->front=13, rear=13
+
+Frame: 2180
+Queue is Full.
+
+Del queue.
+qu->front=14, rear=13
+Cframe.fid=223, pcnt=1
+Cframe.points[0].X=12.036109, Y=9.820294
+
+Add queue...
+Qframe.fid=239, pcnt=1
+Qframe.points[0].X=11.942930, Y=9.801029
+qu->front=14, rear=14
+
+Frame: 2181
+Queue is Full.
+
+Del queue.
+qu->front=15, rear=14
+Cframe.fid=224, pcnt=1
+Cframe.points[0].X=12.026932, Y=9.824939
+
+Add queue...
+Qframe.fid=240, pcnt=1
+Qframe.points[0].X=11.946143, Y=9.801802
+qu->front=15, rear=15
+
+Detect Noise points of frame.
+Nothing of Detect Ghost in Queued frames.
+Frame: 2182
+Queue is Full.
+
+Del queue.
+qu->front=0, rear=15
+Cframe.fid=225, pcnt=1
+Cframe.points[0].X=12.015324, Y=9.827631
+
+Add queue...
+Qframe.fid=241, pcnt=1
+Qframe.points[0].X=11.948273, Y=9.803159
+qu->front=0, rear=0
+
+Frame: 2183
+Queue is Full.
+
+Del queue.
+qu->front=1, rear=0
+Cframe.fid=226, pcnt=1
+Cframe.points[0].X=12.003697, Y=9.828516
+
+Add queue...
+Qframe.fid=242, pcnt=1
+Qframe.points[0].X=11.949986, Y=9.805160
+qu->front=1, rear=1
+
+Frame: 2184
+Queue is Full.
+
+Del queue.
+qu->front=2, rear=1
+Cframe.fid=227, pcnt=1
+Cframe.points[0].X=11.991838, Y=9.827928
+
+Add queue...
+Qframe.fid=243, pcnt=1
+Qframe.points[0].X=11.952088, Y=9.807736
+qu->front=2, rear=2
+
+Frame: 2185
+Queue is Full.
+
+Del queue.
+qu->front=3, rear=2
+Cframe.fid=228, pcnt=1
+Cframe.points[0].X=11.980707, Y=9.826099
+
+Add queue...
+Qframe.fid=244, pcnt=1
+Qframe.points[0].X=11.955178, Y=9.810892
+qu->front=3, rear=3
+
+Frame: 2186
+Queue is Full.
+
+Del queue.
+qu->front=4, rear=3
+Cframe.fid=229, pcnt=1
+Cframe.points[0].X=11.971844, Y=9.823485
+
+Add queue...
+Qframe.fid=245, pcnt=1
+Qframe.points[0].X=11.953267, Y=9.814097
+qu->front=4, rear=4
+
+Frame: 2187
+Queue is Full.
+
+Del queue.
+qu->front=5, rear=4
+Cframe.fid=230, pcnt=1
+Cframe.points[0].X=11.960424, Y=9.820255
+
+Add queue...
+Qframe.fid=246, pcnt=1
+Qframe.points[0].X=11.952913, Y=9.817795
+qu->front=5, rear=5
+
+Frame: 2188
+Queue is Full.
+
+Del queue.
+qu->front=6, rear=5
+Cframe.fid=231, pcnt=1
+Cframe.points[0].X=11.953696, Y=9.816650
+
+Add queue...
+Qframe.fid=247, pcnt=1
+Qframe.points[0].X=11.949305, Y=9.821644
+qu->front=6, rear=6
+
+Frame: 2189
+Queue is Full.
+
+Del queue.
+qu->front=7, rear=6
+Cframe.fid=232, pcnt=1
+Cframe.points[0].X=11.948583, Y=9.813340
+
+Add queue...
+Qframe.fid=248, pcnt=1
+Qframe.points[0].X=11.945326, Y=9.825564
+qu->front=7, rear=7
+
+Frame: 2190
+Queue is Full.
+
+Del queue.
+qu->front=8, rear=7
+Cframe.fid=233, pcnt=1
+Cframe.points[0].X=11.943550, Y=9.809941
+
+Add queue...
+Qframe.fid=249, pcnt=1
+Qframe.points[0].X=11.941339, Y=9.829431
+qu->front=8, rear=8
+
+Frame: 2191
+Queue is Full.
+
+Del queue.
+qu->front=9, rear=8
+Cframe.fid=234, pcnt=1
+Cframe.points[0].X=11.936987, Y=9.806996
+
+Add queue...
+Qframe.fid=250, pcnt=1
+Qframe.points[0].X=11.940031, Y=9.833632
+qu->front=9, rear=9
+
+Frame: 2192
+Queue is Full.
+
+Del queue.
+qu->front=10, rear=9
+Cframe.fid=235, pcnt=1
+Cframe.points[0].X=11.935476, Y=9.804594
+
+Add queue...
+Qframe.fid=251, pcnt=1
+Qframe.points[0].X=11.940040, Y=9.837819
+qu->front=10, rear=10
+
+Frame: 2193
+Queue is Full.
+
+Del queue.
+qu->front=11, rear=10
+Cframe.fid=236, pcnt=1
+Cframe.points[0].X=11.937355, Y=9.802683
+
+Add queue...
+Qframe.fid=252, pcnt=1
+Qframe.points[0].X=11.942266, Y=9.842032
+qu->front=11, rear=11
+
+Frame: 2194
+Queue is Full.
+
+Del queue.
+qu->front=12, rear=11
+Cframe.fid=237, pcnt=1
+Cframe.points[0].X=11.939330, Y=9.801445
+
+Add queue...
+Qframe.fid=253, pcnt=1
+Qframe.points[0].X=11.943390, Y=9.846543
+qu->front=12, rear=12
+
+Frame: 2195
+Queue is Full.
+
+Del queue.
+qu->front=13, rear=12
+Cframe.fid=238, pcnt=1
+Cframe.points[0].X=11.939495, Y=9.800838
+
+Add queue...
+Qframe.fid=254, pcnt=1
+Qframe.points[0].X=11.952511, Y=9.851418
+qu->front=13, rear=13
+
+Frame: 2196
+
+Del queue.
+qu->front=14, rear=13
+Cframe.fid=239, pcnt=1
+Cframe.points[0].X=11.942930, Y=9.801029
+Frame: 2197
+
+Del queue.
+qu->front=15, rear=13
+Cframe.fid=240, pcnt=1
+Cframe.points[0].X=11.946143, Y=9.801802
+Frame: 2198
+
+Del queue.
+qu->front=0, rear=13
+Cframe.fid=241, pcnt=1
+Cframe.points[0].X=11.948273, Y=9.803159
+Frame: 2199
+
+Del queue.
+qu->front=1, rear=13
+Cframe.fid=242, pcnt=1
+Cframe.points[0].X=11.949986, Y=9.805160
+Frame: 2200
+
+Del queue.
+qu->front=2, rear=13
+Cframe.fid=243, pcnt=1
+Cframe.points[0].X=11.952088, Y=9.807736
+Frame: 2201
+
+Del queue.
+qu->front=3, rear=13
+Cframe.fid=244, pcnt=1
+Cframe.points[0].X=11.955178, Y=9.810892
+Frame: 2202
+
+Del queue.
+qu->front=4, rear=13
+Cframe.fid=245, pcnt=1
+Cframe.points[0].X=11.953267, Y=9.814097
+Frame: 2203
+
+Del queue.
+qu->front=5, rear=13
+Cframe.fid=246, pcnt=1
+Cframe.points[0].X=11.952913, Y=9.817795
+Frame: 2204
+
+Del queue.
+qu->front=6, rear=13
+Cframe.fid=247, pcnt=1
+Cframe.points[0].X=11.949305, Y=9.821644
+Frame: 2205
+
+Del queue.
+qu->front=7, rear=13
+Cframe.fid=248, pcnt=1
+Cframe.points[0].X=11.945326, Y=9.825564
+Frame: 2206
+
+Del queue.
+qu->front=8, rear=13
+Cframe.fid=249, pcnt=1
+Cframe.points[0].X=11.941339, Y=9.829431
+Frame: 2207
+
+Del queue.
+qu->front=9, rear=13
+Cframe.fid=250, pcnt=1
+Cframe.points[0].X=11.940031, Y=9.833632
+Frame: 2208
+
+Del queue.
+qu->front=10, rear=13
+Cframe.fid=251, pcnt=1
+Cframe.points[0].X=11.940040, Y=9.837819
+Frame: 2209
+
+Del queue.
+qu->front=11, rear=13
+Cframe.fid=252, pcnt=1
+Cframe.points[0].X=11.942266, Y=9.842032
+Frame: 2210
+
+Del queue.
+qu->front=12, rear=13
+Cframe.fid=253, pcnt=1
+Cframe.points[0].X=11.943390, Y=9.846543
+Frame: 2211
+
+Del queue.
+qu->front=13, rear=13
+Cframe.fid=254, pcnt=1
+Cframe.points[0].X=11.952511, Y=9.851418
+Frame: 2212
+Queue is empty.
+Frame: 2213
+Queue is empty.
+Frame: 2214
+Queue is empty.
+Frame: 2215
+Queue is empty.
+Frame: 2216
+Queue is empty.
+Frame: 2217
+Queue is empty.
+Frame: 2218
+Queue is empty.
+Frame: 2219
+Queue is empty.
+Frame: 2220
+Queue is empty.
+Frame: 2221
+Queue is empty.
+Frame: 2222
+Queue is empty.
+Frame: 2223
+Queue is empty.
+Frame: 2224
+Queue is empty.
+Frame: 2225
+Queue is empty.
+Frame: 2226
+Queue is empty.
+Frame: 2227
+Queue is empty.
+Frame: 2228
+Queue is empty.
+Frame: 2229
+Queue is empty.
+Frame: 2230
+Queue is empty.
+Frame: 2231
+Queue is empty.
+Frame: 2232
+Queue is empty.
+Frame: 2233
+Queue is empty.
+Frame: 2234
+Queue is empty.
+Frame: 2235
+Queue is empty.
+Frame: 2236
+Queue is empty.
+Frame: 2237
+Queue is empty.
+Frame: 2238
+Queue is empty.
+Frame: 2239
+Queue is empty.
+Frame: 2240
+Queue is empty.
+Frame: 2241
+Queue is empty.
+Frame: 2242
+Queue is empty.
+Frame: 2243
+Queue is empty.
+Frame: 2244
+Queue is empty.
+Frame: 2245
+Queue is empty.
+Frame: 2246
+Queue is empty.
+Frame: 2247
+Queue is empty.
+Frame: 2248
+Queue is empty.
+Frame: 2249
+Queue is empty.
+Frame: 2250
+Queue is empty.
+Frame: 2251
+Queue is empty.
+Frame: 2252
+Queue is empty.
+Frame: 2253
+Queue is empty.
+Frame: 2254
+Queue is empty.
+Frame: 2255
+Queue is empty.
+Frame: 2256
+Queue is empty.
+Frame: 2257
+Queue is empty.
+Frame: 2258
+Queue is empty.
+Frame: 2259
+Queue is empty.
+Frame: 2260
+Queue is empty.
+Frame: 2261
+Queue is empty.
+Frame: 2262
+Queue is empty.
+Frame: 2263
+Queue is empty.
+Frame: 2264
+Queue is empty.
+Frame: 2265
+Queue is empty.
+Frame: 2266
+Queue is empty.
+Frame: 2267
+Queue is empty.
+Frame: 2268
+Queue is empty.
+Frame: 2269
+Queue is empty.
+Frame: 2270
+Queue is empty.
+Frame: 2271
+Queue is empty.
+Frame: 2272
+Queue is empty.
+Frame: 2273
+Queue is empty.
+Frame: 2274
+Queue is empty.
+Frame: 2275
+Queue is empty.
+Frame: 2276
+Queue is empty.
+Frame: 2277
+Queue is empty.
+Frame: 2278
+Queue is empty.
+Frame: 2279
+Queue is empty.
+Frame: 2280
+Queue is empty.
+Frame: 2281
+Queue is empty.
+Frame: 2282
+Queue is empty.
+Frame: 2283
+Queue is empty.
+Frame: 2284
+Queue is empty.
+Frame: 2285
+Queue is empty.
+Frame: 2286
+Queue is empty.
+Frame: 2287
+Queue is empty.
+Frame: 2288
+Queue is empty.
+Frame: 2289
+Queue is empty.
+Frame: 2290
+Queue is empty.
+Frame: 2291
+Queue is empty.
+Frame: 2292
+Queue is empty.
+Frame: 2293
+Queue is empty.
+Frame: 2294
+Queue is empty.
+Frame: 2295
+Queue is empty.
+Frame: 2296
+Queue is empty.
+Frame: 2297
+Queue is empty.
+Frame: 2298
+Queue is empty.
+Frame: 2299
+Queue is empty.
+Frame: 2300
+Queue is empty.
+Frame: 2301
+Queue is empty.
+Frame: 2302
+Queue is empty.
+Frame: 2303
+Queue is empty.
+Frame: 2304
+Queue is empty.
+Frame: 2305
+Queue is empty.
+Frame: 2306
+Queue is empty.
+Frame: 2307
+Queue is empty.
+Frame: 2308
+Queue is empty.
+Frame: 2309
+Queue is empty.
+Frame: 2310
+Queue is empty.
+Frame: 2311
+Queue is empty.
+Frame: 2312
+Queue is empty.
+Frame: 2313
+Queue is empty.
+Frame: 2314
+Queue is empty.
+Frame: 2315
+Queue is empty.
+Frame: 2316
+Queue is empty.
+Frame: 2317
+Queue is empty.
+Frame: 2318
+Queue is empty.
+Frame: 2319
+Queue is empty.
+Frame: 2320
+Queue is empty.
+Frame: 2321
+Queue is empty.
+Frame: 2322
+Queue is empty.
+Frame: 2323
+Queue is empty.
+Frame: 2324
+Queue is empty.
+Frame: 2325
+Queue is empty.
+Frame: 2326
+Queue is empty.
+Frame: 2327
+Queue is empty.
+Frame: 2328
+Queue is empty.
+Frame: 2329
+Queue is empty.
+Frame: 2330
+Queue is empty.
+Frame: 2331
+Queue is empty.
+Frame: 2332
+Queue is empty.
+Frame: 2333
+Queue is empty.
+Frame: 2334
+Queue is empty.
+Frame: 2335
+Queue is empty.
+Frame: 2336
+Queue is empty.
+Frame: 2337
+Queue is empty.
+Frame: 2338
+Queue is empty.
+Frame: 2339
+Queue is empty.
+Frame: 2340
+Queue is empty.
+Frame: 2341
+Queue is empty.
+Frame: 2342
+Queue is empty.
+Frame: 2343
+Queue is empty.
+Frame: 2344
+Queue is empty.
+Frame: 2345
+Queue is empty.
+Frame: 2346
+Queue is empty.
+Frame: 2347
+Queue is empty.
+Frame: 2348
+Queue is empty.
+Frame: 2349
+Queue is empty.
+Frame: 2350
+Queue is empty.
+Frame: 2351
+Queue is empty.
+Frame: 2352
+Queue is empty.
+Frame: 2353
+Queue is empty.
+Frame: 2354
+Queue is empty.
+Frame: 2355
+Queue is empty.
+Frame: 2356
+Queue is empty.
+Frame: 2357
+Queue is empty.
+Frame: 2358
+Queue is empty.
+Frame: 2359
+Queue is empty.
+Frame: 2360
+Queue is empty.
+Frame: 2361
+Queue is empty.
+Frame: 2362
+Queue is empty.
+Frame: 2363
+Queue is empty.
+Frame: 2364
+Queue is empty.
+Frame: 2365
+Queue is empty.
+Frame: 2366
+Queue is empty.
+Frame: 2367
+Queue is empty.
+Frame: 2368
+Queue is empty.
+Frame: 2369
+Queue is empty.
+Frame: 2370
+Queue is empty.
+Frame: 2371
+Queue is empty.
+Frame: 2372
+Queue is empty.
+Frame: 2373
+Queue is empty.
+Frame: 2374
+Queue is empty.
+Frame: 2375
+Queue is empty.
+Frame: 2376
+Queue is empty.
+Frame: 2377
+Queue is empty.
+Frame: 2378
+Queue is empty.
+Frame: 2379
+Queue is empty.
+Frame: 2380
+Queue is empty.
+Frame: 2381
+Queue is empty.
+Frame: 2382
+Queue is empty.
+Frame: 2383
+Queue is empty.
+Frame: 2384
+Queue is empty.
+Frame: 2385
+Queue is empty.
+Frame: 2386
+Queue is empty.
+Frame: 2387
+Queue is empty.
+Frame: 2388
+Queue is empty.
+Frame: 2389
+Queue is empty.
+Frame: 2390
+Queue is empty.
+Frame: 2391
+Queue is empty.
+Frame: 2392
+Queue is empty.
+Frame: 2393
+Queue is empty.
+Frame: 2394
+Queue is empty.
+Frame: 2395
+Queue is empty.
+Frame: 2396
+Queue is empty.
+Frame: 2397
+Queue is empty.
+Frame: 2398
+Queue is empty.
+Frame: 2399
+Queue is empty.
+Frame: 2400
+Queue is empty.
+Frame: 2401
+Queue is empty.
+Frame: 2402
+Queue is empty.
+Frame: 2403
+Queue is empty.
+Frame: 2404
+Queue is empty.
+Frame: 2405
+Queue is empty.
+Frame: 2406
+Queue is empty.
+Frame: 2407
+Queue is empty.
+Frame: 2408
+Queue is empty.
+Frame: 2409
+Queue is empty.
+Frame: 2410
+Queue is empty.
+Frame: 2411
+Queue is empty.
+Frame: 2412
+Queue is empty.
+Frame: 2413
+Queue is empty.
+Frame: 2414
+Queue is empty.
+Frame: 2415
+Queue is empty.
+Frame: 2416
+Queue is empty.
+Frame: 2417
+Queue is empty.
+Frame: 2418
+Queue is empty.
+Frame: 2419
+Queue is empty.
+Frame: 2420
+Queue is empty.
+Frame: 2421
+Queue is empty.
+Frame: 2422
+Queue is empty.
+Frame: 2423
+Queue is empty.
+Frame: 2424
+Queue is empty.
+Frame: 2425
+Queue is empty.
+Frame: 2426
+Queue is empty.
+Frame: 2427
+Queue is empty.
+Frame: 2428
+Queue is empty.
+Frame: 2429
+Queue is empty.
+Frame: 2430
+Queue is empty.
+Frame: 2431
+Queue is empty.
+Frame: 2432
+Queue is empty.
+Frame: 2433
+Queue is empty.
+Frame: 2434
+Queue is empty.
+Frame: 2435
+Queue is empty.
+Frame: 2436
+Queue is empty.
+Frame: 2437
+Queue is empty.
+Frame: 2438
+Queue is empty.
+Frame: 2439
+Queue is empty.
+Frame: 2440
+Queue is empty.
+Frame: 2441
+Queue is empty.
+Frame: 2442
+Queue is empty.
+Frame: 2443
+Queue is empty.
+Frame: 2444
+Queue is empty.
+Frame: 2445
+Queue is empty.
+Frame: 2446
+Queue is empty.
+Frame: 2447
+Queue is empty.
+Frame: 2448
+Queue is empty.
+Frame: 2449
+Queue is empty.
+Frame: 2450
+Queue is empty.
+Frame: 2451
+Queue is empty.
+Frame: 2452
+Queue is empty.
+Frame: 2453
+Queue is empty.
+Frame: 2454
+Queue is empty.
+Frame: 2455
+Queue is empty.
+Frame: 2456
+Queue is empty.
+Frame: 2457
+Queue is empty.
+Frame: 2458
+Queue is empty.
+Frame: 2459
+Queue is empty.
+Frame: 2460
+Queue is empty.
+Frame: 2461
+Queue is empty.
+Frame: 2462
+Queue is empty.
+Frame: 2463
+Queue is empty.
+Frame: 2464
+Queue is empty.
+Frame: 2465
+Queue is empty.
+Frame: 2466
+Queue is empty.
+Frame: 2467
+Queue is empty.
+Frame: 2468
+Queue is empty.
+Frame: 2469
+Queue is empty.
+Frame: 2470
+Queue is empty.
+Frame: 2471
+Queue is empty.
+Frame: 2472
+Queue is empty.
+Frame: 2473
+Queue is empty.
+Frame: 2474
+Queue is empty.
+Frame: 2475
+Queue is empty.
+Frame: 2476
+Queue is empty.
+Frame: 2477
+Queue is empty.
+Frame: 2478
+Queue is empty.
+Frame: 2479
+Queue is empty.
+Frame: 2480
+Queue is empty.
+Frame: 2481
+Queue is empty.
+Frame: 2482
+Queue is empty.
+Frame: 2483
+Queue is empty.
+Frame: 2484
+Queue is empty.
+Frame: 2485
+Queue is empty.
+Frame: 2486
+Queue is empty.
+Frame: 2487
+Queue is empty.
+Frame: 2488
+Queue is empty.
+Frame: 2489
+Queue is empty.
+Frame: 2490
+Queue is empty.
+Frame: 2491
+Queue is empty.
+Frame: 2492
+Queue is empty.
+Frame: 2493
+Queue is empty.
+Frame: 2494
+Queue is empty.
+Frame: 2495
+Queue is empty.
+Frame: 2496
+Queue is empty.
+Frame: 2497
+Queue is empty.
+Frame: 2498
+Queue is empty.
+Frame: 2499
+Queue is empty.
+Frame: 2500
+Queue is empty.
+Frame: 2501
+Queue is empty.
+Frame: 2502
+Queue is empty.
+Frame: 2503
+Queue is empty.
+Frame: 2504
+Queue is empty.
+Frame: 2505
+Queue is empty.
+Frame: 2506
+Queue is empty.
+Frame: 2507
+Queue is empty.
+Frame: 2508
+Queue is empty.
+Frame: 2509
+Queue is empty.
+Frame: 2510
+Queue is empty.
+Frame: 2511
+Queue is empty.
+Frame: 2512
+Queue is empty.
+Frame: 2513
+Queue is empty.
+Frame: 2514
+Queue is empty.
+Frame: 2515
+Queue is empty.
+Frame: 2516
+Queue is empty.
+Frame: 2517
+Queue is empty.
+Frame: 2518
+Queue is empty.
+Frame: 2519
+Queue is empty.
+Frame: 2520
+Queue is empty.
+Frame: 2521
+Queue is empty.
+Frame: 2522
+Queue is empty.
+Frame: 2523
+Queue is empty.
+Frame: 2524
+Queue is empty.
+Frame: 2525
+Queue is empty.
+Frame: 2526
+Queue is empty.
+Frame: 2527
+Queue is empty.
+Frame: 2528
+Queue is empty.
+Frame: 2529
+Queue is empty.
+Frame: 2530
+Queue is empty.
+Frame: 2531
+Queue is empty.
+Frame: 2532
+Queue is empty.
+Frame: 2533
+Queue is empty.
+Frame: 2534
+Queue is empty.
+Frame: 2535
+Queue is empty.
+Frame: 2536
+Queue is empty.
+Frame: 2537
+Queue is empty.
+Frame: 2538
+Queue is empty.
+Frame: 2539
+Queue is empty.
+Frame: 2540
+Queue is empty.
+Frame: 2541
+Queue is empty.
+Frame: 2542
+Queue is empty.
+Frame: 2543
+Queue is empty.
+Frame: 2544
+Queue is empty.
+Frame: 2545
+Queue is empty.
+Frame: 2546
+Queue is empty.
+Frame: 2547
+Queue is empty.
+Frame: 2548
+Queue is empty.
+Frame: 2549
+Queue is empty.
+Frame: 2550
+Queue is empty.
+Frame: 2551
+Queue is empty.
+Frame: 2552
+Queue is empty.
+Frame: 2553
+Queue is empty.
+Frame: 2554
+Queue is empty.
+Frame: 2555
+Queue is empty.
+Frame: 2556
+Queue is empty.
+Frame: 2557
+Queue is empty.
+Frame: 2558
+Queue is empty.
+Frame: 2559
+Queue is empty.
+Frame: 2560
+Queue is empty.
+Frame: 2561
+Queue is empty.
+Frame: 2562
+Queue is empty.
+Frame: 2563
+Queue is empty.
+Frame: 2564
+Queue is empty.
+Frame: 2565
+Queue is empty.
+Frame: 2566
+Queue is empty.
+Frame: 2567
+Queue is empty.
+Frame: 2568
+Queue is empty.
+Frame: 2569
+Queue is empty.
+Frame: 2570
+Queue is empty.
+Frame: 2571
+Queue is empty.
+Frame: 2572
+Queue is empty.
+Frame: 2573
+Queue is empty.
+Frame: 2574
+Queue is empty.
+Frame: 2575
+Queue is empty.
+Frame: 2576
+Queue is empty.
+Frame: 2577
+Queue is empty.
+Frame: 2578
+Queue is empty.
+Frame: 2579
+Queue is empty.
+Frame: 2580
+Queue is empty.
+Frame: 2581
+Queue is empty.
+Frame: 2582
+Queue is empty.
+Frame: 2583
+Queue is empty.
+Frame: 2584
+Queue is empty.
+Frame: 2585
+Queue is empty.
+Frame: 2586
+Queue is empty.
+Frame: 2587
+Queue is empty.
+Frame: 2588
+Queue is empty.
+Frame: 2589
+Queue is empty.
+Frame: 2590
+Queue is empty.
+Frame: 2591
+Queue is empty.
+Frame: 2592
+Queue is empty.
+Frame: 2593
+Queue is empty.
+Frame: 2594
+Queue is empty.
+Frame: 2595
+Queue is empty.
+Frame: 2596
+Queue is empty.
+Frame: 2597
+Queue is empty.
+Frame: 2598
+Queue is empty.
+Frame: 2599
+Queue is empty.
+Frame: 2600
+Queue is empty.
+Frame: 2601
+Queue is empty.
+Frame: 2602
+Queue is empty.
+Frame: 2603
+Queue is empty.
+Frame: 2604
+Queue is empty.
+Frame: 2605
+Queue is empty.
+Frame: 2606
+Queue is empty.
+Frame: 2607
+Queue is empty.
+Frame: 2608
+Queue is empty.
+Frame: 2609
+Queue is empty.
+Frame: 2610
+Queue is empty.
+Frame: 2611
+Queue is empty.
+Frame: 2612
+Queue is empty.
+Frame: 2613
+Queue is empty.
+Frame: 2614
+Queue is empty.
+Frame: 2615
+Queue is empty.
+Frame: 2616
+Queue is empty.
+Frame: 2617
+Queue is empty.
+Frame: 2618
+Queue is empty.
+Frame: 2619
+Queue is empty.
+Frame: 2620
+Queue is empty.
+Frame: 2621
+Queue is empty.
+Frame: 2622
+Queue is empty.
+Frame: 2623
+Queue is empty.
+Frame: 2624
+Queue is empty.
+Frame: 2625
+Queue is empty.
+Frame: 2626
+Queue is empty.
+Frame: 2627
+Queue is empty.
+Frame: 2628
+Queue is empty.
+Frame: 2629
+Queue is empty.
+Frame: 2630
+Queue is empty.
+Frame: 2631
+Queue is empty.
+Frame: 2632
+Queue is empty.
+Frame: 2633
+Queue is empty.
+Frame: 2634
+Queue is empty.
+Frame: 2635
+Queue is empty.
+Frame: 2636
+Queue is empty.
+Frame: 2637
+Queue is empty.
+Frame: 2638
+Queue is empty.
+Frame: 2639
+Queue is empty.
+Frame: 2640
+Queue is empty.
+Frame: 2641
+Queue is empty.
+Frame: 2642
+Queue is empty.
+Frame: 2643
+Queue is empty.
+Frame: 2644
+Queue is empty.
+Frame: 2645
+Queue is empty.
+Frame: 2646
+Queue is empty.
+Frame: 2647
+Queue is empty.
+Frame: 2648
+Queue is empty.
+Frame: 2649
+Queue is empty.
+Frame: 2650
+Queue is empty.
+Frame: 2651
+Queue is empty.
+Frame: 2652
+Queue is empty.
+Frame: 2653
+Queue is empty.
+Frame: 2654
+Queue is empty.
+Frame: 2655
+Queue is empty.
+Frame: 2656
+Queue is empty.
+Frame: 2657
+Queue is empty.
+Frame: 2658
+Queue is empty.
+Frame: 2659
+Queue is empty.
+Frame: 2660
+Queue is empty.
+Frame: 2661
+Queue is empty.
+Frame: 2662
+Queue is empty.
+Frame: 2663
+Queue is empty.
+Frame: 2664
+Queue is empty.
+Frame: 2665
+Queue is empty.
+Frame: 2666
+Queue is empty.
+Frame: 2667
+Queue is empty.
+Frame: 2668
+Queue is empty.
+Frame: 2669
+Queue is empty.
+Frame: 2670
+Queue is empty.
+Frame: 2671
+Queue is empty.
+Frame: 2672
+Queue is empty.
+Frame: 2673
+Queue is empty.
+Frame: 2674
+Queue is empty.
+Frame: 2675
+Queue is empty.
+Frame: 2676
+Queue is empty.
+Frame: 2677
+Queue is empty.
+Frame: 2678
+Queue is empty.
+Frame: 2679
+Queue is empty.
+Frame: 2680
+Queue is empty.
+Frame: 2681
+Queue is empty.
+Frame: 2682
+Queue is empty.
+Frame: 2683
+Queue is empty.
+Frame: 2684
+Queue is empty.
+Frame: 2685
+Queue is empty.
+Frame: 2686
+Queue is empty.
+Frame: 2687
+Queue is empty.
+Frame: 2688
+Queue is empty.
+Frame: 2689
+Queue is empty.
+Frame: 2690
+Queue is empty.
+Frame: 2691
+Queue is empty.
+Frame: 2692
+Queue is empty.
+Frame: 2693
+Queue is empty.
+Frame: 2694
+Queue is empty.
+Frame: 2695
+Queue is empty.
+Frame: 2696
+Queue is empty.
+Frame: 2697
+Queue is empty.
+Frame: 2698
+Queue is empty.
+Frame: 2699
+Queue is empty.
+Frame: 2700
+Queue is empty.
+Frame: 2701
+Queue is empty.
+Frame: 2702
+Queue is empty.
+Frame: 2703
+Queue is empty.
+Frame: 2704
+Queue is empty.
+Frame: 2705
+Queue is empty.
+Frame: 2706
+Queue is empty.
+Frame: 2707
+Queue is empty.
+Frame: 2708
+Queue is empty.
+Frame: 2709
+Queue is empty.
+Frame: 2710
+Queue is empty.
+Frame: 2711
+Queue is empty.
+Frame: 2712
+Queue is empty.
+Frame: 2713
+Queue is empty.
+Frame: 2714
+Queue is empty.
+Frame: 2715
+Queue is empty.
+Frame: 2716
+Queue is empty.
+Frame: 2717
+Queue is empty.
+Frame: 2718
+Queue is empty.
+Frame: 2719
+Queue is empty.
+Frame: 2720
+Queue is empty.
+Frame: 2721
+Queue is empty.
+Frame: 2722
+Queue is empty.
+Frame: 2723
+Queue is empty.
+Frame: 2724
+Queue is empty.
+Frame: 2725
+Queue is empty.
+Frame: 2726
+Queue is empty.
+Frame: 2727
+Queue is empty.
+Frame: 2728
+Queue is empty.
+Frame: 2729
+Queue is empty.
+Frame: 2730
+Queue is empty.
+Frame: 2731
+Queue is empty.
+Frame: 2732
+Queue is empty.
+Frame: 2733
+Queue is empty.
+Frame: 2734
+Queue is empty.
+Frame: 2735
+Queue is empty.
+Frame: 2736
+Queue is empty.
+Frame: 2737
+Queue is empty.
+Frame: 2738
+Queue is empty.
+Frame: 2739
+Queue is empty.
+Frame: 2740
+Queue is empty.
+Frame: 2741
+Queue is empty.
+Frame: 2742
+Queue is empty.
+Frame: 2743
+Queue is empty.
+Frame: 2744
+Queue is empty.
+Frame: 2745
+Queue is empty.
+Frame: 2746
+Queue is empty.
+Frame: 2747
+Queue is empty.
+Frame: 2748
+Queue is empty.
+Frame: 2749
+Queue is empty.
+Frame: 2750
+Queue is empty.
+Frame: 2751
+Queue is empty.
+Frame: 2752
+Queue is empty.
+Frame: 2753
+Queue is empty.
+Frame: 2754
+Queue is empty.
+Frame: 2755
+Queue is empty.
+Frame: 2756
+Queue is empty.
+Frame: 2757
+Queue is empty.
+Frame: 2758
+Queue is empty.
+Frame: 2759
+Queue is empty.
+Frame: 2760
+Queue is empty.
+Frame: 2761
+Queue is empty.
+Frame: 2762
+Queue is empty.
+Frame: 2763
+Queue is empty.
+Frame: 2764
+Queue is empty.
+Frame: 2765
+Queue is empty.
+Frame: 2766
+Queue is empty.
+Frame: 2767
+Queue is empty.
+Frame: 2768
+Queue is empty.
+Frame: 2769
+Queue is empty.
+Frame: 2770
+Queue is empty.
+Frame: 2771
+Queue is empty.
+Frame: 2772
+Queue is empty.
+Frame: 2773
+Queue is empty.
+Frame: 2774
+Queue is empty.
+Frame: 2775
+Queue is empty.
+Frame: 2776
+Queue is empty.
+Frame: 2777
+Queue is empty.
+Frame: 2778
+Queue is empty.
+Frame: 2779
+Queue is empty.
+Frame: 2780
+Queue is empty.
+Frame: 2781
+Queue is empty.
+Frame: 2782
+Queue is empty.
+Frame: 2783
+Queue is empty.
+Frame: 2784
+Queue is empty.
+Frame: 2785
+Queue is empty.
+Frame: 2786
+Queue is empty.
+Frame: 2787
+Queue is empty.
+Frame: 2788
+Queue is empty.
+Frame: 2789
+Queue is empty.
+Frame: 2790
+Queue is empty.
+Frame: 2791
+Queue is empty.
+Frame: 2792
+Queue is empty.
+Frame: 2793
+Queue is empty.
+Frame: 2794
+Queue is empty.
+Frame: 2795
+Queue is empty.
+Frame: 2796
+Queue is empty.
+Frame: 2797
+Queue is empty.
+Frame: 2798
+Queue is empty.
+Frame: 2799
+Queue is empty.
+Frame: 2800
+Queue is empty.
+Frame: 2801
+Queue is empty.
+Frame: 2802
+Queue is empty.
+Frame: 2803
+Queue is empty.
+Frame: 2804
+Queue is empty.
+Frame: 2805
+Queue is empty.
+Frame: 2806
+Queue is empty.
+Frame: 2807
+Queue is empty.
+Frame: 2808
+Queue is empty.
+Frame: 2809
+Queue is empty.
+Frame: 2810
+Queue is empty.
+Frame: 2811
+Queue is empty.
+Frame: 2812
+Queue is empty.
+Frame: 2813
+Queue is empty.
+Frame: 2814
+Queue is empty.
+Frame: 2815
+Queue is empty.
+Frame: 2816
+Queue is empty.
+Frame: 2817
+Queue is empty.
+Frame: 2818
+Queue is empty.
+Frame: 2819
+Queue is empty.
+Frame: 2820
+Queue is empty.
+Frame: 2821
+Queue is empty.
+Frame: 2822
+Queue is empty.
+Frame: 2823
+Queue is empty.
+Frame: 2824
+Queue is empty.
+Frame: 2825
+Queue is empty.
+Frame: 2826
+Queue is empty.
+Frame: 2827
+Queue is empty.
+Frame: 2828
+Queue is empty.
+Frame: 2829
+Queue is empty.
+Frame: 2830
+Queue is empty.
+Frame: 2831
+Queue is empty.
+Frame: 2832
+Queue is empty.
+Frame: 2833
+Queue is empty.
+Frame: 2834
+Queue is empty.
+Frame: 2835
+Queue is empty.
+Frame: 2836
+Queue is empty.
+Frame: 2837
+Queue is empty.
+Frame: 2838
+Queue is empty.
+Frame: 2839
+Queue is empty.
+Frame: 2840
+Queue is empty.
+Frame: 2841
+Queue is empty.
+Frame: 2842
+Queue is empty.
+Frame: 2843
+Queue is empty.
+Frame: 2844
+Queue is empty.
+Frame: 2845
+Queue is empty.
+Frame: 2846
+Queue is empty.
+Frame: 2847
+Queue is empty.
+Frame: 2848
+Queue is empty.
+Frame: 2849
+Queue is empty.
+Frame: 2850
+Queue is empty.
+Frame: 2851
+Queue is empty.
+Frame: 2852
+Queue is empty.
+Frame: 2853
+Queue is empty.
+Frame: 2854
+Queue is empty.
+Frame: 2855
+Queue is empty.
+Frame: 2856
+Queue is empty.
+Frame: 2857
+Queue is empty.
+Frame: 2858
+Queue is empty.
+Frame: 2859
+Queue is empty.
+Frame: 2860
+Queue is empty.
+Frame: 2861
+Queue is empty.
+Frame: 2862
+Queue is empty.
+Frame: 2863
+Queue is empty.
+Frame: 2864
+Queue is empty.
+Frame: 2865
+Queue is empty.
+Frame: 2866
+Queue is empty.
+Frame: 2867
+Queue is empty.
+Frame: 2868
+Queue is empty.
+Frame: 2869
+Queue is empty.
+Frame: 2870
+Queue is empty.
+Frame: 2871
+Queue is empty.
+Frame: 2872
+Queue is empty.
+Frame: 2873
+Queue is empty.
+Frame: 2874
+Queue is empty.
+Frame: 2875
+Queue is empty.
+Frame: 2876
+Queue is empty.
+Frame: 2877
+Queue is empty.
+Frame: 2878
+Queue is empty.
+Frame: 2879
+Queue is empty.
+Frame: 2880
+Queue is empty.
+Frame: 2881
+Queue is empty.
+Frame: 2882
+Queue is empty.
+Frame: 2883
+Queue is empty.
+Frame: 2884
+Queue is empty.
+Frame: 2885
+Queue is empty.
+Frame: 2886
+Queue is empty.
+Frame: 2887
+Queue is empty.
+Frame: 2888
+Queue is empty.
+Frame: 2889
+Queue is empty.
+Frame: 2890
+Queue is empty.
+Frame: 2891
+Queue is empty.
+Frame: 2892
+Queue is empty.
+Frame: 2893
+Queue is empty.
+Frame: 2894
+Queue is empty.
+Frame: 2895
+Queue is empty.
+Frame: 2896
+Queue is empty.
+Frame: 2897
+Queue is empty.
+Frame: 2898
+Queue is empty.
+Frame: 2899
+Queue is empty.
+Frame: 2900
+Queue is empty.
+Frame: 2901
+Queue is empty.
+Frame: 2902
+Queue is empty.
+Frame: 2903
+Queue is empty.
+Frame: 2904
+Queue is empty.
+Frame: 2905
+Queue is empty.
+Frame: 2906
+Queue is empty.
+Frame: 2907
+Queue is empty.
+Frame: 2908
+Queue is empty.
+Frame: 2909
+Queue is empty.
+Frame: 2910
+Queue is empty.
+Frame: 2911
+Queue is empty.
+Frame: 2912
+Queue is empty.
+Frame: 2913
+Queue is empty.
+Frame: 2914
+Queue is empty.
+Frame: 2915
+Queue is empty.
+Frame: 2916
+Queue is empty.
+Frame: 2917
+Queue is empty.
+Frame: 2918
+Queue is empty.
+Frame: 2919
+Queue is empty.
+Frame: 2920
+Queue is empty.
+Frame: 2921
+Queue is empty.
+Frame: 2922
+Queue is empty.
+Frame: 2923
+Queue is empty.
+Frame: 2924
+Queue is empty.
+Frame: 2925
+Queue is empty.
+Frame: 2926
+Queue is empty.
+Frame: 2927
+Queue is empty.
+Frame: 2928
+Queue is empty.
+Frame: 2929
+Queue is empty.
+Frame: 2930
+Queue is empty.
+Frame: 2931
+Queue is empty.
+Frame: 2932
+Queue is empty.
+Frame: 2933
+Queue is empty.
+Frame: 2934
+Queue is empty.
+Frame: 2935
+Queue is empty.
+Frame: 2936
+Queue is empty.
+Frame: 2937
+Queue is empty.
+Frame: 2938
+Queue is empty.
+Frame: 2939
+Queue is empty.
+Frame: 2940
+Queue is empty.
+Frame: 2941
+Queue is empty.
+Frame: 2942
+Queue is empty.
+Frame: 2943
+Queue is empty.
+Frame: 2944
+Queue is empty.
+Frame: 2945
+Queue is empty.
+Frame: 2946
+Queue is empty.
+Frame: 2947
+Queue is empty.
+Frame: 2948
+Queue is empty.
+Frame: 2949
+Queue is empty.
+Frame: 2950
+Queue is empty.
+Frame: 2951
+Queue is empty.
+Frame: 2952
+Queue is empty.
+Frame: 2953
+Queue is empty.
+Frame: 2954
+Queue is empty.
+Frame: 2955
+Queue is empty.
+Frame: 2956
+Queue is empty.
+Frame: 2957
+Queue is empty.
+Frame: 2958
+Queue is empty.
+Frame: 2959
+Queue is empty.
+Frame: 2960
+Queue is empty.
+Frame: 2961
+Queue is empty.
+Frame: 2962
+Queue is empty.
+Frame: 2963
+Queue is empty.
+Frame: 2964
+Queue is empty.
+Frame: 2965
+Queue is empty.
+Frame: 2966
+Queue is empty.
+Frame: 2967
+Queue is empty.
